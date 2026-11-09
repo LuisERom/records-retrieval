@@ -1,0 +1,772 @@
+{
+ "entries": [
+  {
+   "date": "09/16/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "lab",
+   "summary": "Laboratory panel showed WBC 8.0, hemoglobin 14.5, glucose 80, creatinine 0.82, and elevated LDL cholesterol 135, with no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 11,
+     "quote": "Collected: 09/16/2023   Reported: 09/17/2023   Ordering: Mateo Novak, MD"
+    },
+    {
+     "page": 11,
+     "quote": "LDL cholesterol                135   <100 mg/dL"
+    }
+   ]
+  },
+  {
+   "date": "09/16/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Annual physical with no complaints, denying neck, back or joint pain and no prior right shoulder injuries; exam showed full pain-free range of motion of spine and all extremities and normal neurologic exam; assessed as general adult exam without abnormal findings, routine labs ordered, return in one year.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 129,
+     "quote": "Date of service: 09/16/2023   Provlder: Mateo Novak, MD"
+    },
+    {
+     "page": 129,
+     "quote": "53-year-old here for routine physical. Denies neck, back or joint pain."
+    },
+    {
+     "page": 129,
+     "quote": "Full range of motion of the spine and all extremities without pain."
+    }
+   ]
+  },
+  {
+   "date": "05/17/2024",
+   "provider": "EASTBRIDGE GENERAL HOSPITAL",
+   "kind": "er_visit",
+   "summary": "Restrained driver in a motor vehicle collision presented with right shoulder pain 9/10 and tenderness with reduced range of motion; she was diagnosed with right shoulder sprain, given ketorolac 30 mg IM, and discharged on ibuprofen and cyclobenzaprine with primary care follow-up in 2-3 days.",
+   "diagnosis_codes": [
+    "S43.401A",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 17,
+     "quote": "Date of service: 05/17/2024   Attending: Paula Abrams, MD"
+    },
+    {
+     "page": 17,
+     "quote": "S43.401A Unspecified sprain of right shoulder joint, initial encounter"
+    },
+    {
+     "page": 17,
+     "quote": "Ketorolac 30 mg IM given with partial relief."
+    },
+    {
+     "page": 257,
+     "quote": "Date of service: 05/17/2O24"
+    },
+    {
+     "page": 257,
+     "quote": "Y0u were seen in the Emergency Department for injuries from a motor vehicle col1ision."
+    }
+   ]
+  },
+  {
+   "date": "05/17/2024",
+   "provider": "EASTBRIDGE GENERAL HOSPITAL",
+   "kind": "imaging",
+   "summary": "Right shoulder X-ray, 2+ views, showed no acute fracture or dislocation and a small joint effusion; impression was no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 26,
+     "quote": "Exam date: 05/17/2024   Ordering: Paula Abrams, MD"
+    },
+    {
+     "page": 26,
+     "quote": "No acute fracture or dislocation. Smal1 joint effusion."
+    }
+   ]
+  },
+  {
+   "date": "05/22/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Follow-up after the 05/17/2024 MVC for persistent right shoulder pain 7/10 with tenderness and range of motion reduced about 38% (QuickDASH 45/55); assessed as right shoulder pain and referred to orthopaedics and physical therapy, with ibuprofen continued and two weeks out of work.",
+   "diagnosis_codes": [
+    "M25.511"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 12,
+     "quote": "Date of service: 05/22/2024   Provider: Mateo Novak, MD"
+    },
+    {
+     "page": 12,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen. Out of work for two"
+    },
+    {
+     "page": 13,
+     "quote": "Date of service: 05/22/2024   Provider: Mateo Novak, MD"
+    }
+   ]
+  },
+  {
+   "date": "05/30/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "PT initial evaluation for right shoulder pain after a 05/17/2024 motor vehicle collision, pain 6/10, shoulder flexion 20 deg, abduction 16 deg, ER 43 deg, QuickDASH 34/55 (62%); plan therapeutic exercise, manual therapy and electrical stimulation 3 times weekly for 8 weeks.",
+   "diagnosis_codes": [
+    "M25.511"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 149,
+     "quote": "Date of service: 05/30/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 149,
+     "quote": "Injured in a motor vehicle collision on 05/17/2024. Pain 6/10, worse with"
+    },
+    {
+     "page": 149,
+     "quote": "Therapeutic exercise, manual therapy and electrical stimulation, 3 times"
+    }
+   ]
+  },
+  {
+   "date": "06/02/2024",
+   "provider": "ATLANTIC ORTHOPAEDIC ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation for right shoulder pain after the 05/17/2024 MVC found flexion 23, abduction 50 and external rotation 43 degrees (QuickDASH 37/55); assessed as right shoulder sprain, with plan for right shoulder MRI, continued PT 3 times weekly, naproxen 500 mg twice daily, and re-evaluation after MRI.",
+   "diagnosis_codes": [
+    "S43.401A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 20,
+     "quote": "Date of service: 06/02/2024   Physician: Simone Gallo, MD"
+    },
+    {
+     "page": 20,
+     "quote": "MRI of the right shoulder. Continue physical therapy 3 times weekly. Naproxen 500 mg"
+    }
+   ]
+  },
+  {
+   "date": "06/02/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 1 with pain 7/10, shoulder flexion 56 and abduction 55 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 35,
+     "quote": "Date of service: 06/02/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 35,
+     "quote": "Visit 1 of plan of care. ROM: shoulder flexion 56 deg, shoulder abduction 55 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/04/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 2 with pain 7/10, shoulder flexion 46 deg and abduction 51 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 150,
+     "quote": "Date of service: 06/04/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 150,
+     "quote": "Visit 2 of plan of care. ROM: shoulder flcxion 46 deg, shoulder abduction"
+    }
+   ]
+  },
+  {
+   "date": "06/07/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 3 with pain 6/10 and morning stiffness, shoulder flexion 57 deg and abduction 38 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 151,
+     "quote": "Date of service: 06/07/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 151,
+     "quote": "Visit 3 of plan of care. ROM: shoulder flexion 57 deg, shoulder abduction 38"
+    }
+   ]
+  },
+  {
+   "date": "06/10/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 4 with pain 6/10, shoulder flexion 26 deg and abduction 39 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 152,
+     "quote": "Date of service: 06/10/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 152,
+     "quote": "Visit 4 of plan of care. ROM: shoulder flexion 26 deg, shoulder abduction 39 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/11/2024",
+   "provider": "Metro Open MRI",
+   "kind": "imaging",
+   "summary": "MRI of the right shoulder without contrast billed with diagnosis S46.011A; no report is included in these pages.",
+   "diagnosis_codes": [
+    "S46.011A"
+   ],
+   "procedure_codes": [
+    "73221"
+   ],
+   "citations": [
+    {
+     "page": 6,
+     "quote": "06/11/2024       11     73221       MRI right shoulder without contr  A         2,528.00"
+    },
+    {
+     "page": 259,
+     "quote": "Exam date: 06/11/2024   Referring: Simone Gallo, MD"
+    },
+    {
+     "page": 259,
+     "quote": "Partial-thickness articular-sided tear of the supraspinatus tendon."
+    }
+   ]
+  },
+  {
+   "date": "06/13/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 5 with pain 5/10 and morning stiffness, shoulder flexion 35 and abduction 53 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 37,
+     "quote": "Date of service: 06/13/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 37,
+     "quote": "Visit 5 of plan of care. ROM: shoulder flexion 35 deg, shoulder abduction 53 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/16/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 6 with pain 5/10, shoulder flexion 39 and abduction 65 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 38,
+     "quote": "Date of service: 06/16/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 38,
+     "quote": "Visit 6 of plan of care. ROM: shoulder flexion 39 deg, shoulder abduction 65 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/19/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 7 with pain 4/10, shoulder flexion 66 and abduction 26 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 39,
+     "quote": "Date of service: 06/19/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 39,
+     "quote": "Visit 7 of plan of care. ROM: shoulder flexion 66 deg, shoulder abduction 26 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/20/2024",
+   "provider": "ATLANTIC ORTHOPAEDIC ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up to review MRI showing a partial-thickness supraspinatus tear, pain 7/10, assessed with right rotator cuff strain causally related to the 05/17/2024 motor vehicle collision, QuickDASH score 30/55, with a plan to continue physical therapy.",
+   "diagnosis_codes": [
+    "S46.011A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 252,
+     "quote": "Date of service: 06/20/2024   Physician: Simone Gallo, MD"
+    },
+    {
+     "page": 252,
+     "quote": "Injuries are causally related to the motor vehicle collision of 05/17/2024."
+    }
+   ]
+  },
+  {
+   "date": "06/23/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "PT re-evaluation after 8 visits with pain decreased to 4/10, partial functional improvement, shoulder flexion 67 deg and abduction 65 deg, QuickDASH 17/55 (31%); plan continue PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 157,
+     "quote": "Date of service: 06/23/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 157,
+     "quote": "Re-evaluation after 8 visits. Pain decreased to 4/10. Partial improvement in function."
+    },
+    {
+     "page": 157,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "06/23/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 8 with pain 4/10, shoulder flexion 67 and abduction 65 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 40,
+     "quote": "Date of service: 06/23/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 40,
+     "quote": "Visit 8 of plan of care. ROM: shoulder flexion 67 deg, shoulder abduction 65 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/27/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 9 with pain 4/10, shoulder flexion 27 deg and abduction 62 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 158,
+     "quote": "Date of service: 06/27/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 158,
+     "quote": "Visit 9 of plan of care. ROM: shoulder flexion 27 deg, shoulder abduction 62 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/01/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 10 with pain 4/10 and morning stiffness, shoulder flexion 70 deg and abduction 64 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 159,
+     "quote": "Date of service: 07/01/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 159,
+     "quote": "Visit 10 of plan of care. ROM: shoulder flexion 70 deg, shoulder abduction 64 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/03/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 11 with pain 4/10 worse after work, shoulder flexion 47 deg and abduction 31 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 160,
+     "quote": "Date of service: 07/03/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 160,
+     "quote": "Visit 11 of plan of care. ROM: shoulder flexion 47 deg, shoulder abduction 31 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/07/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 12 with pain 4/10 that is worse after work, shoulder flexion 52 and abduction 62 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 45,
+     "quote": "Date of service: 07/07/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 45,
+     "quote": "Visit 12 of plan of care. ROM: shoulder flexion 52 deg, shoulder abduction 62 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/10/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 13 with pain 3/10 and daily home exercises, shoulder flexion 67 and abduction 49 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress noted.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 46,
+     "quote": "Date of service: 07/10/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 46,
+     "quote": "Visit 13 of plan of care. ROM: shoulder flexion 67 deg, shoulder abduction 49 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/14/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 14 with pain 3/10, shoulder flexion 45 deg and abduction 64 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress, continues to benefit from skilled therapy.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 47,
+     "quote": "Date of service: 07/14/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 47,
+     "quote": "Visit 14 of plan of care. ROM: shoulder flexion 45 deg, shoulder abduction 64 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/17/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 15 with pain 2/10 and morning stiffness, shoulder flexion 37 deg and abduction 45 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 48,
+     "quote": "Date of service: 07/17/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 48,
+     "quote": "Visit 15 of plan of care. ROM: shoulder flexion 37 deg, shoulder abduction 45 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/19/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 16 visits found pain decreased to 2/10 with a plateau in range of motion (shoulder flexion 38 deg, abduction 42 deg) and a QuickDASH score of 13/55, with a plan to continue therapy 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 262,
+     "quote": "Date of service: 07/19/2024   Therapist: Imran B0se, PT, DPT"
+    },
+    {
+     "page": 262,
+     "quote": "Re-evaluation after 16 visits. Pain dccreased to 2/10. Plateau in range 0f motion."
+    },
+    {
+     "page": 262,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "07/19/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 16 with pain 2/10, sleeping better, shoulder flexion 38 deg and abduction 42 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 49,
+     "quote": "Date of service: 07/19/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 49,
+     "quote": "Visit 16 of plan of care. ROM: shoulder flexion 38 deg, shoulder abduction 42 dcg."
+    }
+   ]
+  },
+  {
+   "date": "07/21/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 17 with pain 2/10 and morning stiffness, shoulder flexion 46 deg and abduction 63 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 51,
+     "quote": "Date of service: 07/21/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 51,
+     "quote": "Visit 17 of plan of care. ROM: shoulder flexion 46 deg, shoulder abduction 63 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/24/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 18 with pain 2/10, doing home exercises daily, shoulder flexion 46 deg and abduction 32 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 52,
+     "quote": "Date of service: 07/24/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 52,
+     "quote": "Visit 18 of plan of care. ROM: shoulder flexion 46 deg, shoulder abduction 32 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/26/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 19 with pain 2/10, shoulder flexion 63 deg and abduction 70 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 168,
+     "quote": "Date of service: 07/26/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 168,
+     "quote": "Visit 19 of plan of care. ROM: shoulder flexion 63 deg, shoulder"
+    }
+   ]
+  },
+  {
+   "date": "07/28/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 20 with pain 2/10, sleeping better, shoulder flexion 31 deg and abduction 45 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 54,
+     "quote": "Date of service: 07/28/2024   Therapist: Imran Bosc, PT, DPT"
+    },
+    {
+     "page": 54,
+     "quote": "Visit 20 of plan of care. ROM: shoulder flexion 31 deg, shoulder abduction 45 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/31/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 21 with pain 2/10 and daily home exercises, shoulder flexion 34 deg and abduction 33 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 170,
+     "quote": "Date of service: 07/31/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 170,
+     "quote": "Visit 21 of plan of care. ROM: shoulder flexion 34 deg, shoulder abduction"
+    }
+   ]
+  },
+  {
+   "date": "08/02/2024",
+   "provider": "Shorefront Physical Therapy",
+   "kind": "therapy_visit",
+   "summary": "PT visit 22 with pain 2/10 and morning stiffness, shoulder flexion 49 deg and abduction 29 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 56,
+     "quote": "Date of service: 08/02/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 56,
+     "quote": "Visit 22 of plan of care. ROM: shoulder flexion 49 deg, shoulder abduction 29 deg."
+    }
+   ]
+  },
+  {
+   "date": "08/06/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 23 with pain 2/10 and daily home exercises, shoulder flexion 30 deg and abduction 42 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 172,
+     "quote": "Date of service: 08/06/2024   Therapist: Imran Bose, PT, DPT"
+    },
+    {
+     "page": 172,
+     "quote": "Visit 23 of plan of care. ROM: shoulder flexion 30 deg, shoulder abduction 42"
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 5,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 70275,
+   "output_tokens": 9942,
+   "calls": 5
+  }
+ }
+}

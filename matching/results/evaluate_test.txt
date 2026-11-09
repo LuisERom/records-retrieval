@@ -1,0 +1,25 @@
+registry cache: 444 NPIs with a NY practice location, 445 practice locations, 170 distinct street addresses
+queries: handwritten  split: test  queries: 163  (of which 8 have no right record)
+| method                  | correct      | accuracy | answered | right when it answered | confidently wrong |
+|-------------------------|--------------|----------|----------|------------------------|-------------------|
+| baseline (closest name) |  121 / 163   |    74.2% |      163 |                  74.2% |                42 |
+| matcher v1              |  145 / 163   |    89.0% |      140 |                  97.9% |                 3 |
+| matcher v2              |  149 / 163   |    91.4% |      143 |                  98.6% |                 2 |
+strict, matcher v1 (a pharmacy or supplier answer never counts as right): 143 / 163 = 87.7%; confidently wrong 5; right when it answered 96.4%
+strict, matcher v2 (a pharmacy or supplier answer never counts as right): 149 / 163 = 91.4%; confidently wrong 2; right when it answered 98.6%
+matcher v2: of the 12 abstentions, the right record was ranked first in 6 (it held back because the next record scored too close)
+misses of matcher v2:
+  [ABSTAIN] q007 'NYU Pediatric GI' | '160 E 32nd St' | '10016' -> want 1831305127; top 1831305127 'NYU PEDIATRIC GASTROENTEROLOGY ASSOCIATES' @ '160 E 32ND ST 2ND FL' (score 0.956, margin 0.015)
+  [ABSTAIN] q018 'NYU PM&R Associates' | '400 E 34th St Rm 600' | '10016' -> want 1811144975; top 1619967288 'NEW YORK UNIVERSITY MEDICAL CENTER NYUMC NEUROLOGY ASSOCIATES' @ '400 E 34TH ST RR-311' (score 0.643, margin 0.019)
+  [ABSTAIN] q027 'NYU Plastic Surgery' | '530 1st Ave Ste 8Y' | '10016' -> want 1902116403; top 1447410428 'NYU PLASTIC SURGERY ASSOCIATES' @ '530 1ST AVE SUITE 8Y' (score 0.956, margin 0.026)
+  [ABSTAIN] q049 'NYU ENT Associates' | '530 1st Ave Suite 3C' | '10016' -> want 1881769065; top 1275604258 'NYU PULMONARY ASSOCIATES' @ '530 1ST AVE HCC 5E' (score 0.767, margin 0.0)
+  [ABSTAIN] q098 'NYU Langone Womens Health Center' | '159 E 53rd St' | '10022' -> want 1164943502;1902503808; top 1902503808 'NYU LANGONE WOMENS HEALTH CENTER' @ '159 E 53RD ST' (score 1.0, margin 0.039)
+  [ABSTAIN] q120 'Winthrop Hyperbaric' | '120 Mineola Blvd' | '11501' -> want 1083805089;1689039505; top 1083805089 'WINTHROP HYPERBARIC & WOUND CARE SERVICES, P.C' @ '120 MINEOLA BLVD SUITE 360' (score 0.895, margin 0.0)
+  [ABSTAIN] q140 'Winthrop ER' | '259 1st St' | '11501' -> want 1093752628; top 1033437363 'WINTHROP UNIVERSITY HOSPITAL' @ '259 1ST ST' (score 0.621, margin 0.0)
+  [ABSTAIN] q153 'Winthrop Ortho Associates' | '1300 Franklin Ave Suite UL3A' | '11530' -> want 1568858801;1972553477;1710468491; top 1568858801 'WINTHROP ORTHOPAEDIC ASSOCIATES' @ '1300 FRANKLIN AVE SUITE UL 3A & B' (score 1.0, margin 0.009)
+  [WRONG] q195 'NYU Langone Brooklyn hospital' | '150 55th Street' | '11220' -> want 1194002121;1235233859;1427426824;1538111653; top 1346614443 'NYU LANGONE HOSPITALS' @ '150 55TH ST' (score 0.865, margin 0.15)
+  [ABSTAIN] q196 'Langone Brooklyn hospital' | '' | '' -> want 1194002121;1235233859;1427426824;1538111653; top 1114925567 'NYU LANGONE HOSPITALS' @ '259 1ST STREET' (score 0.662, margin 0.0)
+  [ABSTAIN] q197 'NYU Lutheran Family Health Center' | '150 55th St' | '11220' -> want 1245635200;1831549559; top 1245635200 'NYU LUTHERAN FAMILY HEALTH CENTER QUALITYCARE GROUP' @ '150 55TH ST' (score 0.95, margin 0.016)
+  [ABSTAIN] q211 'Langone ophthalmalogy' | '530 1 Ave' | '' -> want 1801124425; top 1710139944 'NYU LANGONE MEDICAL CENTER' @ '530 1ST AVE HCC-12 ROOM 1219' (score 0.546, margin 0.009)
+  [WRONG] q215 'Perlmuter cancer center Mineola' | '120 Mineola Blvd Ste 600' | '11501' -> want 1457226144; top 1831838440 "NYU LANGONE CHILDREN'S AMBULATORY CARE CENTER - MINEOLA" @ '120 MINEOLA BLVD STE 210' (score 0.606, margin 0.306)
+  [ABSTAIN] q234 'NYU Hospital for Joint Diseases' | '' | '' -> want 1518314400;1326201575;1275632895;1912220153; top 1508279936 'NYU HOSPITAL FOR JOINT DISEASES' @ '15139 12TH AVE' (score 1.0, margin 0.0)

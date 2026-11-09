@@ -1,0 +1,1001 @@
+id,split,query_name,query_address,query_zip,expected_npi,label_method,note
+g0001,test,New York University,345 East 24th St.,,1649651506,generated_from_record,from 1649651506 at 345 E 24TH ST
+g0002,test,winthrop palliative medicine,222 Station Plz N 518,11501,1346633450,generated_from_record,from 1346633450 at 222 STATION PLZ N
+g0003,test,new york,6 Metrotech Ctr # B020,11201,1922173210,generated_from_record,from 1922173210 at 6 METROTECH CTR # B020
+g0004,test,Nyu Anesthesia Assoc,560 First Ave,10016,1952392946,generated_from_record,from 1952392946 at 560 1ST AVE
+g0005,test,NYU LANGONE URGENT CARE TELEMED,550 First Ave,10016,1568977825,generated_from_record,from 1568977825 at 550 1ST AVE
+g0006,test,WINTHROP PULMONARY ASSOCIATES PC,,11501,1821112228,generated_from_record,from 1821112228 at 222 STATION PLAZA NORTH
+g0007,test,Winthrop Uiversity Hospital,259 1st St.,11501,1447564034,generated_from_record,from 1447564034 at 259 1ST ST
+g0008,test,winthrop orthopaedic associate,1300 Franklin Ave,11530,1710468491,generated_from_record,from 1710468491 at 1300 FRANKLIN AVE STE UL3A
+g0009,test,WINTHROP HOSPITALIST ASSOC,259 First St.,,1174907547,generated_from_record,from 1174907547 at 259 1ST ST
+g0010,test,NYU LANGONE SHEPSHEAD BAY MEDICAL ASSOC,3632 Nostrand Ave Ste 3,,1760223028,generated_from_record,from 1760223028 at 3632 NOSTRAND AVE STE 3
+g0011,test,Nymc Ob/Gyn Assoc,530 1st Avenue Sk 7n,,1629068101,generated_from_record,from 1629068101 at 530 1ST AVE
+g0012,test,NYU LANGONE WINHROP,120 Mineola Blvd.,11501,1265762900,generated_from_record,from 1265762900 at 120 MINEOLA BLVD.
+g0013,test,NYU LANGONE VALLEY STREAM FAMLIY MEDICINE,70 E Sunrise Hwy,11581,1720432677,generated_from_record,from 1720432677 at 70 E SUNRISE HWY
+g0014,test,Winthrop And Hyperbaric And Wound Healing Services,120 Mineola Blvd,11501,1689039505,generated_from_record,from 1689039505 at 120 MINEOLA BLVD
+g0015,test,Nyu Orthopedic Surgery Asoc,303 Second Avenue,10003,1124078373,generated_from_record,from 1124078373 at 303 2ND AVE
+g0016,test,Cochlear Implant Associates,660 1st Avenue,10016,1851341168,generated_from_record,from 1851341168 at 660 1ST AVE
+g0017,test,Wnthrop Child Neurology,173 Mineola Boulevard Suite 101,11501,1235533993,generated_from_record,from 1235533993 at 173 MINEOLA BLVD
+g0018,test,nyu langone winthrop neuroscience,200 Old Country Road Suite 370,11501,1952796203,generated_from_record,from 1952796203 at 200 OLD COUNTRY RD
+g0019,test,Winthrop Psychiatry Group,222 Station Plz N,11501,1255798096,generated_from_record,from 1255798096 at 222 STATION PLZ N
+g0020,test,Winthrop Faculty Medical Affiliates University Facluyt Practice Corp,1300 Franklin Avenue,11530,1366801409,generated_from_record,from 1366801409 at 1300 FRANKLIN AVE
+g0021,test,Urggent Care At Nyu Lanngone Huntington Med,180 E Pulaski Rd,11746,1346732070,generated_from_record,from 1346732070 at 180 E PULASKI RD
+g0022,test,Nyu Dental Faculty Practice,Broadway Suite #350,10003,1841738960,generated_from_record,from 1841738960 at 726 BROADWAY
+g0023,test,nyu translant assoc,403 East 34th Street,10016,1518957091,generated_from_record,from 1518957091 at 403 E 34TH ST
+g0024,test,nyu langone nyumc non-invasive diagnoostic asssoc,550 First Avenue,10016,1972553139,generated_from_record,from 1972553139 at 550 1ST AVE
+g0025,test,WINTHROP FACULTY MEDICAL AFFILIATES UNIVERSITY FACULTY PRACTICE CORPOR,,11501,1952766875,generated_from_record,from 1952766875 at 222 STATION PLZ N
+g0026,test,winthrop neuro-science,200 Old Country Rd,,1104187418,generated_from_record,from 1104187418 at 200 OLD COUNTRY RD
+g0027,test,Hosptials,150 55th St,11220,1437523537,generated_from_record,from 1437523537 at 150 55TH ST
+g0028,test,HOSPITALS CTR,550 1st Avenue,10016,1598864118,generated_from_record,from 1598864118 at 550 1ST AVE
+g0029,test,Winthrop Cardiology Associates,120 Mineola Boulevard,,1245637297,generated_from_record,from 1245637297 at 120 MINEOLA BLVD
+g0030,test,Nyu Hospitals Center,550 First Avenue,10016,1598864118,generated_from_record,from 1598864118 at 550 1ST AVE
+g0031,test,Winthrop Pathology Assoc,222 Station Plz N,11501,1598727257,generated_from_record,from 1598727257 at 222 STATION PLZ N
+g0032,test,Nyu Lanngone Orthopedic Associates Midtown East,,10022,1013731843,generated_from_record,from 1013731843 at 645 MADISON AVE FL 3
+g0033,test,WINTHROP PAIN MANAGEMENT,1300 Franklin Avenue Second Floor 3a,,1063642254,generated_from_record,from 1063642254 at 1300 FRANKLIN AVE
+g0034,test,Northewll Health Physician Partners,,11201,NONE,generated_not_nyu,provider outside NYU Langone
+g0035,test,Cliniacl Neurophysioloy,,10016,1952558801,generated_from_record,from 1952558801 at 550 1ST AVE
+g0036,test,Nyu Itnernal Medicine Assoc,530 1st Ave,10016,1982883187,generated_from_record,from 1982883187 at 530 1ST AVE
+g0037,test,ekg assco,550 1st Av Hw225,10016,1679563217,generated_from_record,from 1679563217 at 550 1ST AVE
+g0038,test,NYU WOUND HEALING ASSOC,301 East 17th Street 10th Fl,,1942450804,generated_from_record,from 1942450804 at 301 E 17TH ST
+g0039,test,LUTHERAN MED CTR,514 49th St.,11220,1023182102,generated_from_record,from 1023182102 at 514 49TH ST
+g0040,test,nyu langone seaport orthopaeedics,233 Broadway Ste 620,,1023539566,generated_from_record,from 1023539566 at 233 BROADWAY STE 620
+g0041,test,Lutheran Med Center,150 55th St.,11220,1194002121,generated_from_record,from 1194002121 at 150 55TH ST
+g0042,test,WINTHROP INFECTIOUS DISEASE ASSOCIATES PC,222 Station Plz North,11501,1285905703,generated_from_record,from 1285905703 at 222 STATION PLZ N
+g0043,test,Caribbean American Fmily Center,3414 Church Avenue,11203,1992812317,generated_from_record,from 1992812317 at 3414 CHURCH AVE
+g0044,test,Nyu,2 Tudor City Place Apt 3en,10017,1568638823,generated_from_record,from 1568638823 at 2 TUDOR CITY PLACE APT 3EN
+g0045,test,WINTHROP UNIVERSITY HOSP,222 Station Plz North Ste 618,,1932383882,generated_from_record,from 1932383882 at 222 STATION PLZ N STE 618
+g0046,test,NYU PEDIATRIC SURGERY ASSOC,530 1st Avenue,10016,1407807753,generated_from_record,from 1407807753 at 530 1ST AVE
+g0047,test,NYU LANGONE MEDICAL CTR,550 First Av,10016,1154770576,generated_from_record,from 1154770576 at 550 1ST AVE
+g0048,test,NYU MOBIILE HEALTH VAN PROGRAM,726 Broadway,10003,1346545951,generated_from_record,from 1346545951 at 726 BROADWAY
+g0049,test,Nassau Surgical Assoc,300 Old Country Road Suite 101,,1649651498,generated_from_record,from 1649651498 at 300 OLD COUNTRY RD
+g0050,test,WINTHROP RHEUMATOLOGY ALLERGY AND IMMUNOLOGY PC,120 Mineola Boulevard Suite 410,11501,1376898791,generated_from_record,from 1376898791 at 120 MINEOLA BLVD
+g0051,test,Nyu Lngone Hospitlas,301 E. 17th St.,10003,1275632895,generated_from_record,from 1275632895 at 301 E 17TH ST
+g0052,test,Nyu Langone Med Associates - Patchogue,100 Hospital Road,11772,1891429858,generated_from_record,from 1891429858 at 100 HOSPITAL RD STE 115
+g0053,test,NYUMC RADIIOLOGY ASSCO,650 1st Ave,10016,1962513101,generated_from_record,from 1962513101 at 650 1ST AVE
+g0054,test,nyu,550 First Avenue,10016,1134393911,generated_from_record,from 1134393911 at 550 1ST AVE
+g0055,test,winthrop university hospital,259 1st St. 3 Main-Neuro Pa Office,,1952578577,generated_from_record,from 1952578577 at 259 1ST ST
+g0056,test,Nyu Transplant Associates,403 E. 34th St 3rd Fl,,1518957091,generated_from_record,from 1518957091 at 403 E 34TH ST
+g0057,test,East End Cardiology,,11901,1578934071,generated_from_record,from 1578934071 at 1279 E MAIN ST
+g0058,test,HOSPITALS CENTRE,1 Park Av,10016,1780520197,generated_from_record,from 1780520197 at 1 PARK AVE
+g0059,test,NYULANGOONEMEDICALCENTER,,,1780138974,generated_from_record,from 1780138974 at 462 1ST AVE
+g0060,test,Winthrop University Hospital Ekg,259 First St.,11501,1629011911,generated_from_record,from 1629011911 at 259 1ST ST
+g0061,test,NYU LANGONE ADVANCED ORTHO SPECIALISTS,2000 North Village Ave,11570,1497113989,generated_from_record,from 1497113989 at 2000 N VILLAGE AVE
+g0062,test,nyu colleege of nursing faculty,345 E 24th Street,10010,1306906425,generated_from_record,from 1306906425 at 345 EAST 24TH STREET
+g0063,test,Nyu Langone Hospitals,160 East 34th St.,10016,1437230034,generated_from_record,from 1437230034 at 160 E 34TH ST
+g0064,test,Kings County Hospital,1067 Court St,10021,NONE,generated_not_nyu,provider outside NYU Langone
+g0065,test,nyu langone hosp long island center for family dental mediciine,200 Old Country Rd,11501,1558942060,generated_from_record,from 1558942060 at 200 OLD COUNTRY RD STE 460
+g0066,test,nyu langone med center,660 1st Av,10016,1730448317,generated_from_record,from 1730448317 at 660 1ST AVE
+g0067,test,NYU LANGONE WINTHROP PEDIARIC ASSOCIATES,222 Station Plz N,,1952325367,generated_from_record,from 1952325367 at 222 STATION PLZ N
+g0068,test,MEDIACL CENTER,462 1st Avenue,10016,1215064993,generated_from_record,from 1215064993 at 462 1ST AVE
+g0069,test,CARDIOLOGY ASSOCIATES - STATEN ISLAND,5091 Amboy Road,,1720484017,generated_from_record,from 1720484017 at 5091 AMBOY RD
+g0070,test,nyu general internal medicine assoc,550 First Av,10016,1487758082,generated_from_record,from 1487758082 at 550 1ST AVE
+g0071,test,Winthrop Palliative Medicine,222 Station Plz N 518,11501,1346633450,generated_from_record,from 1346633450 at 222 STATION PLZ N
+g0072,test,winthrop faculty med affiliates university faculty practice corpor,1300 Franklin Avenue,11530,1568858801,generated_from_record,from 1568858801 at 1300 FRANKLIN AVE
+g0073,test,lutheran medical ctr,150 55th St Lutheran Medical Center-Department Of Family Medicine,11220,1497043673,generated_from_record,"from 1497043673 at 150, 55TH STREET"
+g0074,test,Winthrop Pediatric Assoc,222 Station Plz North,11501,1902200041,generated_from_record,from 1902200041 at 222 STATION PLZ N
+g0075,test,Orthopedic Assoc - Hauppauge,,11788,1790478725,generated_from_record,from 1790478725 at 517 ROUTE 111 STE 3B
+g0076,test,Nyuhjd Fgp Rehab Practice 4Th Floor,301 E. 17th Street,10003,1710409180,generated_from_record,from 1710409180 at 301 E 17TH ST
+g0077,test,New York University Hosp Ctr,560 1st Ave,,1316158884,generated_from_record,from 1316158884 at 560 1ST AVE
+g0078,test,WINHOP RHEUMATOLOGY ALLERGY,120 Mineola Blvd,,1376898791,generated_from_record,from 1376898791 at 120 MINEOLA BLVD
+g0079,test,Mount Sinai Doctrs,10 Kings Hwy,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0080,test,Nyu Emergency,550 1st Avenue,,1306837398,generated_from_record,from 1306837398 at 550 1ST AVE
+g0081,test,Nyu Child Study Center,577 First Av,10016,1063698439,generated_from_record,from 1063698439 at 577 1ST AVE
+g0082,test,Nyulangonemedicaclenter,462 1st Av Nbv-8S3,,1780138974,generated_from_record,from 1780138974 at 462 1ST AVE
+g0083,test,Nyu Langone Winthrop Internal Medicne Assoc,222 Station Plz N,11501,1861471831,generated_from_record,from 1861471831 at 222 STATION PLZ N
+g0084,test,nyu sleep,,10016-3035,1689665697,generated_from_record,from 1689665697 at 462 1ST AVE
+g0085,test,Nyu Hudson Vallley,1985 Crompond Rd,,1881987246,generated_from_record,from 1881987246 at 1985 CROMPOND RD
+g0086,test,Nyuhospital For Joinnt Diseases,301 E. 17th Street,,1518314400,generated_from_record,from 1518314400 at 301 E 17TH ST
+g0087,test,Maimonides Medical Center,1816 Ocean Pkwy,11203,NONE,generated_not_nyu,provider outside NYU Langone
+g0088,test,NYU MEDICCAL CENTER,32 Primrose Ln,,1720297658,generated_from_record,from 1720297658 at 32 PRIMROSE LN
+g0089,test,Lutheran Medical Ctr-Nes,150 55th Street Station 3-03,11220,1891112868,generated_from_record,from 1891112868 at 150 55TH STREET STATION 3-03
+g0090,test,Family Medicnie,,11704-3545,1245774777,generated_from_record,from 1245774777 at 580 SUNRISE HWY
+g0091,test,winthorp unievrsity hospital,259 1st St.,,1447564034,generated_from_record,from 1447564034 at 259 1ST ST
+g0092,test,nyu general surgery associates,530 First Av,,1306093257,generated_from_record,from 1306093257 at 530 1ST AVE
+g0093,test,nyu langoen hospitals,259 1st St,11501,1114925567,generated_from_record,from 1114925567 at 259 1ST STREET
+g0094,test,nyu pediatric medicine associates,550 First Av,10016-5342,1740496033,generated_from_record,from 1740496033 at 550 1ST AVE
+g0095,test,lutheran meidcal center,514 49th St,11220,1023182102,generated_from_record,from 1023182102 at 514 49TH ST
+g0096,test,Nyu Urology Associates,150 E 32nd St 2nd Floor,10016,1275583452,generated_from_record,from 1275583452 at 150 E 32ND ST
+g0097,test,Nyu Lutheran,150 55th St,11220,1811936529,generated_from_record,from 1811936529 at 150 55TH ST
+g0098,test,NYU GENERAL SURGERY ASSOCIATES,530 First Avenue,,1306093257,generated_from_record,from 1306093257 at 530 1ST AVE
+g0099,test,Winthrrop Infectious Disease,222 Station Plz N,11501,1447215652,generated_from_record,from 1447215652 at 222 STATION PLZ N
+g0100,test,Mount Siai Hospital,1818 Amsterdam Ave,10011,NONE,generated_not_nyu,provider outside NYU Langone
+g0101,test,hospitasl,150 55th St.,11220,1619341716,generated_from_record,from 1619341716 at 150 55TH ST
+g0102,test,NYU LANGONE AMBULATORY CARE COMMAKC,167 Veterans Memorial Hwy,11725,1144105214,generated_from_record,from 1144105214 at 167 VETERANS MEMORIAL HWY
+g0103,test,lutheran med ctr,,11220,1194002121,generated_from_record,from 1194002121 at 150 55TH ST
+g0104,test,NYU LUTHREAN,150 55th St,11220,1427426824,generated_from_record,from 1427426824 at 150 55TH ST
+g0105,test,Winthrop Infectiuos Disease Associates,222 Station Plz North Suite 432,11501,1669878609,generated_from_record,from 1669878609 at 222 STATION PLZ N
+g0106,test,"Wnthrop Ortopaedic Associates, Pc",1300 Franklin Ave Suite Ul3A,11530,1972553477,generated_from_record,from 1972553477 at 1300 FRANKLIN AVE
+g0107,test,Nyu Langone Winthrop Radiology Associates Pc,,11501,1114960853,generated_from_record,from 1114960853 at 259 1ST ST
+g0108,test,MEDHATTAN URGENT CARE,111 Broadway,10006,1629443122,generated_from_record,from 1629443122 at 111 BROADWAY FL 2
+g0109,test,Lutheran Medical Center,55th St.,11220,1154644292,generated_from_record,from 1154644292 at 150 55TH ST
+g0110,test,Womeen'S Contemporary Care,120 Mineola Boulevard,11501,1639572589,generated_from_record,from 1639572589 at 120 MINEOLA BLVD
+g0111,test,hosp for,301 E. 17th St,,1326201575,generated_from_record,from 1326201575 at 301 E 17TH ST
+g0112,test,CityMD Urgent Care,1024 Ocean Pkwy,,NONE,generated_not_nyu,provider outside NYU Langone
+g0113,test,nyu langone podiatry asosciates - brooklyn,Ave P Lowr Level,11229,1972028827,generated_from_record,from 1972028827 at 1309 AVENUE P LOWR LEVEL
+g0114,test,NYU LANOGONE MEDICAL CENTER,60 Monitor Street #3C,11222,1154737120,generated_from_record,from 1154737120 at 60 MONITOR ST
+g0115,test,winthrop university hospital,Station Plz N,,1932383882,generated_from_record,from 1932383882 at 222 STATION PLZ N STE 618
+g0116,test,NYU LNAGONE,550 First Ave,10016,1023450996,generated_from_record,from 1023450996 at 550 1ST AVE
+g0117,test,hemattologgy assoc,160 E. 34th Street 7th Fl,10016,1245346501,generated_from_record,from 1245346501 at 160 E 34TH ST
+g0118,test,Nyu Pulmonary Associates,530 First Avenue Hcc 5e,10016,1275604258,generated_from_record,from 1275604258 at 530 1ST AVE
+g0119,test,Nyu Langone Preston Robert Ticsh Ctr For Men'S Health,555 Madison Av,10022,1174044721,generated_from_record,from 1174044721 at 555 MADISON AVE
+g0120,test,nyu lutheran family health center qualitycare group,150 55th St.,11220,1245635200,generated_from_record,from 1245635200 at 150 55TH ST
+g0121,test,Winthrop Community Medical Affiliates Pc,Sills Rd,,1225408321,generated_from_record,from 1225408321 at 285 SILLS RD
+g0122,test,winthrop griatric medicine assooc pc,222 Station Plz N,11501,1174882625,generated_from_record,from 1174882625 at 222 STATION PLZ N
+g0123,test,Nyu Lanngone Winthrop Infectious Disease Assoc,222 Station Plz N,11501,1447215652,generated_from_record,from 1447215652 at 222 STATION PLZ N
+g0124,test,Medical Asssoc,100 Hospital Rd,11772,1275256273,generated_from_record,from 1275256273 at 100 HOSPITAL RD STE 115
+g0125,test,Women'S Specialty Care,70 E. Sunrise Hwy,11581,1043679558,generated_from_record,from 1043679558 at 70 E SUNRISE HWY
+g0126,test,Numc Raidology Assoc,650 1st Avenue 8th Floor,10016,1962513101,generated_from_record,from 1962513101 at 650 1ST AVE
+g0127,test,NYU LANGONE ORTHOPAEDIC ASSOCIATES -,137 Willis Av,11501,1912428350,generated_from_record,from 1912428350 at 137 WILLIS AVE
+g0128,test,Med Ctr,660 First Avenue,,1730448317,generated_from_record,from 1730448317 at 660 1ST AVE
+g0129,test,Lenox Hill Hospial,1586 Lexington Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0130,test,Winthrop University Hosp,212 Jericho Turnpike,11501,1255878492,generated_from_record,from 1255878492 at 212 JERICHO TURNPIKE
+g0131,test,east end cardiology,1279 E. Main St.,,1578934071,generated_from_record,from 1578934071 at 1279 E MAIN ST
+g0132,test,SUNY Downstate Health,,10301,NONE,generated_not_nyu,provider outside NYU Langone
+g0133,test,WINTHROP FACULTY MEDICAL AFFILIATES UNIVERSITY FAACULTY PRACTICE CORP,173 Mineola Blvd,11501,1235533993,generated_from_record,from 1235533993 at 173 MINEOLA BLVD
+g0134,test,Kings County Hospital,1691 Broadway,,NONE,generated_not_nyu,provider outside NYU Langone
+g0135,test,lutheran medical ctr,,11220,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0136,test,Medhattan Urgent Care,111 Broadway Fl 2,10006,1629443122,generated_from_record,from 1629443122 at 111 BROADWAY FL 2
+g0137,test,Nyuhjd Fgp Rehab Practice 4Th Floor,301 E. 17th St.,10003,1710409180,generated_from_record,from 1710409180 at 301 E 17TH ST
+g0138,test,SUFFOLK CARDIOVASCULAR CONSULTNTS,1920 Deer Park Ave Ste 104,,1376073825,generated_from_record,from 1376073825 at 1920 DEER PARK AVE STE 104
+g0139,test,Musculoskeletal Anesthesia & Pain Management At,301 E 17th St.,,1730417353,generated_from_record,from 1730417353 at 301 E 17TH ST
+g0140,test,Nassau Surgical Associates,300 Old Country Rd Suite 101,,1649651498,generated_from_record,from 1649651498 at 300 OLD COUNTRY RD
+g0141,test,Northwell Heealth Physician Partners,388 W 57th St,10461,NONE,generated_not_nyu,provider outside NYU Langone
+g0142,test,nyu langnoe hospital long island center for family dental medicine,200 Old Country Road Ste 460,11501-5709,1558942060,generated_from_record,from 1558942060 at 200 OLD COUNTRY RD STE 460
+g0143,test,Nyu Collleges Of Dentistry & Nusing,345 E 24th Street 213s,10010,1013183995,generated_from_record,from 1013183995 at 345 E 24TH ST
+g0144,test,NEW YORK UNIVERSITY,445 Albee Square West Floors 4a/5a,11201,1760017842,generated_from_record,from 1760017842 at 445 ALBEE SQUARE WEST
+g0145,test,Winthrop Dental Pc,Old Country Road,,1306110853,generated_from_record,from 1306110853 at 200 OLD COUNTRY RD
+g0146,test,NYUHJD FGP REHAB PRACTICCE 4TH FLOOR,301 E. 17th Street,10003,1710409180,generated_from_record,from 1710409180 at 301 E 17TH ST
+g0147,test,nyu pearl barlow cetner for memory evaluation & treatment,530 First Avenue,10016,1841494655,generated_from_record,from 1841494655 at 530 1ST AVE
+g0148,test,nyu langone winthrop pulmonary associattes pc,222 Station Plaza North,11501,1821112228,generated_from_record,from 1821112228 at 222 STATION PLAZA NORTH
+g0149,test,Nyu Langoone Orthopaedic Surgery Associates,311 North Street,10605,1689195125,generated_from_record,from 1689195125 at 311 NORTH ST
+g0150,test,Kings County Hospital,736 Amsterdam Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0151,test,Nyu Cardiothoracic Surg Assoc,530 First Avenue Sk 9v,,1174575682,generated_from_record,from 1174575682 at 530 1ST AVE
+g0152,test,Nyu Urgent Care - West Side,West 52nd Street,10019-4422,1972012540,generated_from_record,from 1972012540 at 355 W 52ND ST
+g0153,test,nyu langone med cenre,550 First Ave,10016,1225561764,generated_from_record,from 1225561764 at 550 1ST AVE
+g0154,test,WINTHROOP INFECTIOUS DISEASE ASSOC,Station Plz North Suite 432,11501,1669878609,generated_from_record,from 1669878609 at 222 STATION PLZ N
+g0155,test,WINTHROP UNIVERSITY HOSPITAL ASSOCIATION,259 First Street Department Of Radiology,11501,1316216542,generated_from_record,from 1316216542 at 259 1ST ST
+g0156,test,Nyu Pediatirc Surg Assoc,530 First Ave Sk 10w,10016,1407807753,generated_from_record,from 1407807753 at 530 1ST AVE
+g0157,test,Winthrop University Hospital,259 First St.,11501,1861435141,generated_from_record,from 1861435141 at 259 1ST ST
+g0158,test,WINTHROP UNIVERSITY HOSP,1st St.,,1891954939,generated_from_record,from 1891954939 at 259 1ST ST
+g0159,test,hopitals,550 1st Avenue,,1801992631,generated_from_record,from 1801992631 at 550 1ST AVE
+g0160,test,Advanced Orttoh Specialists,601 Franklin Avenue,11530,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0161,test,NEW YORK UNIVERSITY,421 1st Ave,,1487048716,generated_from_record,from 1487048716 at 421 1ST AVE
+g0162,test,Mount Sinai Doctors,1358 Flatbush Ave,10029,NONE,generated_not_nyu,provider outside NYU Langone
+g0163,test,Nyu Langone South Shore Cardiovascular Meidcine,137 Broadway,,1255797981,generated_from_record,from 1255797981 at 137 BROADWAY
+g0164,test,Beach Internl Medicne,340 West Park Ave,11561,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0165,test,winhtrop urology pc,1401 Franklin Avenue,11530,1881966026,generated_from_record,from 1881966026 at 1401 FRANKLIN AVE
+g0166,test,Lutheran Medical Center,150 55th St.,11220,1801991914,generated_from_record,from 1801991914 at 150 55TH ST
+g0167,test,Nyu-Hospital For Joint Diseasees,301 E 17th St,,1518314400,generated_from_record,from 1518314400 at 301 E 17TH ST
+g0168,test,Nyu Neurogenetics Lab,,10016,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0169,test,nyu emergency medicine asoc,550 First Avenue,10016,1306837398,generated_from_record,from 1306837398 at 550 1ST AVE
+g0170,test,Nyu Winthrop Hosp,141 Dosoris Ln,11542,1750389763,generated_from_record,from 1750389763 at 141 DOSORIS LN
+g0171,test,hicksville internal medicine,43 Barter Ln,,1356708747,generated_from_record,from 1356708747 at 43 BARTER LN
+g0172,test,winthrop community endocrinology services pc,1401 Franklin Ave,11530,1154693810,generated_from_record,from 1154693810 at 1401 FRANKLIN AVE
+g0173,test,Nyu Wtc Health Program Cce,462 First Ave,10016,1366787186,generated_from_record,from 1366787186 at 462 1ST AVE
+g0174,test,NYU LANGONE,259 1st Street,11501,1427616002,generated_from_record,from 1427616002 at 259 1ST ST
+g0175,test,new york university med ctr,560 1st Av Hcc-13 Nyumc Cardiac And Vascular Center,,1649492877,generated_from_record,"from 1649492877 at 560 FIRST AVE, HCC-13"
+g0176,test,Nyu Internal Medicine Associates - The Miler Practice,355 W 52nd St.,,1518289552,generated_from_record,from 1518289552 at 355 W 52ND ST
+g0177,test,NYU LNAGONE WOMEN'S HEALTH CENTER,159 East 53rd Street,10022,1164943502,generated_from_record,from 1164943502 at 159 E 53RD ST
+g0178,test,Nyu Hosp For Jiont Diseases,301 E. 17th Street,10003,1710040787,generated_from_record,from 1710040787 at 301 E 17TH ST
+g0179,test,Nyu Langone Hosp,259 1st St,11501,1427616002,generated_from_record,from 1427616002 at 259 1ST ST
+g0180,test,nyu neurogenetics lab,,10016-1411,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0181,test,NewYork-Presbyterian Weill Cornell,901 Ocean Pkwy,10003,NONE,generated_not_nyu,provider outside NYU Langone
+g0182,test,Winthrop University Hospital Emergecy Room Physicians,259 1st St,11501,1093752628,generated_from_record,from 1093752628 at 259 1ST ST
+g0183,test,Endocrine Srgery Assoc,530 1st Avenue Hcc 6h,10016,1912103466,generated_from_record,from 1912103466 at 530 1ST AVE
+g0184,test,Cochlear Implaant Ctr,222 East 41st St,,1740913664,generated_from_record,from 1740913664 at 222 E 41ST ST FL 8
+g0185,test,nyu langone ambulatory care rego park,9785 Queens Boulevard,11374,1083130967,generated_from_record,from 1083130967 at 9785 QUEENS BLVD
+g0186,test,NewYorkk-Presbyterian Weill Cornell,1797 Ocean Pkwy,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0187,test,Nyu Hospital For Joint Diseases,300 East 17th Street,,1912220153,generated_from_record,from 1912220153 at 300 E 17TH ST
+g0188,test,WINTHROP DENTAL PC,200 Old Country Rd,11501,1306110853,generated_from_record,from 1306110853 at 200 OLD COUNTRY RD
+g0189,test,luteran med center,,,1154644292,generated_from_record,from 1154644292 at 150 55TH ST
+g0190,test,ColumbiaDoctors,,,NONE,generated_not_nyu,provider outside NYU Langone
+g0191,test,medhattan urgent care,111 Broadway Fl 2,,1629443122,generated_from_record,from 1629443122 at 111 BROADWAY FL 2
+g0192,test,nyu langone home health care,290 Old Country Road,11501,1215931811,generated_from_record,from 1215931811 at 290 OLD COUNTRY ROAD
+g0193,test,lutheran family ctr quality care group,150 55th St.,11220,1831549559,generated_from_record,from 1831549559 at 150 55TH ST
+g0194,test,BEACH INTERNAL MEDICINE,340 West Park Ave,11561,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0195,test,nyu langone,44 South Ferry Road,11964,1770948093,generated_from_record,from 1770948093 at 44 SOUTH FERRY ROAD
+g0196,test,nyu gastroenterology oncology assoc,160 E 34th Street,10016,1760432207,generated_from_record,from 1760432207 at 160 E 34TH ST
+g0197,test,NEW YORK UNIVERSITY MEDICAL CTR,589 1st Avenue,,1942441514,generated_from_record,from 1942441514 at 589 1ST AVE
+g0198,test,New York University College Of,345 E. 24th Street,10010,1164555124,generated_from_record,from 1164555124 at 345 E 24TH ST
+g0199,test,NYU LANGONE WOMEN'S,159 East 53rd St.,10022,1164943502,generated_from_record,from 1164943502 at 159 E 53RD ST
+g0200,test,NYU GREEAT NECK MEDICAL,488 Great Neck Rd Suite 300,,1700107281,generated_from_record,from 1700107281 at 488 GREAT NECK RD
+g0201,test,nyu langonne winthrop pulmonary associates pc,222 Station Plaza North,,1821112228,generated_from_record,from 1821112228 at 222 STATION PLAZA NORTH
+g0202,test,nymuc neonatology assoc,First Avenue,10016,1023067444,generated_from_record,from 1023067444 at 530 1ST AVE
+g0203,test,WINTHROP RADIOLOGY ASSCIATES PC,,11501-3091,1114960853,generated_from_record,from 1114960853 at 259 1ST ST
+g0204,test,Advanced Orthopaedic Specialists,2000 N Village Av,11570,1497113989,generated_from_record,from 1497113989 at 2000 N VILLAGE AVE
+g0205,test,brookhaven memorial hospital hospice,105 West Main Street,11772,1609877364,generated_from_record,from 1609877364 at 105 WEST MAIN STREET
+g0206,test,winthrop university hospiital,16 Richlee Ct Apt 4s,11501,1780949388,generated_from_record,from 1780949388 at 16 RICHLEE CT APT 4S
+g0207,test,NYU LANGONE JOAN H. AND PRESTON ROBERT TISCH CENTER AT ESSEX CROSSING,171 Delancey St,,1023508603,generated_from_record,from 1023508603 at 171 DELANCEY STREET
+g0208,test,nyu lanogne winthrop child neurology associiates,173 Mineola Blvd,11501,1689728107,generated_from_record,from 1689728107 at 173 MINEOLA BLVD
+g0209,test,winthrop university hosp emergency room physicians,259 First St.,11501,1093752628,generated_from_record,from 1093752628 at 259 1ST ST
+g0210,test,Nyu Ekg Associates,,10016,1679563217,generated_from_record,from 1679563217 at 550 1ST AVE
+g0211,test,New York University,345 E. 24th St.,,1649651506,generated_from_record,from 1649651506 at 345 E 24TH ST
+g0212,test,Med Center/ Rusk Institute Of Rehab Medicine,400 East 34th St Rm 515,,1790031797,generated_from_record,from 1790031797 at 400 E 34TH ST RM 515
+g0213,test,URGENT CARE AT NYU LANGONE HUNTINGTON MED GROUP,East Pulaski Road,11746,1346732070,generated_from_record,from 1346732070 at 180 E PULASKI RD
+g0214,test,Nyu Breast & Surgical Oncology Asssoc,160 East 34th Street,10016,1407858095,generated_from_record,from 1407858095 at 160 E 34TH ST
+g0215,test,Bellevue Hospital,787 Kings Hwy,10011,NONE,generated_not_nyu,provider outside NYU Langone
+g0216,test,nyu lutheran med ctr,150 55th St.,,1982875183,generated_from_record,from 1982875183 at 150 55TH ST
+g0217,test,MUSCULOSKELETAL ANESTHESIA & PAIN MANAGEMENT AT NYU,,10003,1730417353,generated_from_record,from 1730417353 at 301 E 17TH ST
+g0218,test,advanced orthopaedic specialsts,,,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0219,test,Nyu Otolaryngology - Dr J. Thomas Rolaand,550 1st Ave Suite 8s,10016,1225351182,generated_from_record,from 1225351182 at 550 FIRST AVENUE
+g0220,test,LUTHERAN MEDCAL CENTER-NES,150 55th Street Station 3-03 Office Of Emergency Dept-- Rebecca Turner,11220,1891112868,generated_from_record,from 1891112868 at 150 55TH STREET STATION 3-03
+g0221,test,Nyu Langone Med Ctr,660 1st Ave,,1861842304,generated_from_record,from 1861842304 at 660 1ST AVE
+g0222,test,Cardiology Assoc - Staten Island,5091 Amboy Road,10312,1720484017,generated_from_record,from 1720484017 at 5091 AMBOY RD
+g0223,test,WINTHROP UNIVERSITY HOSP,16 Richlee Ct Apt 4s,,1780949388,generated_from_record,from 1780949388 at 16 RICHLEE CT APT 4S
+g0224,test,nyu hospiitals ctr,5616 6th Avenue,11220,1154856623,generated_from_record,from 1154856623 at 5616 6TH AVE
+g0225,test,NYU LUTHEAN ASSOCIATES - OINGTON,6900 4th Av,11209,1578084919,generated_from_record,from 1578084919 at 6900 4TH AVE
+g0226,test,Nyu Langone Ambulatory Care Commack,,11725,1144105214,generated_from_record,from 1144105214 at 167 VETERANS MEMORIAL HWY
+g0227,test,Nyulangonemeddicalenter,462 1st Av Nbv-8S3,10016,1780138974,generated_from_record,from 1780138974 at 462 1ST AVE
+g0228,test,Skin & Cancer Assoc,550 1st Avenue,10016,1114121928,generated_from_record,from 1114121928 at 550 1ST AVE
+g0229,test,Winhrop Univerrsity Hosp,1st St.,11501,1174781900,generated_from_record,from 1174781900 at 259 1ST ST
+g0230,test,URGENT CARE AT NYU LANGONE HUNTINGTON,180 E. Pulaski Rd,,1346732070,generated_from_record,from 1346732070 at 180 E PULASKI RD
+g0231,test,nyu cardiac catheterization assoc,550 First Ave,10016,1942290556,generated_from_record,from 1942290556 at 550 1ST AVE
+g0232,test,Wintthrop University Hospital,260 1st St.,11501-5377,1598072571,generated_from_record,from 1598072571 at 260 1ST ST
+g0233,test,Nyu Langone Huntington Med Group,180 E. Pulaski Rd,11746,1558882076,generated_from_record,from 1558882076 at 180 E PULASKI RD
+g0234,test,Wnhrop Ortho Associate,1300 Franklin Ave Ste Ul3A,11530,1710468491,generated_from_record,from 1710468491 at 1300 FRANKLIN AVE STE UL3A
+g0235,test,Nyumc Peddiatric Genetics Metabollic,550 First Av,10016,1750371332,generated_from_record,from 1750371332 at 550 1ST AVE
+g0236,test,nyu langone hospitals,150 55th St,11220,1437523537,generated_from_record,from 1437523537 at 150 55TH ST
+g0237,test,nyu langone winthrp university hosp,259 1st St,11501-3028,1174781900,generated_from_record,from 1174781900 at 259 1ST ST
+g0238,test,Nyumc Radiology Associates,650 First Av,10016,1962513101,generated_from_record,from 1962513101 at 650 1ST AVE
+g0239,test,Maimonides Medical Center,1757 Ocean Pkwy,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0240,test,Nyu Cardaic Catheterization Assoc,550 First Av Th576,10016-5021,1942290556,generated_from_record,from 1942290556 at 550 1ST AVE
+g0241,test,Mount Sinai Doctors,1861 Ocean Pkwy,10003,NONE,generated_not_nyu,provider outside NYU Langone
+g0242,test,college of nursing faculty practice,345 E 24th Street Suite 1b,,1306906425,generated_from_record,from 1306906425 at 345 EAST 24TH STREET
+g0243,test,Luttheran Med Ctr,150 55th St Lutheran Medical Center-Department Of Family Medicine,11220,1497043673,generated_from_record,"from 1497043673 at 150, 55TH STREET"
+g0244,test,NYU SLEEP DISOORDERS CENTER,462 1st Av,10016,1689665697,generated_from_record,from 1689665697 at 462 1ST AVE
+g0245,test,nyu langone,530 First Avenue 7j,,1821474644,generated_from_record,from 1821474644 at 530 1ST AVENUE
+g0246,test,Lutheeran Medical Ctr,514 49th Street,11220,1023182102,generated_from_record,from 1023182102 at 514 49TH ST
+g0247,test,nyu clinical neurophysiology,550 1st Av,10016,1952558801,generated_from_record,from 1952558801 at 550 1ST AVE
+g0248,test,Medahttan Urgent Care,111 Broadway Fl 2,,1629443122,generated_from_record,from 1629443122 at 111 BROADWAY FL 2
+g0249,test,Nyu Langone Huntington Medical Group,180 East Pulaski Road,,1558882076,generated_from_record,from 1558882076 at 180 E PULASKI RD
+g0250,test,Otolaryngology - Dr J. Thomas Roland,550 First Ave,,1225351182,generated_from_record,from 1225351182 at 550 FIRST AVENUE
+g0251,test,winthrrop university hospital,Jericho Turnpike,,1255878492,generated_from_record,from 1255878492 at 212 JERICHO TURNPIKE
+g0252,test,Nyu Langone Women'S Heealth,159 East 53rd Street,10022,1164943502,generated_from_record,from 1164943502 at 159 E 53RD ST
+g0253,test,winthrop occuational and environmental medicine,1300 Franklin Av,11530,1649635566,generated_from_record,from 1649635566 at 1300 FRANKLIN AVE
+g0254,test,hospitals,160 East 34th St,10016,1437230034,generated_from_record,from 1437230034 at 160 E 34TH ST
+g0255,test,nyu langone med associates-riverhead,893 E Main St.,11901,1770256216,generated_from_record,from 1770256216 at 893 E MAIN ST
+g0256,test,winthrop faculty med affiliates university faculty practice corp,1300 Franklin Ave,11530,1366801409,generated_from_record,from 1366801409 at 1300 FRANKLIN AVE
+g0257,test,lutheran med ctr,2409 E 23rd St.,11235,1801126099,generated_from_record,from 1801126099 at 2409 E 23RD ST
+g0258,test,nyu breast surg assoc,160 East 34th St.,,1679564348,generated_from_record,from 1679564348 at 160 E 34TH ST
+g0259,test,Nyu Cochlear Implant Center,222 E 41st St.,10017,1740913664,generated_from_record,from 1740913664 at 222 E 41ST ST FL 8
+g0260,test,Beach Internal Medcine,340 West Park Avenue,11561,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0261,test,new york university medical center,425 E. 114th St Apt 4fw,,1437426905,generated_from_record,from 1437426905 at 425 E 114TH ST APT 4FW
+g0262,test,new york university med ctr,550 First Av,10016-2553,1689836835,generated_from_record,from 1689836835 at 550 1ST AVE
+g0263,test,Bellevue Hospitl,1251 E 86th St,10021,NONE,generated_not_nyu,provider outside NYU Langone
+g0264,test,WINTHROP AND HYPERBARIC AND WOUND HEALING SERVICES,120 Mineola Boulevard,11501,1689039505,generated_from_record,from 1689039505 at 120 MINEOLA BLVD
+g0265,test,Nyu Radiation Oncology Asoc,566 First Avenue,10016,1861483851,generated_from_record,from 1861483851 at 566 1ST AVE
+g0266,test,Nyu Lutheeran Family Health Center Qualitycare Group,55th St,11220,1245635200,generated_from_record,from 1245635200 at 150 55TH ST
+g0267,test,Vitale-Gambiino Ortho,9711 3rd Avenue,11209,1225550601,generated_from_record,from 1225550601 at 9711 3RD AVE
+g0268,test,nyunedrground initative inc.,Erskine Street Apt 537,11239,1316765936,generated_from_record,from 1316765936 at 911 ERSKINE ST APT 537
+g0269,test,Huntngton Medical Group,180 E. Pulaski Road,,1558882076,generated_from_record,from 1558882076 at 180 E PULASKI RD
+g0270,test,Winthrop Ortho Asssoc,1300 Franklin Ave,11530-9965,1568858801,generated_from_record,from 1568858801 at 1300 FRANKLIN AVE
+g0271,test,Mediacl Cetner,530 First Ave,,1487707402,generated_from_record,from 1487707402 at 530 1ST AVE
+g0272,test,NewYork-Presbyterian Weill Cornell,622 Flatbush Ave,10032,NONE,generated_not_nyu,provider outside NYU Langone
+g0273,test,Nyu Ortho Surgery Assoc,2nd Ave,,1124078373,generated_from_record,from 1124078373 at 303 2ND AVE
+g0274,test,NYUHJD FGP RHEAB PRACTICE 4TH FLLOOR,301 East 17th Street,10003,1710409180,generated_from_record,from 1710409180 at 301 E 17TH ST
+g0275,test,nyu hosp for joint diseaess,15139 12th Ave,11357,1508279936,generated_from_record,from 1508279936 at 15139 12TH AVE
+g0276,test,Nyu Langone Ambulatory Care Center,240 E 38th St.,10016,1740702638,generated_from_record,from 1740702638 at 240 E 38TH ST
+g0277,test,NYU BHS,550 First Avenue,,1205826781,generated_from_record,from 1205826781 at 550 1ST AVE
+g0278,test,NYUMC DERMATOPATHLOOGY UNIT,530 First Av Hcc 7j,10016,1891785473,generated_from_record,from 1891785473 at 530 1ST AVE
+g0279,test,NYU LANGONE VITALE-GAMBINO ORTHOPAEDISC,Third Avenue,11209,1225550601,generated_from_record,from 1225550601 at 9711 3RD AVE
+g0280,test,NEW YORK UNIVERSITY,345 E. 24th St.,10010,1366803215,generated_from_record,from 1366803215 at 345 E 24TH ST
+g0281,test,med associates - bellport,,11713,1114750908,generated_from_record,from 1114750908 at 515 BELLPORT AVE
+g0282,test,nyu langone winthrop cardiology associates,120 Mineola Boulevard,11501,1245637297,generated_from_record,from 1245637297 at 120 MINEOLA BLVD
+g0283,test,Women'S Contempoary Care Associates,,11501,1487691481,generated_from_record,from 1487691481 at 120 MINEOLA BLVD
+g0284,test,NYU LANGOOE SOUTH SHORE HEART CARDIOLOGY,242 Merrick Road Suite 402,11570,1225406838,generated_from_record,from 1225406838 at 242 MERRICK RD
+g0285,test,NYU PEDAITRIC,530 1st Av Sk 10w,10016,1407807753,generated_from_record,from 1407807753 at 530 1ST AVE
+g0286,test,nyumc cardiac rehab,,10016,1467442046,generated_from_record,from 1467442046 at 550 1ST AVE
+g0287,test,GERIATRIC ASSSOCIATES,First Avenue,10016,1851541718,generated_from_record,from 1851541718 at 530 1ST AVE
+g0288,test,Nyu Langone Astoria Med Associates,2318 31st Street Ste 3,11105,1114603743,generated_from_record,from 1114603743 at 2318 31ST ST STE 3
+g0289,test,winthrop oncology/hematology assoc,Old Country Rd,,1477911436,generated_from_record,from 1477911436 at 200 OLD COUNTRY RD
+g0290,test,Urgent Care Telemeed,550 First Avenue,10016,1568977825,generated_from_record,from 1568977825 at 550 1ST AVE
+g0291,test,NYU LANGONE LUTHERAN MED CTR,3414 Church Ave,11203,1174627616,generated_from_record,from 1174627616 at 3414 CHURCH AVE
+g0292,test,Hospital for Speciial Surgery,1287 Ocean Pkwy,10003,NONE,generated_not_nyu,provider outside NYU Langone
+g0293,test,Womens Specialty Care Associates,70 E. Sunrise Hwy 515,11581,1043679558,generated_from_record,from 1043679558 at 70 E SUNRISE HWY
+g0294,test,nyu langnne medical center,530 1st Ave,10016,1710139944,generated_from_record,from 1710139944 at 530 1ST AVE
+g0295,test,Hosp For Joint Diseases Lagone Medical Cneter,301 E. 17th St,,1326201575,generated_from_record,from 1326201575 at 301 E 17TH ST
+g0296,test,nyu langone hospitaals,,11772,1508687021,generated_from_record,from 1508687021 at 101 HOSPITAL RD
+g0297,test,Hospitals Ctr,560 1st Avenue,10016,1932312816,generated_from_record,from 1932312816 at 560 FIRST AVENUE
+g0298,test,winthrop university hosp emergency room physicians,259 First St,11501,1093752628,generated_from_record,from 1093752628 at 259 1ST ST
+g0299,test,nyulmc,560 1st Av,10016,1093009755,generated_from_record,from 1093009755 at 560 1ST AVE
+g0300,test,nyumc cardiac rehabilitation,550 1st Ave,10016,1467442046,generated_from_record,from 1467442046 at 550 1ST AVE
+g0301,test,Women'S Centr,E 53rd Street,10022,1164943502,generated_from_record,from 1164943502 at 159 E 53RD ST
+g0302,test,HOSPITAL LONG ISLANND,259 First St,,1427616002,generated_from_record,from 1427616002 at 259 1ST ST
+g0303,test,Winthrop Foot Care Associates,Old Country Rd,,1023577798,generated_from_record,from 1023577798 at 300 OLD COUNTRY RD STE 103
+g0304,test,Wintthrop Faculty Medical Affiliates University Faculty Pracctice Corp,120 Mineola Blvd,11501-4477,1245637297,generated_from_record,from 1245637297 at 120 MINEOLA BLVD
+g0305,test,Nyu Collgees Of Dentistry & Nursing,,10010,1013183995,generated_from_record,from 1013183995 at 345 E 24TH ST
+g0306,test,Nassau Surgial Associates,300 Old Country Rd Suite 101,,1649651498,generated_from_record,from 1649651498 at 300 OLD COUNTRY RD
+g0307,test,WINTHROP RHEUMATOLOY,120 Mineola Boulevard,,1376898791,generated_from_record,from 1376898791 at 120 MINEOLA BLVD
+g0308,test,Children'S Ambulatory Care Ctr - Miineola,120 Mineola Boulevard,11501,1831838440,generated_from_record,from 1831838440 at 120 MINEOLA BLVD STE 210
+g0309,test,Nyu Langone Podiatry,,10024,1053836908,generated_from_record,from 1053836908 at 101 W 79TH ST
+g0310,test,nyu orthopedic surery associaes,303 2nd Avenue,10003,1124078373,generated_from_record,from 1124078373 at 303 2ND AVE
+g0311,test,Winthrop Oncooogy/Hematology Associates,,11501,1477911436,generated_from_record,from 1477911436 at 200 OLD COUNTRY RD
+g0312,test,NewYork-Presbyterian Weill Cornell,,10025,NONE,generated_not_nyu,provider outside NYU Langone
+g0313,test,PEARL BARLOW CENTER FOR MEMORY EVALUATION & TREATMENT,530 1st Avenue Hcc 3d,10016,1841494655,generated_from_record,from 1841494655 at 530 1ST AVE
+g0314,test,Nyu Great Neck Meedical,488 Great Neck Road,11021,1700107281,generated_from_record,from 1700107281 at 488 GREAT NECK RD
+g0315,test,nyumc dialysis assoc,560 First Ave,10016,1992795561,generated_from_record,from 1992795561 at 560 1ST AVE
+g0316,test,Skin And Cancer,,10016,1114121928,generated_from_record,from 1114121928 at 550 1ST AVE
+g0317,test,"Winhtrop Community Med Affiliates, Pc",600 Northern Blvd,11021,1619338282,generated_from_record,from 1619338282 at 600 NORTHERN BLVD
+g0318,test,lutheran family ctr quality care group,,11220,1831549559,generated_from_record,from 1831549559 at 150 55TH ST
+g0319,test,Plastic Surgery Assoc,530 1st Av,10016,1902116403,generated_from_record,from 1902116403 at 530 1ST AVE
+g0320,test,nyu langone hospital long island,530 Hicksville Road,11714,1760480628,generated_from_record,from 1760480628 at 530 HICKSVILLE ROAD
+g0321,test,NYU INTERNAL MEDICCINE,530 First Av Hcc 7b,,1073792271,generated_from_record,from 1073792271 at 530 1ST AVE
+g0322,test,Nyu Geerl,530 1st Av Hcc 6c,10016,1306093257,generated_from_record,from 1306093257 at 530 1ST AVE
+g0323,test,Nylangonemedicalcetner,462 1st Avenue,10016,1780138974,generated_from_record,from 1780138974 at 462 1ST AVE
+g0324,test,WINTHROP COMMUNITY ENDOCRINOLOGY SERVICES PC,Franklin Avenue,11530,1154693810,generated_from_record,from 1154693810 at 1401 FRANKLIN AVE
+g0325,test,nyu mobile health van program,726 Broadway 10 Th Floor,10003,1346545951,generated_from_record,from 1346545951 at 726 BROADWAY
+g0326,test,hsopitals ctr,6th Avenue,,1154856623,generated_from_record,from 1154856623 at 5616 6TH AVE
+g0327,test,nyu langone med ctr,1st Avenue,10016,1336673813,generated_from_record,from 1336673813 at 550 1ST AVE
+g0328,test,Winthrop Infectious Disease Associates,222 Station Plz N,11501,1669878609,generated_from_record,from 1669878609 at 222 STATION PLZ N
+g0329,test,Nyu Medcal Center,32 Primrose Ln,11550,1720297658,generated_from_record,from 1720297658 at 32 PRIMROSE LN
+g0330,test,Nyu Langone Medicla Assoc Tarrytown,200 White Plains Road Fl 4,,1700600533,generated_from_record,from 1700600533 at 200 WHITE PLAINS RD FL 4
+g0331,test,Mount SinaiH ospital,934 Flatbush Ave,10301,NONE,generated_not_nyu,provider outside NYU Langone
+g0332,test,Nyu Langone Hospital,255 Warner Avenue,11577,1831197797,generated_from_record,from 1831197797 at 255 WARNER AVE
+g0333,test,nyu luutheran,150 55th Street,11220,1811936529,generated_from_record,from 1811936529 at 150 55TH ST
+g0334,test,nyu langone hospitals,550 First Av,10016,1801992631,generated_from_record,from 1801992631 at 550 1ST AVE
+g0335,test,Nyu Emergency Medicien Associates,550 First Avenue,10016,1306837398,generated_from_record,from 1306837398 at 550 1ST AVE
+g0336,test,nyu pediatric surg associates,530 1st Ave,10016,1407807753,generated_from_record,from 1407807753 at 530 1ST AVE
+g0337,test,Nyu Lagnone Hopsital Long,259 First Street,11501,1427616002,generated_from_record,from 1427616002 at 259 1ST ST
+g0338,test,Nyu Langone,,10016,1023450996,generated_from_record,from 1023450996 at 550 1ST AVE
+g0339,test,Garden City Primary Care,1000 Franklin Ave,11530,1326403080,generated_from_record,from 1326403080 at 1000 FRANKLIN AVE
+g0340,test,Hicksville Internal Medicine,43 Barter Ln,,1356708747,generated_from_record,from 1356708747 at 43 BARTER LN
+g0341,test,lutheran medcal ctr,150 55th Street,,1497043673,generated_from_record,"from 1497043673 at 150, 55TH STREET"
+g0342,test,nyu gret neck medical,488 Great Neck Road,11021,1700107281,generated_from_record,from 1700107281 at 488 GREAT NECK RD
+g0343,test,ekg assoc,550 First Ave,,1679563217,generated_from_record,from 1679563217 at 550 1ST AVE
+g0344,test,neurogenetics lab,,,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0345,test,NYU LAGNONE LANGGONE WELLNESS CONSULTING LLC,114 Bentley Street,,1710848940,generated_from_record,from 1710848940 at 114 BENTLEY ST
+g0346,test,Cadiothoracic Surgery Assoc,530 1st Av,10016,1174575682,generated_from_record,from 1174575682 at 530 1ST AVE
+g0347,test,Nyu Langone Hospitals,301 East 17th St,10003,1275632895,generated_from_record,from 1275632895 at 301 E 17TH ST
+g0348,test,ortho surg assoc,145 E. 32nd St.,10016,1598287948,generated_from_record,from 1598287948 at 145 E 32ND ST
+g0349,test,WINTHROP COMMUNITY ENDOCRINOLOGY SEVRICES,,11530,1891153607,generated_from_record,from 1891153607 at 1401 FRANKLIN AVE
+g0350,test,Maimonides Medical Center,1026 Kings Hwy,10301,NONE,generated_not_nyu,provider outside NYU Langone
+g0351,test,Nyuhjd Fgp Rehab Practice 4Th Floro,301 East 17th Street,10003,1710409180,generated_from_record,from 1710409180 at 301 E 17TH ST
+g0352,test,Winthrop Infectious Disease Assoc Univ Faculty Pratcice Corp,222 Station Plz N,,1093095499,generated_from_record,from 1093095499 at 222 STATION PLZ N
+g0353,test,Nyu Langone Med Ctr,560 First Avenue,10016,1811221245,generated_from_record,from 1811221245 at 560 1ST AVE
+g0354,test,Nyu Langone Hoospitals,,11501,1083612089,generated_from_record,from 1083612089 at 200 OLD COUNTRY ROAD
+g0355,test,NYU LANGONE HOSPITALS,550 First Av,10016,1659470276,generated_from_record,from 1659470276 at 550 1ST AVE
+g0356,test,"Winthrop Gastroenteolgy,Pc",222 Station Plaza North,11501-7886,1578573481,generated_from_record,from 1578573481 at 222 STATION PLAZA NORTH
+g0357,test,nyu winthrop hosp,Dosoris Ln,11542,1750389763,generated_from_record,from 1750389763 at 141 DOSORIS LN
+g0358,test,Geenport Primary Medcial Care,74825 Main Road,11944,1932564630,generated_from_record,from 1932564630 at 74825 MAIN RD
+g0359,test,Nyu-Hhc Clnicaal,"462 1st Av C&D Building, 4th Floor",,1881021418,generated_from_record,from 1881021418 at 462 1ST AVE
+g0360,test,Northwell Health Physician Partners,1886 E 86th St,10021,NONE,generated_not_nyu,provider outside NYU Langone
+g0361,test,nyu langone carle,536 Mineola Ave,,1528430162,generated_from_record,from 1528430162 at 536 MINEOLA AVE
+g0362,test,meical center,,10016,1942613179,generated_from_record,from 1942613179 at 333 E 38TH ST
+g0363,test,cliniccal neurophysiology,550 1st Avenue,10016,1952558801,generated_from_record,from 1952558801 at 550 1ST AVE
+g0364,test,Mobile Van Prrogram,726 Broadway,10003,1346545951,generated_from_record,from 1346545951 at 726 BROADWAY
+g0365,test,NYU LUTHERAN MEDICAAL CENTER,150 55th St.,11220,1528013695,generated_from_record,from 1528013695 at 150 55TH ST
+g0366,test,EAST END CARDIOLOGY,1279 E. Main Street,11901,1578934071,generated_from_record,from 1578934071 at 1279 E MAIN ST
+g0367,test,nyu langone med center/ rusk institute of rehabilitation medicine,,10016,1790031797,generated_from_record,from 1790031797 at 400 E 34TH ST RM 515
+g0368,test,Winthrop University Hospital,259 First Street Pediatric Department,11501,1699933432,generated_from_record,from 1699933432 at 259 1ST ST
+g0369,test,nyu langone advanced orthopedics,285 Sills Road Bldg 18,,1982382438,generated_from_record,from 1982382438 at 285 SILLS RD BLDG 18
+g0370,test,Nyu,240 East 38th St.,10016,1013396720,generated_from_record,from 1013396720 at 240 E 38TH ST
+g0371,test,wintthrop pain management,1300 Franklin Ave,11530,1063642254,generated_from_record,from 1063642254 at 1300 FRANKLIN AVE
+g0372,test,Winthrop University Hosp,259 First Street,11501,1447564034,generated_from_record,from 1447564034 at 259 1ST ST
+g0373,test,brookhaven meemorial hospital hospice,,11772,1609877364,generated_from_record,from 1609877364 at 105 WEST MAIN STREET
+g0374,test,Nyu Langone Hosppitals,550 1st Avenue,,1366541989,generated_from_record,from 1366541989 at 550 1ST AVE
+g0375,test,GENERAL SURG ASSC,530 First Av,10016,1306093257,generated_from_record,from 1306093257 at 530 1ST AVE
+g0376,test,nyu langonne hospitals,259 First Street,,1114925567,generated_from_record,from 1114925567 at 259 1ST STREET
+g0377,test,nyu langoe urgent care telemed,1st Avenue,10016,1568977825,generated_from_record,from 1568977825 at 550 1ST AVE
+g0378,test,Nyu Langone Withrop,300 Old Country Road,11501,1023577798,generated_from_record,from 1023577798 at 300 OLD COUNTRY RD STE 103
+g0379,test,Nyu Ophthalmology Assoc,,,1841528411,generated_from_record,from 1841528411 at 530 1ST AVE
+g0380,test,gastrointestinal associates of long island,1991 Marcus Av,11042,1346636057,generated_from_record,from 1346636057 at 1991 MARCUS AVE
+g0381,test,Nyu Cardiothoracic Surg Asssociates,530 1st Av Sk 9v,10016,1174575682,generated_from_record,from 1174575682 at 530 1ST AVE
+g0382,test,advanced orthopaeic specialists,North Village Avenue,,1497113989,generated_from_record,from 1497113989 at 2000 N VILLAGE AVE
+g0383,test,WOMEN'S CONTEMPORARY CARE ASSOC,120 Mineola Blvd Suite 100,11501,1639572589,generated_from_record,from 1639572589 at 120 MINEOLA BLVD
+g0384,test,Nyu Langone Med,660 First Avenue,,1730448317,generated_from_record,from 1730448317 at 660 1ST AVE
+g0385,test,"Winthrop Orthopaedic Associates, Pc",,11530,1972553477,generated_from_record,from 1972553477 at 1300 FRANKLIN AVE
+g0386,test,Nyu Cardiothoracic Surgery Assoc,530 First Ave,10016,1174575682,generated_from_record,from 1174575682 at 530 1ST AVE
+g0387,test,Nyu Ccohlear Implat Assoc,660 1st Avenue 7th Fl,10016,1851341168,generated_from_record,from 1851341168 at 660 1ST AVE
+g0388,test,Musculoskeletal Anesthesia And Pain Management At Nyu,301 East 17th St.,,1730417353,generated_from_record,from 1730417353 at 301 E 17TH ST
+g0389,test,Nyu Nuclear,550 1st Av Hw 244,10016-2651,1063402543,generated_from_record,from 1063402543 at 550 1ST AVE
+g0390,test,Nyu Langone Hospitals,150 55th St,,1346614443,generated_from_record,from 1346614443 at 150 55TH ST
+g0391,test,WINTHHROP UROLOGY ASSOC,1300 Franklin Av,,1366801409,generated_from_record,from 1366801409 at 1300 FRANKLIN AVE
+g0392,test,nyu wintrhop,200 Old Country Rd Ste 310,11501,1457873077,generated_from_record,from 1457873077 at 200 OLD COUNTRY RD STE 310
+g0393,test,Plainview Internal Medicine,1097 Old Country Rd,,1801253117,generated_from_record,from 1801253117 at 1097 OLD COUNTRY RD
+g0394,test,nyu langone huntington med group,180 E Pulaski Road,11746-1361,1558882076,generated_from_record,from 1558882076 at 180 E PULASKI RD
+g0395,test,Nyu Langone Winthrop University Ctr For Family Dental Medicine,200 Old Country Road,11501,1437575396,generated_from_record,from 1437575396 at 200 OLD COUNTRY RD
+g0396,test,nyu langone podiatry associates upper west side,101 West 79th St,10024,1053836908,generated_from_record,from 1053836908 at 101 W 79TH ST
+g0397,test,new york univesrity langone med ctr,425 E. 114th St Apt 4fw,10029,1437426905,generated_from_record,from 1437426905 at 425 E 114TH ST APT 4FW
+g0398,test,nyu langone brooklyn podiatry associates - 77th strete,441 77th St,11209,1760184535,generated_from_record,from 1760184535 at 441 77TH ST
+g0399,test,Med Ctr/Tisch Hospital,Province Dr,11720-4057,1629423009,generated_from_record,from 1629423009 at 70 PROVINCE DR
+g0400,test,Women'S Specialty,70 E Sunrise Hwy 515,,1043679558,generated_from_record,from 1043679558 at 70 E SUNRISE HWY
+g0401,test,NYU SURGICAL CRITICL CARE ASSOC,530 First Ave Hcc 6b,10016-8377,1144271487,generated_from_record,from 1144271487 at 530 1ST AVE
+g0402,test,Nyu Cochlear Implant Asscoiates,660 1st Ave,10016,1851341168,generated_from_record,from 1851341168 at 660 1ST AVE
+g0403,test,Nyu Cardiothoracic Surgery,530 First Av Sk 9v,10016-5215,1174575682,generated_from_record,from 1174575682 at 530 1ST AVE
+g0404,test,Riverhead Internal Meidcine,715 Roanoke Av Suite 3,,1548625288,generated_from_record,from 1548625288 at 715 ROANOKE AVE
+g0405,test,WINTHROP FIRST CARE MEDICAL SERVICES,259 First St,11501,1477913069,generated_from_record,from 1477913069 at 259 1ST ST
+g0406,test,Huntintgon Mediacl Group,E Pulaski Rd,11746,1558882076,generated_from_record,from 1558882076 at 180 E PULASKI RD
+g0407,test,nyu langone winthrop university hosp,16 Richlee Ct Apt 4s,,1780949388,generated_from_record,from 1780949388 at 16 RICHLEE CT APT 4S
+g0408,test,CARIOTHORACIC SURGERY ASOC,530 First Avenue,10016,1174575682,generated_from_record,from 1174575682 at 530 1ST AVE
+g0409,test,Neurometric Evaluation,462 1st Avenue,10016,1073503629,generated_from_record,from 1073503629 at 462 1ST AVE
+g0410,test,Long Islland Cardiology Assoc,285 Sills Rd,11772,1225408321,generated_from_record,from 1225408321 at 285 SILLS RD
+g0411,test,Nyu Langoone Nyyumah Lmft Llc,18 Harvard St. Ste 7,14607,1437015377,generated_from_record,from 1437015377 at 18 HARVARD ST STE 7
+g0412,test,NYU ENDOCRINE SUGRY ASSOC,530 1st Av Hcc 6h,10016,1912103466,generated_from_record,from 1912103466 at 530 1ST AVE
+g0413,test,new york university med ctr,550 First Av,,1689836835,generated_from_record,from 1689836835 at 550 1ST AVE
+g0414,test,winthrop unnivesrity hosp,8141 268th St,11004-7406,1558606186,generated_from_record,from 1558606186 at 8141 268TH ST
+g0415,test,Nyu,240 East 38th Street,10016,1013396720,generated_from_record,from 1013396720 at 240 E 38TH ST
+g0416,test,Nyu Langone Podiatry Associates Upper West Side,101 West 79th St.,10024,1053836908,generated_from_record,from 1053836908 at 101 W 79TH ST
+g0417,test,Nyu Langone Hospitals,150 55th St.,,1346614443,generated_from_record,from 1346614443 at 150 55TH ST
+g0418,test,"New York University, College Of Dentistry",345 East 24th St. 9w,,1245643584,generated_from_record,from 1245643584 at 345 E 24TH ST
+g0419,test,cchlear implant asssociates,660 First Avenue 7th Fl,10016,1851341168,generated_from_record,from 1851341168 at 660 1ST AVE
+g0420,test,Advanced Neurological Services Of Long Island,880 N Broadway,11758,1972969111,generated_from_record,from 1972969111 at 880 N BROADWAY
+g0421,test,Winthrop Medical Affiliates At Shleter Island,44 South Ferry Road,,1770948093,generated_from_record,from 1770948093 at 44 SOUTH FERRY ROAD
+g0422,test,Nyu Langone Ortho Associates - Mineola,,,1912428350,generated_from_record,from 1912428350 at 137 WILLIS AVE
+g0423,test,pediatic spcialties,160 East 32nd Street,10016-4787,1508194119,generated_from_record,from 1508194119 at 160 E 32ND ST
+g0424,test,Wiinthrop Med Affiliates,,11964,1770948093,generated_from_record,from 1770948093 at 44 SOUTH FERRY ROAD
+g0425,test,Nyu Langone New York University,445 Albee Square W Floors 4a/5a,11201-2156,1760017842,generated_from_record,from 1760017842 at 445 ALBEE SQUARE WEST
+g0426,test,Nyu Langone Ambulatory Care Rego Park,9785 Queens Blvd,11374,1083130967,generated_from_record,from 1083130967 at 9785 QUEENS BLVD
+g0427,test,Winnthrop Hosp,141 Dosoris Ln,,1750389763,generated_from_record,from 1750389763 at 141 DOSORIS LN
+g0428,test,NYU LANGONE ASSOCIATES - NORTH,986 Sunrise Hwy,11704,1437990785,generated_from_record,from 1437990785 at 986 SUNRISE HWY
+g0429,test,Beach Internal Meciine,340 West Park Avenue,11561,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0430,test,NYU ENDDOCRINE,1st Ave Hcc 6h,10016,1912103466,generated_from_record,from 1912103466 at 530 1ST AVE
+g0431,test,LONG ISLANND CARDIOLOGY,285 Sills Road,11772,1225408321,generated_from_record,from 1225408321 at 285 SILLS RD
+g0432,test,Nyu Langone Med Center,530 First Avenue,10016,1710139944,generated_from_record,from 1710139944 at 530 1ST AVE
+g0433,test,Brooklyn Hospital Center,1629 Amsterdam Ave,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0434,test,WINTHRROP NEPHROLOGY ASSOCIATES,200 Old Country Rd,,1477922326,generated_from_record,from 1477922326 at 200 OLD COUNTRY RD
+g0435,test,Nyu Lanogne Witnhrop University Hosp,259 1st Street,11501,1174781900,generated_from_record,from 1174781900 at 259 1ST ST
+g0436,test,Wound Healing Associates,301 E. 17th Street 10th Fl,10003,1942450804,generated_from_record,from 1942450804 at 301 E 17TH ST
+g0437,test,nyu pediatric infectious diseases & immunology,550 1st Av,10016,1912997495,generated_from_record,from 1912997495 at 550 1ST AVE
+g0438,test,Hosppitals,150 55th Street,11220,1437523537,generated_from_record,from 1437523537 at 150 55TH ST
+g0439,test,CENTER FOR MUSCULOSKELETAL CARE,333 E 38th St,,1730601196,generated_from_record,from 1730601196 at 333 EAST 38TH STREET
+g0440,test,nyu cardiac catheterization assco,550 1st Ave,,1942290556,generated_from_record,from 1942290556 at 550 1ST AVE
+g0441,test,Nyu Womne'S Cancer Progrram,160 E 34th St.,10016-7547,1891786489,generated_from_record,from 1891786489 at 160 E 34TH ST
+g0442,test,ISLAND PULMONARY ASSOC,4271 Hempstead Tpke,11714,1538526843,generated_from_record,from 1538526843 at 4271 HEMPSTEAD TPKE
+g0443,test,Nyu Langone Medhattan Urgent Care,111 Broadway,10006,1629443122,generated_from_record,from 1629443122 at 111 BROADWAY FL 2
+g0444,test,Nyu Langone Joseph S. & Diane H. Steinberg Ambulatory Care Center,70 Atlantic Av,11201,1386341394,generated_from_record,from 1386341394 at 70 ATLANTIC AVE
+g0445,test,NYU LANGONE MEDICAL CENTER,550 First Av,10016,1154770576,generated_from_record,from 1154770576 at 550 1ST AVE
+g0446,test,NYU LANGONE,9785 Queens Boulevard,11374-3866,1083130967,generated_from_record,from 1083130967 at 9785 QUEENS BLVD
+g0447,test,Nyu Med Ctr,530 First Ave Suite9V,,1558622381,generated_from_record,from 1558622381 at 530 FIRST AVENUE
+g0448,test,"Winthrop Gastroenterology,Pc",222 Station Plaza North,11501-1344,1578573481,generated_from_record,from 1578573481 at 222 STATION PLAZA NORTH
+g0449,test,NYU LANGONE,550 First Avenue,10016,1023450996,generated_from_record,from 1023450996 at 550 1ST AVE
+g0450,test,Nyu Lanngone,159 East 53rd St.,10022,1902503808,generated_from_record,from 1902503808 at 159 E 53RD ST
+g0451,test,Nyu Diabetes And Endocrine Associates,345 East 37th Street Suite 313,10016,1487765772,generated_from_record,from 1487765772 at 345 E 37TH ST
+g0452,test,Lutheran Medical Care Pllc,,11209,1134410780,generated_from_record,from 1134410780 at 8201 4TH AVE APT 1D
+g0453,test,Denatl,150 55th St.,11220,1649527516,generated_from_record,from 1649527516 at 150 55TH ST
+g0454,test,Nyu School Of Mediicne,400 E 34th St.,10016,1457678872,generated_from_record,from 1457678872 at 400 E 34TH ST
+g0455,test,NYU LANGONE NYUMC CARDIC REHABILITATION,550 First Av,,1467442046,generated_from_record,from 1467442046 at 550 1ST AVE
+g0456,test,New York University Medicaal Center,550 1st Avenue,10016,1689836835,generated_from_record,from 1689836835 at 550 1ST AVE
+g0457,test,nyu langone nyu-hsop for joint,301 E 17th Street,10003,1518314400,generated_from_record,from 1518314400 at 301 E 17TH ST
+g0458,test,Winthrop Community Endocrinology Services Pc,1401 Franklin Av,11530,1154693810,generated_from_record,from 1154693810 at 1401 FRANKLIN AVE
+g0459,test,winthrop radiology associates pc,259 1st St. Radiology Dept,11501,1114960853,generated_from_record,from 1114960853 at 259 1ST ST
+g0460,test,Nyu Langoone Medical Center,560 First Av,10016,1811221245,generated_from_record,from 1811221245 at 560 1ST AVE
+g0461,test,Winthrp Internal Medicine Assoc Pc,222 Station Plz North,11501,1861471831,generated_from_record,from 1861471831 at 222 STATION PLZ N
+g0462,test,Hospitals,259 First St,11501,1114925567,generated_from_record,from 1114925567 at 259 1ST STREET
+g0463,test,New York University Med Ctr,400 E. 34th Street Rr 108,10016,1780674366,generated_from_record,from 1780674366 at 400 E 34TH ST
+g0464,test,Nyu Langone Nyumc Ob/Yn Assoc,530 First Av,10016,1629068101,generated_from_record,from 1629068101 at 530 1ST AVE
+g0465,test,nyu langone hospitals,301 E 17th Street,,1669578324,generated_from_record,from 1669578324 at 301 E 17TH ST
+g0466,test,Nyu Langone Assoc - North Babylon,986 Sunrise Hwy,11704,1437990785,generated_from_record,from 1437990785 at 986 SUNRISE HWY
+g0467,test,Nyu Medcial,101 Broadway,,1801030630,generated_from_record,from 1801030630 at 101 BROADWAY
+g0468,test,Northwell Health Phsician Partners,494 Lexington Ave,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0469,test,winthrop geriatric medicine assoc pc,222 Station Plz N,11501,1174882625,generated_from_record,from 1174882625 at 222 STATION PLZ N
+g0470,test,Nyu Dermatological Surgical Associates,530 1st Av 7r,10016,1982715272,generated_from_record,from 1982715272 at 530 1ST AVE
+g0471,test,nyu internal medicine asociates - the miller practice,355 W 52nd St,10019,1518289552,generated_from_record,from 1518289552 at 355 W 52ND ST
+g0472,test,winthrop & hyperbaric & wound healing services,120 Mineola Blvd Suite 360,,1689039505,generated_from_record,from 1689039505 at 120 MINEOLA BLVD
+g0473,test,Nyu Langone Urgent Care Tlemed,,10016,1568977825,generated_from_record,from 1568977825 at 550 1ST AVE
+g0474,test,WINTHROP PHYSILA THERAPY,1300 Franklin Avenue Suite Ll2,,1528427325,generated_from_record,from 1528427325 at 1300 FRANKLIN AVE
+g0475,test,plastic surg associates,1st Ave,,1902116403,generated_from_record,from 1902116403 at 530 1ST AVE
+g0476,test,Nyu Hosp,560 1st Ave,10016,1245408251,generated_from_record,from 1245408251 at 560 1ST AVE
+g0477,test,Nyu Langone Ortho Assoc Midtown East,645 Madison Av,,1013731843,generated_from_record,from 1013731843 at 645 MADISON AVE FL 3
+g0478,test,soth shhore cardiovascular medicine,137 Broadway,11701,1255797981,generated_from_record,from 1255797981 at 137 BROADWAY
+g0479,test,Nyu-Hospitla For,301 E 17th St.,10003,1518314400,generated_from_record,from 1518314400 at 301 E 17TH ST
+g0480,test,LUTHERAN MEDIICAL CARE PLLC,,,1134410780,generated_from_record,from 1134410780 at 8201 4TH AVE APT 1D
+g0481,test,Winthrop Univversity Hospital,505 Hewlett St,,1033408471,generated_from_record,from 1033408471 at 505 HEWLETT ST
+g0482,test,withrop unniversity hosp,259 1st St Pediatric Department,11501,1699933432,generated_from_record,from 1699933432 at 259 1ST ST
+g0483,test,LUTHERAN MEDICAL CTR,150 55th St,11220,1528013695,generated_from_record,from 1528013695 at 150 55TH ST
+g0484,test,medical ctr,First Ave,10016,1154770576,generated_from_record,from 1154770576 at 550 1ST AVE
+g0485,test,winthrop university hosp,259 First Street,11501,1386929867,generated_from_record,from 1386929867 at 259 FIRST STREET
+g0486,test,Nyu Langone Urgent Care,,10016,1568977825,generated_from_record,from 1568977825 at 550 1ST AVE
+g0487,test,Nyu Ophthlamoloyg Assoc,530 First Ave,10016,1801124425,generated_from_record,from 1801124425 at 530 1ST AVE
+g0488,test,NYULANGONEMEDICALCETNER,462 First Av,,1780138974,generated_from_record,from 1780138974 at 462 1ST AVE
+g0489,test,NYU LANGONE,550 1st Avenue,10016,1023450996,generated_from_record,from 1023450996 at 550 1ST AVE
+g0490,test,Islaand Wide Medical Asssoc,1401 Franklin Avenue,11530,1023473774,generated_from_record,from 1023473774 at 1401 FRANKLIN AVE
+g0491,test,lutheran medical ctr,150 55th St.,11220,1154644292,generated_from_record,from 1154644292 at 150 55TH ST
+g0492,test,Tirnnity Center,111 Broadway Fl 2,10006,1427563949,generated_from_record,from 1427563949 at 111 BROADWAY FL 2
+g0493,test,Nyu Langone Bach Inteernal Medicine,340 West Park Av,11561,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0494,test,luhteran med center,812 54th St,11220,1619912052,generated_from_record,from 1619912052 at 812 54TH ST
+g0495,test,Hosp Long Isalnd,,11577,1831197797,generated_from_record,from 1831197797 at 255 WARNER AVE
+g0496,test,nyu wtc,462 1st Avenue,10016,1366787186,generated_from_record,from 1366787186 at 462 1ST AVE
+g0497,test,NYU LANGONE AMBULATORY CARE COMMAACK,167 Veterans Memorial Hwy,11725,1144105214,generated_from_record,from 1144105214 at 167 VETERANS MEMORIAL HWY
+g0498,test,"winthrop community medical affiliates, pc",715 Roanoke Ave,11901-3809,1548625288,generated_from_record,from 1548625288 at 715 ROANOKE AVE
+g0499,test,nyu transplant associates,E. 34th St,,1518957091,generated_from_record,from 1518957091 at 403 E 34TH ST
+g0500,test,WINTRHOP HYPERBARIC & WOUND CARE,120 Mineola Boulevard,11501,1083805089,generated_from_record,from 1083805089 at 120 MINEOLA BLVD
+g0501,test,nyu neurogenetics lab,403 E. 34th Street 2nd Fl,10016,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0502,test,Nyu Langone Langone Wellness Consulting Llc,,,1710848940,generated_from_record,from 1710848940 at 114 BENTLEY ST
+g0503,test,NEW YORK UNIVERSTY,400 E 34th Street,10016,1619967288,generated_from_record,from 1619967288 at 400 E 34TH ST
+g0504,test,NYU LANGONE WINTHROP INFFECTIOUS DISEASE ASSOCIATES,222 Station Plz N Suite 432,11501,1669878609,generated_from_record,from 1669878609 at 222 STATION PLZ N
+g0505,test,Nyu Otolaryngology Assoc,530 First Ave # 3c,,1316011174,generated_from_record,from 1316011174 at 530 1ST AVE # 3C
+g0506,test,Greenport Primary Med Care,74825 Main Rd,11944,1932564630,generated_from_record,from 1932564630 at 74825 MAIN RD
+g0507,test,nyu,240 E. 38th St,,1013396720,generated_from_record,from 1013396720 at 240 E 38TH ST
+g0508,test,Nyu Langone Hospitals,301 E 17th St.,10003,1669578324,generated_from_record,from 1669578324 at 301 E 17TH ST
+g0509,test,Nyu Cochlear Implant Associates,660 1st Av,,1942324512,generated_from_record,from 1942324512 at 660 1ST AVE FL 7
+g0510,test,Nyu Wtc Heallth Program Cce,,,1366787186,generated_from_record,from 1366787186 at 462 1ST AVE
+g0511,test,Nyu Med Oncology Assoiates,160 E. 34th Street,,1528059532,generated_from_record,from 1528059532 at 160 E 34TH ST
+g0512,test,Montefiore Medical Center,223 Flatbush Ave,11375,NONE,generated_not_nyu,provider outside NYU Langone
+g0513,test,nyu langone new york universtiy hospital ctr,560 First Ave,10016,1316158884,generated_from_record,from 1316158884 at 560 1ST AVE
+g0514,test,nyu columbus medical,9785 Queens Boulevard,11374,1669422879,generated_from_record,from 1669422879 at 9785 QUEENS BLVD
+g0515,test,ColumbiaDoctors,112 Flatbush Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0516,test,Nyu Langone Ambulatorry Care - Betpage,185 Central Avenue,11714,1760155204,generated_from_record,from 1760155204 at 185 CENTRAL AVE
+g0517,test,Nyu Critical,550 1st Avenue,,1811948177,generated_from_record,from 1811948177 at 550 1ST AVE
+g0518,test,Winthrop University Hosp,259 First St.,11501,1952663379,generated_from_record,from 1952663379 at 259 1ST ST
+g0519,test,Nyu Wtc Health Proggram Cce,462 1st Av,10016,1366787186,generated_from_record,from 1366787186 at 462 1ST AVE
+g0520,test,Nyu Otolarryngology - Dr J.,First Ave,10016,1225351182,generated_from_record,from 1225351182 at 550 FIRST AVENUE
+g0521,test,Nyu Langone Med Ctr,240 E. 38th St,10016,1427595594,generated_from_record,from 1427595594 at 240 E 38TH ST
+g0522,test,NYU MOBILE HEALTH VAN PROGRAM,,10003,1346545951,generated_from_record,from 1346545951 at 726 BROADWAY
+g0523,test,Munt Sinai Doctors,414 W 57th St,10301,NONE,generated_not_nyu,provider outside NYU Langone
+g0524,test,winthrop diabetes self-management program,101 Mineola Boulevard Ste 210,,1245724152,generated_from_record,from 1245724152 at 101 MINEOLA BLVD STE 210
+g0525,test,Luteran Med Ctr,3414 Church Ave,,1174627616,generated_from_record,from 1174627616 at 3414 CHURCH AVE
+g0526,test,winthrop faculty med affiliates university faculty practice corpor,200 Old Country Rd Suite 370,11501,1952796203,generated_from_record,from 1952796203 at 200 OLD COUNTRY RD
+g0527,test,nyu group surgery assoc,530 First Av,,1932431038,generated_from_record,from 1932431038 at 530 1ST AVE
+g0528,test,Hospital Long Island Center For Family Dental Medicine,200 Old Country Rd,11501,1558942060,generated_from_record,from 1558942060 at 200 OLD COUNTRY RD STE 460
+g0529,test,Nyu Langone Care On Demand -,1465 3rd Avenue,10028,1144066804,generated_from_record,from 1144066804 at 1465 3RD AVE
+g0530,test,NYU LUTHERAN MED CENTRE,150 55th Street,,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0531,test,Nyu Otolaryngology Assoc,,10016,1316011174,generated_from_record,from 1316011174 at 530 1ST AVE # 3C
+g0532,test,CityMD Urgent Care,1480 Flatbush Ave,11203,NONE,generated_not_nyu,provider outside NYU Langone
+g0533,test,Nuylmc,560 1st Av,10016,1093009755,generated_from_record,from 1093009755 at 560 1ST AVE
+g0534,test,Cochlear Implant Center,222 East 41st Street,10017,1740913664,generated_from_record,from 1740913664 at 222 E 41ST ST FL 8
+g0535,test,WINTHROP FIRST CARE,259 1st Street,,1134460249,generated_from_record,from 1134460249 at 259 1ST ST
+g0536,test,Nyu Langone Meedicaal Center,440 E. 20th St Unit Ma,,1093123762,generated_from_record,from 1093123762 at 440 E 20TH ST
+g0537,test,Luheran Medical Cener,150 55th Street,,1801991914,generated_from_record,from 1801991914 at 150 55TH ST
+g0538,test,Nyu Langone Ortho Surgery Associates,145 E 32nd St,10016,1598287948,generated_from_record,from 1598287948 at 145 E 32ND ST
+g0539,test,HOSPITALS CTR,5616 6th Ave,,1154856623,generated_from_record,from 1154856623 at 5616 6TH AVE
+g0540,test,nyu luthrean medical cnter,150 55th St.,,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0541,test,lutheran med center,150 55th St.,11220,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0542,test,hspitals,160 East 34th St,,1437230034,generated_from_record,from 1437230034 at 160 E 34TH ST
+g0543,test,podiatry associates - brooklyn,1309 Avenue P Lowr Level,,1972028827,generated_from_record,from 1972028827 at 1309 AVENUE P LOWR LEVEL
+g0544,test,hopsittal for jiont diseases,301 East 17th Street,10003,1710040787,generated_from_record,from 1710040787 at 301 E 17TH ST
+g0545,test,Miamonides Medical Center,1815 Ocean Pkwy,10011,NONE,generated_not_nyu,provider outside NYU Langone
+g0546,test,Nyu Langone Med Ctr,1st Av,10016,1972863249,generated_from_record,from 1972863249 at 550 1ST AVE
+g0547,test,nuymc radoilogy associates,,10016,1962513101,generated_from_record,from 1962513101 at 650 1ST AVE
+g0548,test,nyu lanngone south shore heart cardiology,242 Merrick Road,,1225406838,generated_from_record,from 1225406838 at 242 MERRICK RD
+g0549,test,Musculoskeletal Anesthesia And Pain Management At Nyu,301 East 17th Street,10003,1730417353,generated_from_record,from 1730417353 at 301 E 17TH ST
+g0550,test,Nyu Langone Med Center/Tisch,70 Province Dr,11720,1629423009,generated_from_record,from 1629423009 at 70 PROVINCE DR
+g0551,test,Nyu Medical Center,545 1st Av # C-120,10016,1598884017,generated_from_record,from 1598884017 at 545 1ST AVE # C-120
+g0552,test,diabettes and endocrine,345 E. 37th Street,,1487765772,generated_from_record,from 1487765772 at 345 E 37TH ST
+g0553,test,Nyu Langone Medical Center,,10016,1336673813,generated_from_record,from 1336673813 at 550 1ST AVE
+g0554,test,Nyu Anesthesia Asssociates,560 First Ave,10016,1952392946,generated_from_record,from 1952392946 at 560 1ST AVE
+g0555,test,nyu fertility center,660 1st Av 5 & 6th Fl.,,1326110925,generated_from_record,from 1326110925 at 660 1ST AVE
+g0556,test,Hospitals,101 Hospital Road,11772,1831910355,generated_from_record,from 1831910355 at 101 HOSPITAL RD
+g0557,test,NYU,2 Tudor City Place Apt 3en,10017-1558,1568638823,generated_from_record,from 1568638823 at 2 TUDOR CITY PLACE APT 3EN
+g0558,test,nyu plastic surgery,530 1st Av,10016,1902116403,generated_from_record,from 1902116403 at 530 1ST AVE
+g0559,test,Medical Ctr,462 1st Avenue,10016,1215064993,generated_from_record,from 1215064993 at 462 1ST AVE
+g0560,test,NYU MED CENTER,545 First Avenue # C-120,,1598884017,generated_from_record,from 1598884017 at 545 1ST AVE # C-120
+g0561,test,nyufp omfs,421 1st Avenue 2nd Floor,10010-6615,1912123555,generated_from_record,from 1912123555 at 421 1ST AVE
+g0562,test,Winthrop Faculty Med Afiliates University Faculty Prractice Corpor,135 Park Boulevard,11762,1346657756,generated_from_record,from 1346657756 at 135 PARK BLVD
+g0563,test,Winthrop Diabetes Selfm-Anagement,101 Mineola Boulevard Ste 210,11501,1245724152,generated_from_record,from 1245724152 at 101 MINEOLA BLVD STE 210
+g0564,test,NYUCM OB/GYN ASSOC,,10016,1629068101,generated_from_record,from 1629068101 at 530 1ST AVE
+g0565,test,INTERNAL MEDICINE ASSOCIATES,530 First Av,10016,1073792271,generated_from_record,from 1073792271 at 530 1ST AVE
+g0566,test,NEW YORK UNIVERSITY,550 1st Ave,10016,1689836835,generated_from_record,from 1689836835 at 550 1ST AVE
+g0567,test,Luthran Medical Center,2409 East 23rd Street,11235,1801126099,generated_from_record,from 1801126099 at 2409 E 23RD ST
+g0568,test,Winthrop Paalliative Mediicne,222 Station Plz North 518,11501,1346633450,generated_from_record,from 1346633450 at 222 STATION PLZ N
+g0569,test,Nyu Langone Lutheran Medical Center,812 54th Street,11220,1619912052,generated_from_record,from 1619912052 at 812 54TH ST
+g0570,test,ColumbiDoctors,1525 W 57th St,10003,NONE,generated_not_nyu,provider outside NYU Langone
+g0571,test,Nyu Langone Lutheran Medical Care Pllc,8201 4th Ave Apt 1d,11209,1134410780,generated_from_record,from 1134410780 at 8201 4TH AVE APT 1D
+g0572,test,Sheepshead Bay Med Assoc,3632 Nostrand Ave,11229,1760223028,generated_from_record,from 1760223028 at 3632 NOSTRAND AVE STE 3
+g0573,test,Winthrop Neuroscience Associaates,200 Old Country Rd,11501-8296,1952796203,generated_from_record,from 1952796203 at 200 OLD COUNTRY RD
+g0574,test,nyu cochlear implant ctr,222 East 41st St.,,1740913664,generated_from_record,from 1740913664 at 222 E 41ST ST FL 8
+g0575,test,Nyu Langone Med Assoc Harrison,450 Mamaroneck Ave,10528,1679397491,generated_from_record,from 1679397491 at 450 MAMARONECK AVE STE 200
+g0576,test,Montefiore Medcial Center,112 E 86th St,10025,NONE,generated_not_nyu,provider outside NYU Langone
+g0577,test,NYU LANGONE HOSPITALS,,10016,1366541989,generated_from_record,from 1366541989 at 550 1ST AVE
+g0578,test,Nyu Langone Hospital Long Islland Center For Family Dental Medicine,200 Old Country Road,11501,1558942060,generated_from_record,from 1558942060 at 200 OLD COUNTRY RD STE 460
+g0579,test,Nyyumc Pediatric Cardilogy,530 First Avenue Sk 9u,10016-4795,1609866268,generated_from_record,from 1609866268 at 530 1ST AVE
+g0580,test,"Winthrop Oncology Hemattollogy Assoc, Pc",,11501,1891850962,generated_from_record,from 1891850962 at 200 OLD COUNTRY RD
+g0581,test,Nyu Winthrop Medical Affiliates,200 Old Country Road Ste 310,,1457873077,generated_from_record,from 1457873077 at 200 OLD COUNTRY RD STE 310
+g0582,test,Winthrop Foot Care Assoiates,300 Old Country Road Ste 103,11501,1023577798,generated_from_record,from 1023577798 at 300 OLD COUNTRY RD STE 103
+g0583,test,Nyu Lanogone,60 Monitor St,11222,1154737120,generated_from_record,from 1154737120 at 60 MONITOR ST
+g0584,test,nyu luthheran medical center,150 55th Street,,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0585,test,nyu winthrop hospital,141 Dosoris Ln,11542-6914,1750389763,generated_from_record,from 1750389763 at 141 DOSORIS LN
+g0586,test,NYU NEUROMETRIC EVALUATION,462 1st Avenue Old Bellevue 8th Fl,10016,1073503629,generated_from_record,from 1073503629 at 462 1ST AVE
+g0587,test,Winthrop University Hospital,259 1st St,,1952663379,generated_from_record,from 1952663379 at 259 1ST ST
+g0588,test,Nyu Ms Cetner,301 E. 17th Street,10003,1710132790,generated_from_record,from 1710132790 at 301 E 17TH ST
+g0589,test,Musculoskeletal Aensthesia And Pain Management At,301 E 17th St.,,1730417353,generated_from_record,from 1730417353 at 301 E 17TH ST
+g0590,test,LUTHERAN MEDAL CTR,5610 Second Avenue,11220,1609308048,generated_from_record,from 1609308048 at 5610 2ND AVE
+g0591,test,NYU PLASTIC SURGERY ASSOCIATES,1st Avenue Suite 8y,10016,1447410428,generated_from_record,from 1447410428 at 530 1ST AVE
+g0592,test,NYU LANGONE LONG ISLAND,285 Sills Road,,1225408321,generated_from_record,from 1225408321 at 285 SILLS RD
+g0593,test,nyu gastronterology assoc,,,1841281755,generated_from_record,from 1841281755 at 530 1ST AVE
+g0594,test,Nyu Langone Women'S Health Center,159 E. 53rd St.,,1164943502,generated_from_record,from 1164943502 at 159 E 53RD ST
+g0595,test,Nyu Medical - Williamsburg,101 Broadway Suite 301,11211,1801030630,generated_from_record,from 1801030630 at 101 BROADWAY
+g0596,test,Nassau Surigcal Associates,,11501,1649651498,generated_from_record,from 1649651498 at 300 OLD COUNTRY RD
+g0597,test,Nyu College Of Nursing Faculty Practice,345 East 24th St Suite 1b,10010,1306906425,generated_from_record,from 1306906425 at 345 EAST 24TH STREET
+g0598,test,WINTHROP CARDIOLOGY ASSOC,,11501,1245637297,generated_from_record,from 1245637297 at 120 MINEOLA BLVD
+g0599,test,Mount Sinai Doctrs,,10032,NONE,generated_not_nyu,provider outside NYU Langone
+g0600,test,cardiovascular meical associates,975 Stewart Av,11530,1861912503,generated_from_record,from 1861912503 at 975 STEWART AVE
+g0601,test,Dental Facullty Practice,222 E 41st St.,10017-3432,1871713438,generated_from_record,from 1871713438 at 222 E 41ST ST FL 22
+g0602,test,new york university,345 E 24th Street,10010,1366803215,generated_from_record,from 1366803215 at 345 E 24TH ST
+g0603,test,Nyu Langoe Hosptals,150 55th Street,11220,1619341716,generated_from_record,from 1619341716 at 150 55TH ST
+g0604,test,Nyu Sleeep Disorders Ctr,,10016,1689665697,generated_from_record,from 1689665697 at 462 1ST AVE
+g0605,test,AMBULATORY CARE COMMACK,167 Veterans Memorial Hwy,11725,1144105214,generated_from_record,from 1144105214 at 167 VETERANS MEMORIAL HWY
+g0606,test,nyu langone med ctr/ rusk institute of rehabilitation,400 East 34th St.,,1790031797,generated_from_record,from 1790031797 at 400 E 34TH ST RM 515
+g0607,test,New York Universiity Med Ctr Faculty Practice Radiology,,10016,1114038353,generated_from_record,from 1114038353 at 650 1ST AVE
+g0608,test,Maimonides Mediccal Center,1333 Queens Blvd,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0609,test,adult neurosurgery associates,530 First Avenue,10016,1962734517,generated_from_record,from 1962734517 at 530 1ST AVE
+g0610,test,Witnhrop Pathology Assoc,222 Station Plz N Suite 606,11501,1598727257,generated_from_record,from 1598727257 at 222 STATION PLZ N
+g0611,test,Ortho Associaets - Hauppauge,517 Route 111,11788,1790478725,generated_from_record,from 1790478725 at 517 ROUTE 111 STE 3B
+g0612,test,Lenox Hill Hosspital,741 Lexington Ave,10032,NONE,generated_not_nyu,provider outside NYU Langone
+g0613,test,NYU GERIATRIC ASSSOCIATES,530 1st Ave,10016,1851541718,generated_from_record,from 1851541718 at 530 1ST AVE
+g0614,test,Nyu Collees Of Dentistry & Nursing,345 E. 24th St. 213s,10010,1013183995,generated_from_record,from 1013183995 at 345 E 24TH ST
+g0615,test,nyumc cardica rehabillitation,550 First Avenue,,1467442046,generated_from_record,from 1467442046 at 550 1ST AVE
+g0616,test,Winthrop University Hosp,422 Berrywood Ct,11552,1740632330,generated_from_record,from 1740632330 at 422 BERRYWOOD CT
+g0617,test,nyu lnagone otrho surgery associates,145 E 32nd St,10016,1598287948,generated_from_record,from 1598287948 at 145 E 32ND ST
+g0618,test,Wintrhop Radiology,259 1st St.,11501,1114960853,generated_from_record,from 1114960853 at 259 1ST ST
+g0619,test,NYU GERIATRIC ASSSOCIATES,1st Avenue,10016,1851541718,generated_from_record,from 1851541718 at 530 1ST AVE
+g0620,test,lutheran medical center,2409 E 23rd St,,1801126099,generated_from_record,from 1801126099 at 2409 E 23RD ST
+g0621,test,SUNYD ownstate Health,1579 Broadway,,NONE,generated_not_nyu,provider outside NYU Langone
+g0622,test,nyu langone winthrop cardiology associates p c,120 Mineola Blvd. Suite 500,11501,1265762900,generated_from_record,from 1265762900 at 120 MINEOLA BLVD.
+g0623,test,riverhead internal medicnie,715 Roanoke Avenue,11901,1548625288,generated_from_record,from 1548625288 at 715 ROANOKE AVE
+g0624,test,Nyu Women'S Heart Program,177 East 87th St.,10128,1447582960,generated_from_record,from 1447582960 at 177 E 87TH ST
+g0625,test,"winthrop community med affiliates, pc",189 Main Rd,11901,1013455773,generated_from_record,from 1013455773 at 189 MAIN RD
+g0626,test,hosptitals,,11220,1619341716,generated_from_record,from 1619341716 at 150 55TH ST
+g0627,test,Nyu Langone Addvanced Ortho Specialists,601 Franklin Ave,11530,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0628,test,NEW YORK UNIVERSITY,345 E 24th Street,10010-6541,1366803215,generated_from_record,from 1366803215 at 345 E 24TH ST
+g0629,test,Ortho Surg Assoc,530 First Avenue,10016,1891217238,generated_from_record,from 1891217238 at 530 1ST AVE STE 8U
+g0630,test,Nyu Pediatic Surggery Associates,530 1st Avenue,,1407807753,generated_from_record,from 1407807753 at 530 1ST AVE
+g0631,test,Nyu Langone Hosptials,150 55th St,11220,1528432622,generated_from_record,from 1528432622 at 150 55TH ST
+g0632,test,Lutheran Medical Ctr,,11220,1497043673,generated_from_record,"from 1497043673 at 150, 55TH STREET"
+g0633,test,winthrop pain management,1300 Franklin Av,11530,1063642254,generated_from_record,from 1063642254 at 1300 FRANKLIN AVE
+g0634,test,NYU MED CTR,333 East 38th St,,1942613179,generated_from_record,from 1942613179 at 333 E 38TH ST
+g0635,test,Winthrop Pysical Therapy,Franklin Ave,,1316113129,generated_from_record,from 1316113129 at 1300 FRANKLIN AVE
+g0636,test,nuclear cardiology assoc,550 First Av Hw 244,10016,1063402543,generated_from_record,from 1063402543 at 550 1ST AVE
+g0637,test,winthrop ortho associate,2339 Hempstead Tpke,11554-6897,1134609944,generated_from_record,from 1134609944 at 2339 HEMPSTEAD TPKE
+g0638,test,Nyu Hosp For Joint Diseases,15139 12th Av,,1508279936,generated_from_record,from 1508279936 at 15139 12TH AVE
+g0639,test,NYU LANGONE HOSPITALS,150 55th St,11220,1619341716,generated_from_record,from 1619341716 at 150 55TH ST
+g0640,test,winthrop university hospital pa/np services,259 1st Street,11501,1861435141,generated_from_record,from 1861435141 at 259 1ST ST
+g0641,test,NYU LANGONE,530 First Ave Hcc-12 Room 1219,,1710139944,generated_from_record,from 1710139944 at 530 1ST AVE
+g0642,test,Nyu Langone Medical Associates-West Brighton,2857 W 8th St Fl 2,11224,1780425041,generated_from_record,from 1780425041 at 2857 W 8TH ST FL 2
+g0643,test,Mount Sinai Docctors,1177 Broadway,10011,NONE,generated_not_nyu,provider outside NYU Langone
+g0644,test,winthrop neuro-science med pc,200 Old Country Road Suite 370,11501,1104187418,generated_from_record,from 1104187418 at 200 OLD COUNTRY RD
+g0645,test,Nyu Lutheran Family Heaalth Ctr Qualitycare Group,150 55th St.,11220,1245635200,generated_from_record,from 1245635200 at 150 55TH ST
+g0646,test,Advanced Pulmonary Diagnostics,Mineola Boulevard,11501,1083150288,generated_from_record,from 1083150288 at 297 MINEOLA BLVD
+g0647,test,Nyu Lanogne Hospitals,150 55th St.,11220,1346614443,generated_from_record,from 1346614443 at 150 55TH ST
+g0648,test,Winthrop Radiology Assoc Pc,259 First Street Radiology Dept,11501,1114960853,generated_from_record,from 1114960853 at 259 1ST ST
+g0649,test,NYU SURGICAL CRITICAL CARE ASSOCIATTES,1st Avenue,10016,1144271487,generated_from_record,from 1144271487 at 530 1ST AVE
+g0650,test,"winthrop pathology seervices, pc",222 Station Plz N Suite 606,11501,1598953580,generated_from_record,from 1598953580 at 222 STATION PLZ N
+g0651,test,NYU LANGONE ASSOCIATES - NORTH BABYLON,,11704,1437990785,generated_from_record,from 1437990785 at 986 SUNRISE HWY
+g0652,test,Nyu Pulmonary Assc,530 First Av Hcc 5e,10016,1275604258,generated_from_record,from 1275604258 at 530 1ST AVE
+g0653,test,Winthrop University Hospitaal,505 Hewlett Street,11010,1033408471,generated_from_record,from 1033408471 at 505 HEWLETT ST
+g0654,test,Winthrop University Hospital Pa/Np Services,,11501,1861435141,generated_from_record,from 1861435141 at 259 1ST ST
+g0655,test,NYU LUTHERAN MEDICAL CTR,150 55th St.,11220,1811936529,generated_from_record,from 1811936529 at 150 55TH ST
+g0656,test,Winthrop University Hospial,58 6th Av,11501,1821309691,generated_from_record,from 1821309691 at 58 6TH AVE
+g0657,test,Winthrop Pathology Servicees,222 Station Plz N,,1780043570,generated_from_record,from 1780043570 at 222 STATION PLZ N
+g0658,test,HOSPITTALS,101 Hospital Rd,11772,1831910355,generated_from_record,from 1831910355 at 101 HOSPITAL RD
+g0659,test,advanced orthopaedic specialists,2000 N Village Av,,1891275681,generated_from_record,from 1891275681 at 2000 N VILLAGE AVE STE 306
+g0660,test,Nyu Langone Winthrop Chld Neurology Assoc,173 Mineola Boulevard,11501,1235533993,generated_from_record,from 1235533993 at 173 MINEOLA BLVD
+g0661,test,Nyu Langone Assoc - North Babylon,986 Sunrise Hwy,,1437990785,generated_from_record,from 1437990785 at 986 SUNRISE HWY
+g0662,test,NYULMC,560 First Av,10016,1093009755,generated_from_record,from 1093009755 at 560 1ST AVE
+g0663,test,Nyu Langone Joan H. And Preston Robert Tisch Ctr At Essex Crossing,171 Delancey St,10002,1023508603,generated_from_record,from 1023508603 at 171 DELANCEY STREET
+g0664,test,NYU LANGONE CARE ON DEMAND - WEST VILLAGE,540 Hudson St,10014,1144067794,generated_from_record,from 1144067794 at 540 HUDSON STREET
+g0665,test,nyu langone hospital - suffolk,101 Hospital Rd,11772,1508687021,generated_from_record,from 1508687021 at 101 HOSPITAL RD
+g0666,test,Neurogenetics Lab,403 East 34th St Second Fl,10016,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0667,test,Winthrop Inectious Disease Associates,222 Station Plz N Suite 432,11501,1093095499,generated_from_record,from 1093095499 at 222 STATION PLZ N
+g0668,test,nyu langone winthrop community medicaal affiliates pc,975 Stewart Av,11530,1861912503,generated_from_record,from 1861912503 at 975 STEWART AVE
+g0669,test,Hospital For Joint Diseses,300 E 17th St,10003,1912220153,generated_from_record,from 1912220153 at 300 E 17TH ST
+g0670,test,Nyu Pediatric Surg Associaes,530 1st Av,,1407807753,generated_from_record,from 1407807753 at 530 1ST AVE
+g0671,test,nyu general intenral medicine associates,550 1st Avenue,10016,1487758082,generated_from_record,from 1487758082 at 550 1ST AVE
+g0672,test,winthrop faculty med affiliates university faculty,135 Park Boulevard,11762,1346657756,generated_from_record,from 1346657756 at 135 PARK BLVD
+g0673,test,nyu langone hospiitals,55th St,11220,1619341716,generated_from_record,from 1619341716 at 150 55TH ST
+g0674,test,nyu langone,340 W Park Av,,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0675,test,Nyu Langone Medcal Center/Tisch Hosp,70 Province Dr,,1629423009,generated_from_record,from 1629423009 at 70 PROVINCE DR
+g0676,test,Nyu Cancer Institute,160 E 34th Street,10016,1811253511,generated_from_record,from 1811253511 at 160 E 34TH ST
+g0677,test,NYU LANOGNE SEAPRT ORTHO,233 Broadway,,1023539566,generated_from_record,from 1023539566 at 233 BROADWAY STE 620
+g0678,test,Nyu Langone Women'S,159 East 53rd St.,10022,1164943502,generated_from_record,from 1164943502 at 159 E 53RD ST
+g0679,test,NYUMC NON-INVASIVE DIAGNOSTIC ASSOCIATES,550 First Ave Hw 228,10016,1972553139,generated_from_record,from 1972553139 at 550 1ST AVE
+g0680,test,advanced orthopaeic specialists,2000 N Village Avenue,,1497113989,generated_from_record,from 1497113989 at 2000 N VILLAGE AVE
+g0681,test,WINTHROP UNIVERSITY HOSP EMERGENCY ROOM PHYSICIANS,,11501,1093752628,generated_from_record,from 1093752628 at 259 1ST ST
+g0682,test,nyu breast and surical oncology associates,160 E 34th St,10016,1407858095,generated_from_record,from 1407858095 at 160 E 34TH ST
+g0683,test,New York Univerrsity College Of Dentistry,345 E. 24th St.,10010,1629481106,generated_from_record,from 1629481106 at 345 E 24TH ST
+g0684,test,med ceenter,660 First Ave,10016,1538458252,generated_from_record,from 1538458252 at 660 1ST AVE
+g0685,test,nyu lanngoe womens health center,,10022,1902503808,generated_from_record,from 1902503808 at 159 E 53RD ST
+g0686,test,Nyu Breast And Surgical,160 East 34th Street,10016,1407858095,generated_from_record,from 1407858095 at 160 E 34TH ST
+g0687,test,Mount Sinia Doctors,1603 Court St,11230,NONE,generated_not_nyu,provider outside NYU Langone
+g0688,test,MOLECULAR GENETICS LAB NYU MEDICAL CTR,550 First Av Msb 136,10016,1942416227,generated_from_record,from 1942416227 at 550 1ST AVE
+g0689,test,NYU LUTHERAN,150 55th St.,11220-3324,1427426824,generated_from_record,from 1427426824 at 150 55TH ST
+g0690,test,Maimonides Medical Center,1473 Queens Blvd,,NONE,generated_not_nyu,provider outside NYU Langone
+g0691,test,Cardioloyg Assoc,530 1st Ave,10016,1952392961,generated_from_record,from 1952392961 at 530 1ST AVE
+g0692,test,Northwell Health Physician Partnerrs,46 Queens Blvd,,NONE,generated_not_nyu,provider outside NYU Langone
+g0693,test,Nyu Langone Winthrop Hospitalist Asosc,259 First St.,11501,1174907547,generated_from_record,from 1174907547 at 259 1ST ST
+g0694,test,Winthrop University Hospital,259 First St,11501,1447564034,generated_from_record,from 1447564034 at 259 1ST ST
+g0695,test,Winthrp University Hospital,259 First St.,11501,1952663379,generated_from_record,from 1952663379 at 259 1ST ST
+g0696,test,elhmurst med ctr,,,1477557320,generated_from_record,from 1477557320 at 143-43 41ST AVENUE
+g0697,test,Nyu Ophthalmology Assoc,First Avenue,10016,1801124425,generated_from_record,from 1801124425 at 530 1ST AVE
+g0698,test,Nyu Langone Hosppital Long Island,259 First Street,11501,1427616002,generated_from_record,from 1427616002 at 259 1ST ST
+g0699,test,Nyu Langone Beacch,,11561,1801284997,generated_from_record,from 1801284997 at 340 W PARK AVE
+g0700,test,Family Medicine Assoc Of West Babylon,580 Sunrise Hwy,11704,1245774777,generated_from_record,from 1245774777 at 580 SUNRISE HWY
+g0701,test,Hematology Associates,160 E. 34th St.,,1083605679,generated_from_record,from 1083605679 at 160 E 34TH ST
+g0702,test,"winthrop hyperbaric & wound care services, p.c",120 Mineola Boulevard,,1083805089,generated_from_record,from 1083805089 at 120 MINEOLA BLVD
+g0703,test,nyu langne hospitals,,,1114925567,generated_from_record,from 1114925567 at 259 1ST STREET
+g0704,test,nyu neurogenetics lab,,10016,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0705,test,Luteran Med Ctr,150 55th St,,1154644292,generated_from_record,from 1154644292 at 150 55TH ST
+g0706,test,Nyu Transplant Assoc,403 East 34th St.,10016-2106,1518957091,generated_from_record,from 1518957091 at 403 E 34TH ST
+g0707,test,nyu langone nyumc pathology associates,550 First Avenue 10 U,10016,1811987456,generated_from_record,from 1811987456 at 550 1ST AVE
+g0708,test,Winthrop Cardilogy Associates,,,1245637297,generated_from_record,from 1245637297 at 120 MINEOLA BLVD
+g0709,test,Nyumc Diialysis Assoc,560 1st Avenue Tisch 1800,10016,1992795561,generated_from_record,from 1992795561 at 560 1ST AVE
+g0710,test,Advanced Orthopaedic Specialistts,601 Franklin Av Ste 215,11530,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0711,test,nyu langone brooklyn podiatry associates - 77th street,441 77th St.,11209,1760184535,generated_from_record,from 1760184535 at 441 77TH ST
+g0712,test,Nyu Langone,109 West Main Street,11772,1487743480,generated_from_record,from 1487743480 at 109 WEST MAIN STREET
+g0713,test,"Winthrop Community Medical Affiliates, Pc",1279 E Main St.,11901,1578934071,generated_from_record,from 1578934071 at 1279 E MAIN ST
+g0714,test,lutheran med ctr,150 55th St.,,1235233859,generated_from_record,from 1235233859 at 150 55TH ST
+g0715,test,WINTHROP INTERNAL MEDICINE ASSOC PC,222 Station Plz North Suite 310,11501-7864,1861471831,generated_from_record,from 1861471831 at 222 STATION PLZ N
+g0716,test,wiinthrop hospitalist associates pc,259 First St.,11501-7425,1124371091,generated_from_record,from 1124371091 at 259 1ST ST
+g0717,test,lutheran medical ctr,514 49th St.,11220,1023182102,generated_from_record,from 1023182102 at 514 49TH ST
+g0718,test,nyu lutheran family health ctr quality care group,150 55th St.,,1831549559,generated_from_record,from 1831549559 at 150 55TH ST
+g0719,test,urgent care - west side,355 West 52nd St,10019,1972012540,generated_from_record,from 1972012540 at 355 W 52ND ST
+g0720,test,Hicksville Internal Medicine,43 Barter Ln,,1356708747,generated_from_record,from 1356708747 at 43 BARTER LN
+g0721,test,new york university medical ctr,400 E 34th Street,,1780674366,generated_from_record,from 1780674366 at 400 E 34TH ST
+g0722,test,nuymc dialysis asoc,560 1st Av,10016,1992795561,generated_from_record,from 1992795561 at 560 1ST AVE
+g0723,test,Nyu Lanoen,550 First Ave,10016,1023450996,generated_from_record,from 1023450996 at 550 1ST AVE
+g0724,test,Cochlear Implant Associates,660 1st Avenue,10016,1851341168,generated_from_record,from 1851341168 at 660 1ST AVE
+g0725,test,"Winthrop Gastroenterology,Pc",222 Station Plaza North,11501,1578573481,generated_from_record,from 1578573481 at 222 STATION PLAZA NORTH
+g0726,test,New York,425 E 114th St. Apt 4fw,10029,1437426905,generated_from_record,from 1437426905 at 425 E 114TH ST APT 4FW
+g0727,test,deenntal,150 55th Street,11220,1649527516,generated_from_record,from 1649527516 at 150 55TH ST
+g0728,test,New York University Medical Center Facultty Practice Radiology,,,1114038353,generated_from_record,from 1114038353 at 650 1ST AVE
+g0729,test,Mount Sinai Hospital,,,NONE,generated_not_nyu,provider outside NYU Langone
+g0730,test,New York University Med Center,550 First Av,,1598921470,generated_from_record,from 1598921470 at 550 1ST AVE
+g0731,test,wtc program cce,First Ave,10016,1366787186,generated_from_record,from 1366787186 at 462 1ST AVE
+g0732,test,Nyu Langone Ortho Surgery Associates,145 East 32nd St,10016,1598287948,generated_from_record,from 1598287948 at 145 E 32ND ST
+g0733,test,NYU LANGONE HOSP - SUFFOLK,101 Hospital Rd,11772-4734,1508687021,generated_from_record,from 1508687021 at 101 HOSPITAL RD
+g0734,test,New York University School Of Medicine,,10016,1396944328,generated_from_record,from 1396944328 at 462 1ST AVE
+g0735,test,NYU LANGNOE HOSPITALS,,11501,1114925567,generated_from_record,from 1114925567 at 259 1ST STREET
+g0736,test,Nyu Langoen Ambulatoy Care Rego Park,,,1083130967,generated_from_record,from 1083130967 at 9785 QUEENS BLVD
+g0737,test,Nyu,,10016,1013396720,generated_from_record,from 1013396720 at 240 E 38TH ST
+g0738,test,orthopedic assoc midtown east,645 Madison Ave Fl 3,10022,1013731843,generated_from_record,from 1013731843 at 645 MADISON AVE FL 3
+g0739,test,wintthrop infcetious disease assoc,222 Station Plz N,11501,1447215652,generated_from_record,from 1447215652 at 222 STATION PLZ N
+g0740,test,Nyu Langone Med Associates-West Brighton,2857 W 8th St Fl 2,11224,1780425041,generated_from_record,from 1780425041 at 2857 W 8TH ST FL 2
+g0741,test,Nyu Internal Medicine Associates,530 First Avenue Hcc 7b,10016,1982883187,generated_from_record,from 1982883187 at 530 1ST AVE
+g0742,test,East End Endocrinology Assoc,189 Main Road Suite F,11901,1013455773,generated_from_record,from 1013455773 at 189 MAIN RD
+g0743,test,winthrop pain management,1300 Franklin Ave,11530,1063642254,generated_from_record,from 1063642254 at 1300 FRANKLIN AVE
+g0744,test,witnhrop infectious disease,222 Station Plz North,11501,1285905703,generated_from_record,from 1285905703 at 222 STATION PLZ N
+g0745,test,Lutheran Medicla Center,514 49th Street,11220,1023182102,generated_from_record,from 1023182102 at 514 49TH ST
+g0746,test,HOSPITALS CTR,5616 6th Ave,11220-4450,1154856623,generated_from_record,from 1154856623 at 5616 6TH AVE
+g0747,test,New York University Langone Med,530 1st Avenue,10016,1790198638,generated_from_record,from 1790198638 at 530 1ST AVE
+g0748,test,Nyu Langone Care On Demadn - Upper,,10028,1144066804,generated_from_record,from 1144066804 at 1465 3RD AVE
+g0749,test,Nyu Internal Medicine Associates,530 1st Avenue,,1073792271,generated_from_record,from 1073792271 at 530 1ST AVE
+g0750,test,nyu geeneral internal medicine associates,550 1st Avenue,10016,1487758082,generated_from_record,from 1487758082 at 550 1ST AVE
+g0751,test,advanced orthoepdics,285 Sills Road Bldg 18,11772,1982382438,generated_from_record,from 1982382438 at 285 SILLS RD BLDG 18
+g0752,test,Winthrop Hospitalist Assoc,259 First St.,11501-9825,1174907547,generated_from_record,from 1174907547 at 259 1ST ST
+g0753,test,winthrop infectious disease associates,222 Station Plz N,11501,1669878609,generated_from_record,from 1669878609 at 222 STATION PLZ N
+g0754,test,Nyu Ekg Associates,550 First Avenue,10016,1679563217,generated_from_record,from 1679563217 at 550 1ST AVE
+g0755,test,dermatoloical surgical assoc,First Ave 7r,,1982715272,generated_from_record,from 1982715272 at 530 1ST AVE
+g0756,test,new york university school of medicine,462 First Av,10016,1396944328,generated_from_record,from 1396944328 at 462 1ST AVE
+g0757,test,Neurometric Evaluation,462 First Ave,,1073503629,generated_from_record,from 1073503629 at 462 1ST AVE
+g0758,test,Nyu Langone Med Center,440 East 20th St.,,1093123762,generated_from_record,from 1093123762 at 440 E 20TH ST
+g0759,test,Winthrop Faculty Medical Affiliates University Faculty Practice Corpor,259 First St.,11501,1386924439,generated_from_record,from 1386924439 at 259 1ST ST
+g0760,test,Orthopedic Assoc - Hauppauge,517 Route 111,11788,1790478725,generated_from_record,from 1790478725 at 517 ROUTE 111 STE 3B
+g0761,test,Kings County oHspital,888 Broadway,10301,NONE,generated_not_nyu,provider outside NYU Langone
+g0762,test,CHILD STUY CTR,577 1st Ave,10016,1063698439,generated_from_record,from 1063698439 at 577 1ST AVE
+g0763,test,Lutheran Medical Ceter,,,1174627616,generated_from_record,from 1174627616 at 3414 CHURCH AVE
+g0764,test,Nyu Langone Family,580 Sunrise Hwy,,1245774777,generated_from_record,from 1245774777 at 580 SUNRISE HWY
+g0765,test,Columbus Mediicaal,9785 Queens Boulevard,11374,1669422879,generated_from_record,from 1669422879 at 9785 QUEENS BLVD
+g0766,test,east end endocrinology associates,189 Main Road,,1013455773,generated_from_record,from 1013455773 at 189 MAIN RD
+g0767,test,Vasculalr Surg Associates,530 1st Avenue,,1134170632,generated_from_record,from 1134170632 at 530 1ST AVE
+g0768,test,Bellevue Hospital,,10029,NONE,generated_not_nyu,provider outside NYU Langone
+g0769,test,WTC PROGRAM CCE,462 1st Av,,1366787186,generated_from_record,from 1366787186 at 462 1ST AVE
+g0770,test,SUNY Downstate Health,,,NONE,generated_not_nyu,provider outside NYU Langone
+g0771,test,New York University Med Ceenter,550 1st Av,10016,1689836835,generated_from_record,from 1689836835 at 550 1ST AVE
+g0772,test,lutheran medical ctr,3414 Church Avenue,11203,1174627616,generated_from_record,from 1174627616 at 3414 CHURCH AVE
+g0773,test,Winthrop Med Affiliates At North Babylon,1350 Deer Park Ave,11703,1619334877,generated_from_record,from 1619334877 at 1350 DEER PARK AVE
+g0774,test,Nyu Langone Med Center,660 1st Avenue,10016,1861842304,generated_from_record,from 1861842304 at 660 1ST AVE
+g0775,test,Nyu Langone Brooklyn Podiatry Assoc - 77Th Street,441 77th St.,11209,1760184535,generated_from_record,from 1760184535 at 441 77TH ST
+g0776,test,Winthrop First Care Medical Services Pc,,11501,1134460249,generated_from_record,from 1134460249 at 259 1ST ST
+g0777,test,New York University,339 E 28th St.,10016,1851456701,generated_from_record,from 1851456701 at 339 E 28TH ST
+g0778,test,Winthrop Pulmonary Associates,222 Station Plz N Suite 400,11501,1720443633,generated_from_record,from 1720443633 at 222 STATION PLZ N
+g0779,test,Nyu Auiology Asosc,530 First Av,10016,1528018090,generated_from_record,from 1528018090 at 530 1ST AVE
+g0780,test,ambulatory care,,,1760155204,generated_from_record,from 1760155204 at 185 CENTRAL AVE
+g0781,test,Montefiore Medical Center,1702 Flatbush Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0782,test,Nyu Ednocrine Surg Associates,530 1st Ave Hcc 6h,10016,1912103466,generated_from_record,from 1912103466 at 530 1ST AVE
+g0783,test,Nyu Laangone Winthrop University Hosp Assocation,,11501,1316216542,generated_from_record,from 1316216542 at 259 1ST ST
+g0784,test,Winthrop Faculty Medial,951 Merrick Avenue,,1730596149,generated_from_record,from 1730596149 at 951 MERRICK AVE
+g0785,test,ColumbiaDoctors,963 Queens Blvd,10003,NONE,generated_not_nyu,provider outside NYU Langone
+g0786,test,Nyu Langone Brooklyn Podiatry Associates - 77Th Street,,11209,1760184535,generated_from_record,from 1760184535 at 441 77TH ST
+g0787,test,Winthrop Pathology Assoc,222 Station Plz N,,1598727257,generated_from_record,from 1598727257 at 222 STATION PLZ N
+g0788,test,Luthern Med Cennter-Nes,150 55th St Station 3-03,11220,1891112868,generated_from_record,from 1891112868 at 150 55TH STREET STATION 3-03
+g0789,test,Nyu Langone Med Associates-Riverhead,893 E Main Street,11901,1770256216,generated_from_record,from 1770256216 at 893 E MAIN ST
+g0790,test,nyu dental faculty,726 Broadway,10003,1841738960,generated_from_record,from 1841738960 at 726 BROADWAY
+g0791,test,NYU LANGONE HOSPITAL LONG ISLAND,255 Warner Av,11577,1831197797,generated_from_record,from 1831197797 at 255 WARNER AVE
+g0792,test,Nyulangonemedicalcenter,462 First Ave Nbv-8S3,10016,1780138974,generated_from_record,from 1780138974 at 462 1ST AVE
+g0793,test,nyu dental faculty,,10003,1841738960,generated_from_record,from 1841738960 at 726 BROADWAY
+g0794,test,Winthrop Urology Associates,1300 Franklin Av Suite Ml-6,,1366801409,generated_from_record,from 1366801409 at 1300 FRANKLIN AVE
+g0795,test,Nyu Langone Bethpage Primary Care,530 Hicksville Road,11714,1891150553,generated_from_record,from 1891150553 at 530 HICKSVILLE RD
+g0796,test,NYU LANGONE HOME HEEALTH CARE,290 Old Country Road,11501,1215931811,generated_from_record,from 1215931811 at 290 OLD COUNTRY ROAD
+g0797,test,NYU LUTHERAN MEDICAL CTR,55th St.,11220,1528013695,generated_from_record,from 1528013695 at 150 55TH ST
+g0798,test,Nyu Bhs,First Av,,1205826781,generated_from_record,from 1205826781 at 550 1ST AVE
+g0799,test,new york university,445 Albee Square West,11201,1760017842,generated_from_record,from 1760017842 at 445 ALBEE SQUARE WEST
+g0800,test,WINTHROP COMMUNITY ENDOCRINOLOGY SERVICES PC,1401 Franklin Av,11530,1154693810,generated_from_record,from 1154693810 at 1401 FRANKLIN AVE
+g0801,test,winthrop university hosp,259 First Street,11501,1174781900,generated_from_record,from 1174781900 at 259 1ST ST
+g0802,test,Winthrop Physicl Therapy,1300 Franklin Av,11530,1528427325,generated_from_record,from 1528427325 at 1300 FRANKLIN AVE
+g0803,test,Family Medicine Associates Of West Babylon,580 Sunrise Hwy,11704,1245774777,generated_from_record,from 1245774777 at 580 SUNRISE HWY
+g0804,test,RIVERHEAD INTERNAL MEDICINE,715 Roanoke Av,,1548625288,generated_from_record,from 1548625288 at 715 ROANOKE AVE
+g0805,test,medical assoicates - patcohgue,100 Hospital Road,,1275256273,generated_from_record,from 1275256273 at 100 HOSPITAL RD STE 115
+g0806,test,NYU LANGONE NEW YORK UNIVERSITY HOSP CENTER,560 1st Avenue,,1316158884,generated_from_record,from 1316158884 at 560 1ST AVE
+g0807,test,NewYork-Presbyterian Weill Cornell,561 Broadway,10032,NONE,generated_not_nyu,provider outside NYU Langone
+g0808,test,radiation oncoology assoc,566 First Ave,10016,1861483851,generated_from_record,from 1861483851 at 566 1ST AVE
+g0809,test,Northwell Health Physiian Partners,185 Kings Hwy,,NONE,generated_not_nyu,provider outside NYU Langone
+g0810,test,Kings County Hospital,684 W 57th St,11375,NONE,generated_not_nyu,provider outside NYU Langone
+g0811,test,nyu langone medical center,240 E 38th Street,10016,1427595594,generated_from_record,from 1427595594 at 240 E 38TH ST
+g0812,test,Nyu Langone Urgent Care Telemed,550 1st Av,10016,1568977825,generated_from_record,from 1568977825 at 550 1ST AVE
+g0813,test,Nyu Langone Ambulatory,,11554,1003427980,generated_from_record,from 1003427980 at 1530 FRONT ST
+g0814,test,WINTHROP UNIVERSITTY HOSP,,11004,1558606186,generated_from_record,from 1558606186 at 8141 268TH ST
+g0815,test,Nyu Urgent Care - West Side,355 West 52nd St,10019-4042,1972012540,generated_from_record,from 1972012540 at 355 W 52ND ST
+g0816,test,New York University Med Ctr Nyumc Neurology Associates,400 E. 34th St.,10016,1619967288,generated_from_record,from 1619967288 at 400 E 34TH ST
+g0817,test,Kings County Hospital,,10025,NONE,generated_not_nyu,provider outside NYU Langone
+g0818,test,nyu langone winthrop urology assoc,1300 Franklin Ave Suite Ml-6,11530,1366801409,generated_from_record,from 1366801409 at 1300 FRANKLIN AVE
+g0819,test,nyu aesthesia assoc,560 First Avenue,,1952392946,generated_from_record,from 1952392946 at 560 1ST AVE
+g0820,test,Nyu General Interrnal Medicine Associates,550 1st Ave,10016,1487758082,generated_from_record,from 1487758082 at 550 1ST AVE
+g0821,test,new york university,445 Albee Square W,11201,1760017842,generated_from_record,from 1760017842 at 445 ALBEE SQUARE WEST
+g0822,test,New York University College Of Dentistry,345 E. 24th Street,10010,1629481106,generated_from_record,from 1629481106 at 345 E 24TH ST
+g0823,test,Nyu Langone,8141 268th Street,11004,1558606186,generated_from_record,from 1558606186 at 8141 268TH ST
+g0824,test,nyu neurogenetics lab,403 E 34th Street,10016,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0825,test,new york university medical,550 First Avenue,10016,1598921470,generated_from_record,from 1598921470 at 550 1ST AVE
+g0826,test,Winthrp Rheumatology Allery And Immunology Pc,120 Mineola Boulevard Suite 410,11501,1376898791,generated_from_record,from 1376898791 at 120 MINEOLA BLVD
+g0827,test,Nyu Breast And Surgical Oncology Associiates,160 East 34th St.,10016,1407858095,generated_from_record,from 1407858095 at 160 E 34TH ST
+g0828,test,Maimonides Medical Center,1862 Kings Hwy,10029,NONE,generated_not_nyu,provider outside NYU Langone
+g0829,test,nyu surgical critical care asociates,530 1st Avenue,,1144271487,generated_from_record,from 1144271487 at 530 1ST AVE
+g0830,test,NYU WOUND HEALING ASSOCIATES,301 East 17th St,10003,1942450804,generated_from_record,from 1942450804 at 301 E 17TH ST
+g0831,test,New York University Med Ctr,589 First Ave,10016,1942441514,generated_from_record,from 1942441514 at 589 1ST AVE
+g0832,test,NYU LANGONE,550 1st Av,10016,1023450996,generated_from_record,from 1023450996 at 550 1ST AVE
+g0833,test,winthrop pathology services,222 Station Plz North Suite 606,11501,1780043570,generated_from_record,from 1780043570 at 222 STATION PLZ N
+g0834,test,Nyu Colleges Of Dentistry & Nursing,345 East 24th St.,10010,1013183995,generated_from_record,from 1013183995 at 345 E 24TH ST
+g0835,test,WINTHROOP UNIVERSITY,,,1326081605,generated_from_record,from 1326081605 at 259 1ST ST
+g0836,test,Nyu Pediatric Medicine Associates,550 First Ave,,1740496033,generated_from_record,from 1740496033 at 550 1ST AVE
+g0837,test,WINTHROP UNIVERSITY HOSP EEG,,11501,1326081605,generated_from_record,from 1326081605 at 259 1ST ST
+g0838,test,"Winthrop Endocrinology, Diabees And Metabolism",101 Mineola Blvd,,1568879211,generated_from_record,from 1568879211 at 101 MINEOLA BLVD
+g0839,test,anzalone internal medicine,847 North Broadway Suite 103,,1588020465,generated_from_record,from 1588020465 at 847 N BROADWAY
+g0840,test,Nyu Neurgenetics Lab,403 East 34th St,10016,1255321733,generated_from_record,from 1255321733 at 403 E 34TH ST
+g0841,test,Nyu Langone Med Associates - Penn District,360 West 31st St.,,1720839533,generated_from_record,from 1720839533 at 360 W 31ST ST FL 3
+g0842,test,SUNY Downstate Health,1014 Ocean Pkwy,,NONE,generated_not_nyu,provider outside NYU Langone
+g0843,test,nyu langone med center,550 1st Ave,10016,1972863249,generated_from_record,from 1972863249 at 550 1ST AVE
+g0844,test,Winthrop Faculty Med Affiliates Univeersity Faculty Practice Corpor,259 First Street,11501,1386924439,generated_from_record,from 1386924439 at 259 1ST ST
+g0845,test,WOMEN'S CANCCER PRROGRAM,160 East 34th St,10016,1891786489,generated_from_record,from 1891786489 at 160 E 34TH ST
+g0846,test,Pediatric Specialties,,,1508194119,generated_from_record,from 1508194119 at 160 E 32ND ST
+g0847,test,"winthrop rheumatology, allergy and immunology associates",120 Mineola Boulevard,11501,1093199564,generated_from_record,from 1093199564 at 120 MINEOLA BLVD
+g0848,test,sheepshead bay med assoc,3632 Nostrand Ave,11229,1760223028,generated_from_record,from 1760223028 at 3632 NOSTRAND AVE STE 3
+g0849,test,NYU LANGONE WINTHROP INFECTIOUS DISEASE,222 Station Plz N,11501,1093095499,generated_from_record,from 1093095499 at 222 STATION PLZ N
+g0850,test,nyu diabetes and endocrine assoc,345 East 37th St,10016,1487765772,generated_from_record,from 1487765772 at 345 E 37TH ST
+g0851,test,Nyu Langne Winthrop Infectious Disease Assoc,Station Plz N,11501,1447215652,generated_from_record,from 1447215652 at 222 STATION PLZ N
+g0852,test,Nyu Langone Hospitals,150 55th Street,11220-7945,1437523537,generated_from_record,from 1437523537 at 150 55TH ST
+g0853,test,NYU UORLOGY ASSOC,150 East 32nd St,10016,1275583452,generated_from_record,from 1275583452 at 150 E 32ND ST
+g0854,test,Women'S Specialty Care Assoc,70 E. Sunrise Hwy,11581,1043679558,generated_from_record,from 1043679558 at 70 E SUNRISE HWY
+g0855,test,NEW YORK UNIVESITY MED CENTER NYUMC NEUROLOGY ASSOCIAATES,400 East 34th Street,,1619967288,generated_from_record,from 1619967288 at 400 E 34TH ST
+g0856,test,Nyu Langone,100 Hospital Road,11772,1275256273,generated_from_record,from 1275256273 at 100 HOSPITAL RD STE 115
+g0857,test,WINTHROP GERIATRIC MEDCINE,222 Station Plz N Suite 518,,1174882625,generated_from_record,from 1174882625 at 222 STATION PLZ N
+g0858,test,Brooklyn Hospital Center,,10065,NONE,generated_not_nyu,provider outside NYU Langone
+g0859,test,long islland cardiology,285 Sills Road Building 14,11772,1225408321,generated_from_record,from 1225408321 at 285 SILLS RD
+g0860,test,Nyu Langone Med Ctr,317e 34th St. Pediatric Neurosurgery 10th,10016,1649727728,generated_from_record,"from 1649727728 at 317E 34TH ST., PEDIATRIC NEUROSURGERY, 10TH FLOOR"
+g0861,test,nyu langone orthopedic associates - hauppauge,517 Route 111,11788,1790478725,generated_from_record,from 1790478725 at 517 ROUTE 111 STE 3B
+g0862,test,Nyu Langone,1465 Third Avenue,,1144066804,generated_from_record,from 1144066804 at 1465 3RD AVE
+g0863,test,nyu langone,2409 East 23rd St,11235-4260,1801126099,generated_from_record,from 1801126099 at 2409 E 23RD ST
+g0864,test,Nyu Clinical Cancer Cetner,160 East 34th St,10016,1346431210,generated_from_record,from 1346431210 at 160 E 34TH ST
+g0865,test,Nyu College Of Nursing Faculty Pratice,345 East 24th St,,1306906425,generated_from_record,from 1306906425 at 345 EAST 24TH STREET
+g0866,test,Nyu Cochlear Implant Associates,660 First Av Fl 7,,1942324512,generated_from_record,from 1942324512 at 660 1ST AVE FL 7
+g0867,test,Fertility Ctr,660 First Avenue,10016-8151,1326110925,generated_from_record,from 1326110925 at 660 1ST AVE
+g0868,test,Mount Sinai Hospital,1444 E 86th St,10032,NONE,generated_not_nyu,provider outside NYU Langone
+g0869,test,Kings County Hospital,1559 Madison Ave,10003,NONE,generated_not_nyu,provider outside NYU Langone
+g0870,test,Winthrop Pulmonay Associates Pc,222 Station Plaza North,11501,1821112228,generated_from_record,from 1821112228 at 222 STATION PLAZA NORTH
+g0871,test,audiology asscoiates,530 1st Avenue Suite 3e,10016,1528018090,generated_from_record,from 1528018090 at 530 1ST AVE
+g0872,test,nyu otolaryngology assoiates,530 1st Avenue 3c,,1881769065,generated_from_record,from 1881769065 at 530 1ST AVE
+g0873,test,Hospitas,150 55th St,11220,1437523537,generated_from_record,from 1437523537 at 150 55TH ST
+g0874,test,NYU CLINICAL NEUROPHYSIOLOGY,550 First Avenue,10016,1952558801,generated_from_record,from 1952558801 at 550 1ST AVE
+g0875,test,WINTHROP UNIVERSITY HOSPITAL PAA/NP SERVICES,259 First Street,11501,1861435141,generated_from_record,from 1861435141 at 259 1ST ST
+g0876,test,nyu pediatric medicine associtaes,,10016,1740496033,generated_from_record,from 1740496033 at 550 1ST AVE
+g0877,test,Women'S Heart Program,177 E. 87th St Suite 503,10128,1447582960,generated_from_record,from 1447582960 at 177 E 87TH ST
+g0878,test,advancced ortho specialists,601 Franklin Avenue,11530-4541,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0879,test,South Shore Cardiovascular Medicine,137 Broadway,11701,1255797981,generated_from_record,from 1255797981 at 137 BROADWAY
+g0880,test,Nyu Cardiac Catheterization Associattes,550 First Avenue Th576,10016,1942290556,generated_from_record,from 1942290556 at 550 1ST AVE
+g0881,test,Advanced Otho,2500 Nesconset Hwy Bldg 20a,11790,1922784479,generated_from_record,from 1922784479 at 2500 NESCONSET HWY BLDG 20A
+g0882,test,NYU RHEUMATOLLOGY ASSOC,301 E 17th St,10003,1336442862,generated_from_record,from 1336442862 at 301 E 17TH ST
+g0883,test,Ortho Surg Associates,303 2nd Av Suite 21,10003,1124078373,generated_from_record,from 1124078373 at 303 2ND AVE
+g0884,test,WINTHROP UNIVERSITY CENTER FOR FAMMILY DENTAL MEDICINE,200 Old Country Rd,11501,1437575396,generated_from_record,from 1437575396 at 200 OLD COUNTRY RD
+g0885,test,Winthrop University Hospital,259 First Street,,1952578577,generated_from_record,from 1952578577 at 259 1ST ST
+g0886,test,New York University Medical Center Faculty Practice Radiology,650 First Avenue 8th Floor,,1114038353,generated_from_record,from 1114038353 at 650 1ST AVE
+g0887,test,nyu langone med ctr,550 1st Ave,,1154770576,generated_from_record,from 1154770576 at 550 1ST AVE
+g0888,test,caric catheterization assoc,550 1st Av Th576,10016,1942290556,generated_from_record,from 1942290556 at 550 1ST AVE
+g0889,test,winthrop university hospital,212 Jericho Turnpike,,1255878492,generated_from_record,from 1255878492 at 212 JERICHO TURNPIKE
+g0890,test,NYU LANGONE MED CENTER,550 First Ave,10016,1578899878,generated_from_record,from 1578899878 at 550 1ST AVE
+g0891,test,lutheran mdical centre,150 55th St,11220,1154644292,generated_from_record,from 1154644292 at 150 55TH ST
+g0892,test,pisciotto and pisciotto medical,6835 Myrtle Avenue,11385-9787,1114384302,generated_from_record,from 1114384302 at 6835 MYRTLE AVE
+g0893,test,Montefiore Medical enter,718 Atlantic Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0894,test,CitMD Urgent Care,,,NONE,generated_not_nyu,provider outside NYU Langone
+g0895,test,Mount Sinai Hospital,1619 Kings Hwy,10019,NONE,generated_not_nyu,provider outside NYU Langone
+g0896,test,wnthrop geriatric medicine associates,,,1962808907,generated_from_record,from 1962808907 at 222 STATION PLZ N
+g0897,test,Nyu Hospital,300 East 17th St.,10003,1912220153,generated_from_record,from 1912220153 at 300 E 17TH ST
+g0898,test,Hospital for Specil Surgery,1445 Broadway,10021,NONE,generated_not_nyu,provider outside NYU Langone
+g0899,test,WINTHROP NEUROSCIENCE ASSOCIATES,200 Old Country Road,11501,1952796203,generated_from_record,from 1952796203 at 200 OLD COUNTRY RD
+g0900,test,Nyu Langone Ortho Assoc - Long Islnad,1991 Marcus Ave,11042,1841712296,generated_from_record,from 1841712296 at 1991 MARCUS AVE STE 306
+g0901,test,Advanced Ortho Specialistts,2000 N Village Av Ste 306,11570,1891275681,generated_from_record,from 1891275681 at 2000 N VILLAGE AVE STE 306
+g0902,test,Nyu Langnoe,285 Sills Road Building 14,11772,1225408321,generated_from_record,from 1225408321 at 285 SILLS RD
+g0903,test,Aensthesia Assoc,560 First Avenue,10016,1952392946,generated_from_record,from 1952392946 at 560 1ST AVE
+g0904,test,winthrop unievrsity hospital,16 Richlee Ct Apt 4s,11501,1780949388,generated_from_record,from 1780949388 at 16 RICHLEE CT APT 4S
+g0905,test,WINTHROP UNIVERSITY HOSP,505 Hewlett Street,11010,1033408471,generated_from_record,from 1033408471 at 505 HEWLETT ST
+g0906,test,"Winthrop Community Med Affiliates, Pc",43 Barter Ln,11801,1356708747,generated_from_record,from 1356708747 at 43 BARTER LN
+g0907,test,Brooklyn Hospital Center,,10032,NONE,generated_not_nyu,provider outside NYU Langone
+g0908,test,Musculoskeletal Anestheia And Pain Management At,301 E. 17th Street,,1730417353,generated_from_record,from 1730417353 at 301 E 17TH ST
+g0909,test,nyuc dermatopathology unit,530 1st Avenue,10016,1891785473,generated_from_record,from 1891785473 at 530 1ST AVE
+g0910,test,Mount Sinai Hospital,824 Madison Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0911,test,"Nyu Langone Winthrop Oncology Hematology Assoc, Pc",200 Old Country Road Suite 450,11501,1891850962,generated_from_record,from 1891850962 at 200 OLD COUNTRY RD
+g0912,test,NYU CANCER INSTITUTE,160 E 34th St,10016,1811253511,generated_from_record,from 1811253511 at 160 E 34TH ST
+g0913,test,breast and surgical onccology associates,160 E 34th Street,10016,1407858095,generated_from_record,from 1407858095 at 160 E 34TH ST
+g0914,test,nyu urget care,355 W 52nd Street,10019,1972012540,generated_from_record,from 1972012540 at 355 W 52ND ST
+g0915,test,Norh Merrick Family Practice,,11566,1730596149,generated_from_record,from 1730596149 at 951 MERRICK AVE
+g0916,test,"Winthrop Orthopaedic Assoc, Pc",1300 Franklin Ave,11530,1972553477,generated_from_record,from 1972553477 at 1300 FRANKLIN AVE
+g0917,test,CityMD Urgent Care,1683 Kings Hwy,10029,NONE,generated_not_nyu,provider outside NYU Langone
+g0918,test,nyu adult neurosurgery associates,530 First Av 8r,10016,1962734517,generated_from_record,from 1962734517 at 530 1ST AVE
+g0919,test,Nyu Pediatric,160 E 32nd St 2nd Fl,10016,1831305127,generated_from_record,from 1831305127 at 160 E 32ND ST
+g0920,test,nyu cancer institute,160 E. 34th St.,10016,1811253511,generated_from_record,from 1811253511 at 160 E 34TH ST
+g0921,test,winthrop radiology associates pc,259 First St.,,1114960853,generated_from_record,from 1114960853 at 259 1ST ST
+g0922,test,Nyu Langone,505 Hewlett St,11010,1033408471,generated_from_record,from 1033408471 at 505 HEWLETT ST
+g0923,test,NYU LUTHHERAN MEDICAL CETNER,,,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0924,test,Med - Williamsburg,101 Broadway,,1801030630,generated_from_record,from 1801030630 at 101 BROADWAY
+g0925,test,lutheran mediccal center,150 55th Street,11220,1538111653,generated_from_record,from 1538111653 at 150 55TH ST
+g0926,test,nyu winthrop hosp,141 Dosoris Ln,,1750389763,generated_from_record,from 1750389763 at 141 DOSORIS LN
+g0927,test,otolaryngology associates,530 1st Av,10016,1881769065,generated_from_record,from 1881769065 at 530 1ST AVE
+g0928,test,Nyu Langone Winthrop Oncology/Hematology Associates,200 Old Country Road,11501,1477911436,generated_from_record,from 1477911436 at 200 OLD COUNTRY RD
+g0929,test,Winthrop First Care,,11501,1134460249,generated_from_record,from 1134460249 at 259 1ST ST
+g0930,test,NYU LANGONE CARDIOLOGY ASSOCIATES - STATEN ISLAND,5091 Amboy Rd,10312,1720484017,generated_from_record,from 1720484017 at 5091 AMBOY RD
+g0931,test,LUTHERAN MEEDICAL CARE PLLC,8201 4th Av Apt 1d,11209,1134410780,generated_from_record,from 1134410780 at 8201 4TH AVE APT 1D
+g0932,test,nyu vascular surgery assoc,530 1st Avenue,10016,1134170632,generated_from_record,from 1134170632 at 530 1ST AVE
+g0933,test,winthrop university hoospital,1st St.,,1033437363,generated_from_record,from 1033437363 at 259 1ST ST
+g0934,test,NYU LANGONE MED ASSOC - PATCHOGUE,100 Hospital Road Ste 115,,1275256273,generated_from_record,from 1275256273 at 100 HOSPITAL RD STE 115
+g0935,test,New York University,345 East 24th St.,,1649651506,generated_from_record,from 1649651506 at 345 E 24TH ST
+g0936,test,Nyu Langone Preston Robert Tisch Cennter For Men'S Health,555 Madison Av,10022,1174044721,generated_from_record,from 1174044721 at 555 MADISON AVE
+g0937,test,Nyu Cochlear,660 1st Ave 7th Fl,10016,1851341168,generated_from_record,from 1851341168 at 660 1ST AVE
+g0938,test,ColumbiaDoctors,683 Atlantic Ave,,NONE,generated_not_nyu,provider outside NYU Langone
+g0939,test,NYU ENDOCRINE SURG ASSOC,530 1st Av,10016,1912103466,generated_from_record,from 1912103466 at 530 1ST AVE
+g0940,test,Nyu,2 Tudor City Place Apt 3en,10017,1568638823,generated_from_record,from 1568638823 at 2 TUDOR CITY PLACE APT 3EN
+g0941,test,"NEW YORK UNIVERSITY, COLLEEG OF DEENTISTRY",345 E. 24th St,10010,1245643584,generated_from_record,from 1245643584 at 345 E 24TH ST
+g0942,test,"Winthrop Community Med Affiliates, P.C.",1000 Franklin Av,11530,1437517232,generated_from_record,from 1437517232 at 1000 FRANKLIN AVE
+g0943,test,NYU LANGONE HOME HEAALTH CARE,290 Old Country Road,11501,1215931811,generated_from_record,from 1215931811 at 290 OLD COUNTRY ROAD
+g0944,test,isalnd ortho medicine,30 Merrick Avenue Suite 100,11554,1457710915,generated_from_record,from 1457710915 at 30 MERRICK AVE
+g0945,test,nyu hudson valley,Crompond Road,,1881987246,generated_from_record,from 1881987246 at 1985 CROMPOND RD
+g0946,test,NYU HEMATOLOGY ASSOCIATS,160 E 34th Street,10016,1083605679,generated_from_record,from 1083605679 at 160 E 34TH ST
+g0947,test,nyu grreat,Great Neck Rd Suite 300,11021,1700107281,generated_from_record,from 1700107281 at 488 GREAT NECK RD
+g0948,test,surgical critical care assoc,530 First Av,10016,1144271487,generated_from_record,from 1144271487 at 530 1ST AVE
+g0949,test,winthrop chid neurology associates,173 Mineola Boulevard,11501,1235533993,generated_from_record,from 1235533993 at 173 MINEOLA BLVD
+g0950,test,winthrop university hosp,260 1st St.,11501,1598072571,generated_from_record,from 1598072571 at 260 1ST ST
+g0951,test,WINTHROP CHILD NEUROLOGY ASSOCAITES,173 Mineola Boulevard,,1689728107,generated_from_record,from 1689728107 at 173 MINEOLA BLVD
+g0952,test,College Of Dentistry,726 Broadway Suite 350,,1780804344,generated_from_record,from 1780804344 at 726 BROADWAY
+g0953,test,islnad pulmonary assoc,4271 Hempstead Tpke,,1538526843,generated_from_record,from 1538526843 at 4271 HEMPSTEAD TPKE
+g0954,test,Care On Demand - West Village,540 Hudson St,,1144067794,generated_from_record,from 1144067794 at 540 HUDSON STREET
+g0955,test,NYU LAANGONE MEDICAL CTR,550 First Av,10016,1336673813,generated_from_record,from 1336673813 at 550 1ST AVE
+g0956,test,cancer institute,160 E 34th Street,10016,1811253511,generated_from_record,from 1811253511 at 160 E 34TH ST
+g0957,test,Winthrop Behavioral Health,,,1568878494,generated_from_record,from 1568878494 at 222 STATION PLZ N
+g0958,test,nyu langoe hospitals,150 55th St,11220,1528432622,generated_from_record,from 1528432622 at 150 55TH ST
+g0959,test,New York University Medical Center Nyumc Neurology,,10016,1619967288,generated_from_record,from 1619967288 at 400 E 34TH ST
+g0960,test,Nyu Gastroenterology Assoc,530 1st Avenue,10016,1841281755,generated_from_record,from 1841281755 at 530 1ST AVE
+g0961,test,Winthrop Diaetes Self-Management Program,101 Mineola Boulevard,11501,1245724152,generated_from_record,from 1245724152 at 101 MINEOLA BLVD STE 210
+g0962,test,WINTHROP UNIEVRSITY HOSP,259 First Street,11501-9693,1891954939,generated_from_record,from 1891954939 at 259 1ST ST
+g0963,test,neurosurgery associates-frempong,550 1st Ave Suite 8s,10016,1700197316,generated_from_record,from 1700197316 at 550 1ST AVE
+g0964,test,Nyu Langone Ambluatory Care Commaack,,11725,1144105214,generated_from_record,from 1144105214 at 167 VETERANS MEMORIAL HWY
+g0965,test,nyu peidatric medicine asscoiates,550 First Av,10016,1740496033,generated_from_record,from 1740496033 at 550 1ST AVE
+g0966,test,Nyu Langone Hospitals,,,1669578324,generated_from_record,from 1669578324 at 301 E 17TH ST
+g0967,test,Nyu Langne Women'S Cotnemporary Care Associates,120 Mineola Boulevard,,1639572589,generated_from_record,from 1639572589 at 120 MINEOLA BLVD
+g0968,test,Lutheran Med Ctr,3414 Church Av,11203,1992812317,generated_from_record,from 1992812317 at 3414 CHURCH AVE
+g0969,test,Lutheran Augustana Center For Extended Care & Rehabilittion,5434 Second Avenue,11220,1144215203,generated_from_record,from 1144215203 at 5434 2ND AVE
+g0970,test,Adanced Orthopaedic Specialsts,Franklin Av,11530,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0971,test,Winthroop Ortho Assoc,Franklin Avenue,11530,1568858801,generated_from_record,from 1568858801 at 1300 FRANKLIN AVE
+g0972,test,Nyu Langone Cardiology Asoc - Staten Island,,10312,1720484017,generated_from_record,from 1720484017 at 5091 AMBOY RD
+g0973,test,Home Care,290 Old Country Road,11501,1215931811,generated_from_record,from 1215931811 at 290 OLD COUNTRY ROAD
+g0974,test,endocrine surg associates,530 First Avenue Hcc 6h,,1912103466,generated_from_record,from 1912103466 at 530 1ST AVE
+g0975,test,"WINTHROOP COMMUNITY MEDICAL AFFILIATES, PC",715 Roanoke Av,11901,1548625288,generated_from_record,from 1548625288 at 715 ROANOKE AVE
+g0976,test,Brooklyn Hospital Center,682 W 57th St,10029,NONE,generated_not_nyu,provider outside NYU Langone
+g0977,test,Nyu Med Centre,545 First Av # C-120,10016,1598884017,generated_from_record,from 1598884017 at 545 1ST AVE # C-120
+g0978,test,nyu lutheran medcial center,Second Avenue Rm 191,11220,1609308048,generated_from_record,from 1609308048 at 5610 2ND AVE
+g0979,test,Nyu Hospitals Center,1 Park Av,10016,1780520197,generated_from_record,from 1780520197 at 1 PARK AVE
+g0980,test,Nyu Ophthalmoloy Associates,530 First Ave,,1841528411,generated_from_record,from 1841528411 at 530 1ST AVE
+g0981,test,Nyu Langone Med Assoc Tarrytown,,10591,1700600533,generated_from_record,from 1700600533 at 200 WHITE PLAINS RD FL 4
+g0982,test,Nyu Langone Home Health Care,290 Old Country Road,11501,1215931811,generated_from_record,from 1215931811 at 290 OLD COUNTRY ROAD
+g0983,test,nyu neurosurgerry associates,530 First Avenue,10016,1609018811,generated_from_record,from 1609018811 at 530 1ST AVE
+g0984,test,Trinity Ctr,,10006,1427563949,generated_from_record,from 1427563949 at 111 BROADWAY FL 2
+g0985,test,NYU LANGONE MED,2857 West 8th St Fl 2,,1780425041,generated_from_record,from 1780425041 at 2857 W 8TH ST FL 2
+g0986,test,Nyu College Of,345 E. 24th St,10010,1326254608,generated_from_record,from 1326254608 at 345 E 24TH ST
+g0987,test,nyu lutehran assoc - ovington orthopedics,6900 4th Ave,,1578084919,generated_from_record,from 1578084919 at 6900 4TH AVE
+g0988,test,Nyu Langone Winthrop University Hospital Emergency Room Physicians,259 1st Street,,1093752628,generated_from_record,from 1093752628 at 259 1ST ST
+g0989,test,Nyu Gastroenterology Oncology Assoc,160 E 34th St,,1760432207,generated_from_record,from 1760432207 at 160 E 34TH ST
+g0990,test,Nyu Langone Medical Center/Tisch Hospital,70 Province Dr,11720,1629423009,generated_from_record,from 1629423009 at 70 PROVINCE DR
+g0991,test,Joseph S. & Diane H. Steinberg Ambulatory Care Center,70 Atlantic Avenue,11201,1386341394,generated_from_record,from 1386341394 at 70 ATLANTIC AVE
+g0992,test,Nyu Langone Podiatry Assoc Upper West Side,101 W 79th Street,,1053836908,generated_from_record,from 1053836908 at 101 W 79TH ST
+g0993,test,NYU PEARL BARLOW CTR FOR MEMORY EVALUATION AND TREATMENT,530 1st Av Hcc 3d,10016,1841494655,generated_from_record,from 1841494655 at 530 1ST AVE
+g0994,test,ADVANCED ORTHO SPECIALISTS,601 Franklin Avenue,11530,1033699830,generated_from_record,from 1033699830 at 601 FRANKLIN AVE STE 215
+g0995,test,Nyu Audiology Associates,530 First Av,,1528018090,generated_from_record,from 1528018090 at 530 1ST AVE
+g0996,test,cardiovasculr med associates,975 Stewart Avenue,,1861912503,generated_from_record,from 1861912503 at 975 STEWART AVE
+g0997,test,Nyu Hosp,15139 12th Av,11357,1508279936,generated_from_record,from 1508279936 at 15139 12TH AVE
+g0998,test,nyu hospital for jiont diseases,301 E. 17th St,,1710040787,generated_from_record,from 1710040787 at 301 E 17TH ST
+g0999,test,Nyu Winthrop Med Affiliates,200 Old Country Road,11501,1457873077,generated_from_record,from 1457873077 at 200 OLD COUNTRY RD STE 310
+g1000,test,criical care assco,550 First Av,,1811948177,generated_from_record,from 1811948177 at 550 1ST AVE

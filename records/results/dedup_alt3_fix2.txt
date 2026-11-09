@@ -1,0 +1,13 @@
+split: alt3  case files: 10  pages: 2472  duplicate pages in the answer key: 1440 (58.3%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |     6 / 1440    0.4% |               1434 |            0 |         100.0% |        0.2% |     0.0 |
+| GnoRA file check, per page  |   378 / 1440   26.2% |               1062 |            0 |         100.0% |       32.1% |     2.7 |
+| this method v1              |   247 / 1440   17.1% |               1193 |            1 |          99.6% |       10.4% |     5.1 |
+| this method v2              |   330 / 1440   22.9% |               1110 |            1 |          99.7% |       15.0% |     6.7 |
+| this method v3              |   965 / 1440   67.0% |                474 |            3 |          99.1% |       62.8% |    23.4 |
+content lost by this method v3 (original pages with no copy kept): 3
+  of those, with words not on the page they were merged into: 2
+   alt3-2: c0008 (clinical) | words not on the kept page: none
+   alt3-2: c0025 (clinical) | words not on the kept page: 2l 39lo2 3b 43 autborlzatlon fax jul l2 l424b ld pagc pcr
+   alt3-3: c0036 (clinical) | words not on the kept page: 6b77b autborlzatlon b pcr rclcascd

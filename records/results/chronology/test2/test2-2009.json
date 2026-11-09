@@ -1,0 +1,592 @@
+{
+ "entries": [
+  {
+   "date": "01/11/2024",
+   "provider": "BAY RIDGE FAMILY MEDICINE, PC",
+   "kind": "lab",
+   "summary": "Routine labs (CBC, glucose, creatinine, electrolytes, ALT, LDL) were all within reference ranges with no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 263,
+     "quote": "Collected: 01/11/2024   Reported: 01/12/2024"
+    },
+    {
+     "page": 263,
+     "quote": "Results reviewed. No critical values."
+    }
+   ]
+  },
+  {
+   "date": "01/11/2024",
+   "provider": "BAY RIDGE FAMILY MEDICINE, PC",
+   "kind": "office_visit",
+   "summary": "Annual physical with no complaints, denial of neck, back or joint pain and no prior right knee injuries; full pain-free range of motion and normal neurologic exam; assessed as general adult exam without abnormal findings, routine labs ordered, return in one year.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 262,
+     "quote": "Denies neck, back or joint\n  pain. No prior injuries"
+    },
+    {
+     "page": 262,
+     "quote": "Date of service: 01/11/2024   Provider: Simone Mancuso, MD"
+    }
+   ]
+  },
+  {
+   "date": "10/05/2024",
+   "provider": "HARBOR POINT MEDICAL CENTER",
+   "kind": "er_visit",
+   "summary": "Restrained driver rear-ended at about 30 mph presented with right knee pain 8/10 and swelling after striking the dashboard; exam showed right knee tenderness and reduced ROM, neurovascularly intact; right knee X-ray ordered, ketorolac 30 mg IM given; diagnosed with right knee ACL sprain and discharged on ibuprofen and cyclobenzaprine with primary care follow-up in 2-3 days.",
+   "diagnosis_codes": [
+    "S83.511A",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 358,
+     "quote": "right knee pain and swelling after striking the dashboard after motor vehicle collision."
+    },
+    {
+     "page": 358,
+     "quote": "Date of service: 10/05/2024   Attending: Chen Lindqvist, MD"
+    },
+    {
+     "page": 359,
+     "quote": "You were seen in the Emergency Department for injuries from a m0t0r vehicle collision."
+    }
+   ]
+  },
+  {
+   "date": "10/05/2024",
+   "provider": "HARBOR POINT MEDICAL CENTER",
+   "kind": "imaging",
+   "summary": "Right knee x-ray, 3 views, showed no acute fracture or dislocation and a small joint effusion; impression no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 372,
+     "quote": "Exam date: 10/05/2024   Ordering: Chen Llndqvist, MD"
+    },
+    {
+     "page": 372,
+     "quote": "No acutc fracture or dislocation. Small joint effusion."
+    }
+   ]
+  },
+  {
+   "date": "10/11/2024",
+   "provider": "BAY RIDGE FAMILY MEDICINE, PC",
+   "kind": "office_visit",
+   "summary": "Follow-up after 10/05/2024 motor vehicle collision with persistent right knee pain and swelling (5/10), tenderness and reduced range of motion; assessed right knee pain, referred to orthopaedics and physical therapy, continue ibuprofen, out of work two weeks; LEFS score 39/50.",
+   "diagnosis_codes": [
+    "M25.561"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 365,
+     "quote": "Date of service: 10/11/2024   Provider: Simone Mancuso, MD"
+    },
+    {
+     "page": 365,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen. Out of work for"
+    }
+   ]
+  },
+  {
+   "date": "10/16/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy initial evaluation for right knee pain 7/10 after the 10/05/2024 motor vehicle collision, with knee flexion 26 deg and extension 39 deg and LEFS score 34/50; plan for therapeutic exercise, manual therapy and electrical stimulation 3 times weekly for 8 weeks.",
+   "diagnosis_codes": [
+    "M25.561"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 361,
+     "quote": "Datc of service: 10/16/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 361,
+     "quote": "Therapeutic exercise, manual tberapy and electrical stimulation, 3 times weekly for 8"
+    }
+   ]
+  },
+  {
+   "date": "10/18/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 1 of plan of care: pain 8/10, knee flexion 67 deg and extension 34 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 169,
+     "quote": "Date of service: 10/18/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 169,
+     "quote": "Visit 1 of plan of care. ROM: knee flexion 67 deg, knee extenslon 34 deg."
+    }
+   ]
+  },
+  {
+   "date": "10/21/2024",
+   "provider": "ATLANTIC ORTHOPAEDIC ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation for right knee pain and swelling after 10/05/2024 motor vehicle collision, assessed as sprain of anterior cruciate ligament of right knee; plan MRI of right knee, continue PT 3 times weekly, naproxen 500 mg twice daily, re-evaluate after MRI.",
+   "diagnosis_codes": [
+    "S83.511A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 162,
+     "quote": "Date of servlce: 10/21/2024   Physician: Emeka Castellano, MD"
+    },
+    {
+     "page": 162,
+     "quote": "S83.511A Sprain of anteri0r cruciate ligament of right knee, initial encounter"
+    },
+    {
+     "page": 162,
+     "quote": "MRI of the right knee. Continue physical therapy 3 times weekly. Naproxen 50O mg twice"
+    }
+   ]
+  },
+  {
+   "date": "10/21/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 2 of plan of care: pain 8/10, knee flexion 50 deg and extension 51 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 170,
+     "quote": "Datc 0f service: 10/21/2024   Thcrapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 170,
+     "quote": "Visit 2 of plan 0f care. ROM: knee flexion 50 deg, knee extension 51 deg."
+    }
+   ]
+  },
+  {
+   "date": "10/24/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 3 of plan of care: pain 8/10, knee flexion 66 deg and extension 58 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 171,
+     "quote": "Date of service: 10/24/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 171,
+     "quote": "Visit 3 of plan of care. ROM: knee flexion 66 deg, knee extension 58 deg."
+    }
+   ]
+  },
+  {
+   "date": "10/26/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 4 of plan of care: pain 8/10, knee flexion 54 deg and extension 33 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 172,
+     "quote": "Date of service: 10/26/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 172,
+     "quote": "Visit 4 of plan of care. ROM: knee flexion 54 deg, knee extension 33 deg."
+    }
+   ]
+  },
+  {
+   "date": "10/29/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 with pain 8/10, knee flexion 36 deg and extension 45 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 285,
+     "quote": "Date of service: 10/29/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 285,
+     "quote": "Slow progress toward goals; continues to bcnefit from skilled therapy."
+    }
+   ]
+  },
+  {
+   "date": "10/31/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 6 with pain 7/10, knee flexion 57 deg and extension 52 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 390,
+     "quote": "Date of service: 10/31/2024   Tberapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 390,
+     "quote": "Visit 6 of plan of care. ROM: knee flexion 57 deg, knee extension 52 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/03/2024",
+   "provider": "METRO OPEN MRI",
+   "kind": "imaging",
+   "summary": "MRI of the right knee without contrast showed an oblique tear of the posterior horn of the medial meniscus extending to the inferior articular surface.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 7,
+     "quote": "Exam date: 11/03/2024   Referring: Emeka Castellano, MD"
+    },
+    {
+     "page": 7,
+     "quote": "Oblique tear of the posterior horn of the media1 meniscus extending to the inferior"
+    }
+   ]
+  },
+  {
+   "date": "11/04/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 7 of plan of care: pain 7/10 with morning stiffness, knee flexion 54 deg and extension 64 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 175,
+     "quote": "Date of service: 11/04/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 175,
+     "quote": "Visit 7 of plan of care. ROM: knee flexion 54 deg, knee extension 64 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/07/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 8 visits with pain 7/10, partial functional improvement, knee flexion 60 deg and extension 35 deg, LEFS 34/50; plan to continue PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 483,
+     "quote": "Date of service: 11/07/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 483,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "11/07/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 8 with pain 7/10, knee flexion 60 deg and extension 35 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 391,
+     "quote": "Date of service: 11/07/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 391,
+     "quote": "Visit 8 of plan of care. ROM: knee flexion 60 deg, knee extension 35 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/10/2024",
+   "provider": "ATLANTIC ORTHOPAEDIC ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up reviewing MRI showing oblique tear of the posterior horn of the right medial meniscus, pain 5/10; assessed medial meniscus tear causally related to the 10/05/2024 collision and recommended right knee arthroscopy with partial medial meniscectomy; LEFS score 26/50.",
+   "diagnosis_codes": [
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 378,
+     "quote": "Date of service: l1/10/2024   Physician: Erneka Castellano, MD"
+    },
+    {
+     "page": 378,
+     "quote": "Recommended right knee arthroscopy with partial medlal meniscectomy; risks and benefits"
+    }
+   ]
+  },
+  {
+   "date": "11/10/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 9 with pain 6/10 and morning stiffness, knee flexion 44 deg and extension 48 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 393,
+     "quote": "Datc of service: 11/10/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 393,
+     "quote": "Visit 9 of plan of care. ROM: knee flexion 44 deg, knee extension 48 dcg."
+    }
+   ]
+  },
+  {
+   "date": "11/12/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 10 of plan of care: pain 6/10 with morning stiffness, knee flexion 44 deg and extension 40 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 103,
+     "quote": "Date of service: 11/12/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 103,
+     "quote": "Visit 10 of plan of care. ROM: knee flcxion 44 deg, knee extension 40 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/14/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 11 with pain 5/10, knee flexion 50 deg and extension 51 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 32,
+     "quote": "Date of service: 11/14/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 32,
+     "quote": "Visit 11 of plan of care. ROM: knee flexion 50 deg, knee extension 51 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/16/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 12 with pain 5/10, doing home exercises daily, knee flexion 44 deg and extension 49 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 395,
+     "quote": "Datc of service: 11/16/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 395,
+     "quote": "Visit 12 of plan of care. ROM: knee flexion 44 deg, knee extension 49 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/18/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 13 with pain 5/10 and morning stiffness, knee flexion 30 deg and extension 35 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 34,
+     "quote": "Date of service: 11/18/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 34,
+     "quote": "Visit 13 of plan of care. ROM: knee flexion 30 deg, knee extension 35 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/20/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 14 of plan of care: pain 5/10 worse after work, knee flexion 52 deg and extension 43 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 107,
+     "quote": "Date of service: 11/20/2024   Tberapist: 8eatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 107,
+     "quote": "Visit 14 of plan of care. ROM: knee flexion 52 deg, knee extension 43 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/23/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 15 of plan of care: pain 5/10, knee flexion 49 deg and extension 35 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 108,
+     "quote": "Date of service: 11/23/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 108,
+     "quote": "Visit 15 0f plan of care. ROM: knee flexion 49 deg, knee extension 35 deg."
+    }
+   ]
+  },
+  {
+   "date": "11/25/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 16 with pain 5/10, sleeping better, knee flexion 43 deg and extension 33 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 399,
+     "quote": "Date of service: 11/25/2024   Therapist: Beatriz Quinlan, PT, DPT"
+    },
+    {
+     "page": 399,
+     "quote": "Visit 16 of plan of care. ROM: knee flexion 43 deg, knee extension 33 deg."
+    }
+   ]
+  },
+  {
+   "date": "12/22/2024",
+   "provider": "NORTHGATE SURGICAL PAVILION",
+   "kind": "surgery",
+   "summary": "Right knee arthroscopy with partial medial meniscectomy under general anesthesia for medial meniscus tear, finding complex tear of the posterior horn of the medial meniscus with ACL intact and mild laxity; discharged home same day weight bearing as tolerated with crutches.",
+   "diagnosis_codes": [
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 363,
+     "quote": "Date of surgery: 12/22/2024   Surgeon: Emeka Kaplan, MD"
+    },
+    {
+     "page": 363,
+     "quote": "Arthroscopy, knee, with partial medial meniscectomy, right knee."
+    },
+    {
+     "page": 363,
+     "quote": "Complex tear of the posterior horn of the medial mcniscus; ACL intact with mild"
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 5,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 58350,
+   "output_tokens": 7351,
+   "calls": 5
+  }
+ }
+}

@@ -1,0 +1,776 @@
+{
+ "entries": [
+  {
+   "date": "02/06/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "lab",
+   "summary": "Laboratory panel ordered by Lena Friedman, MD showed values within reference ranges except LDL cholesterol of 110 mg/dL (reference <100), with no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 130,
+     "quote": "Collected: 02/06/2023   Reported: 02/07/2023   Ordering: Lena Friedman, MD"
+    },
+    {
+     "page": 130,
+     "quote": "Results reviewed. No critical values."
+    }
+   ]
+  },
+  {
+   "date": "02/06/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Annual physical with no complaints, patient denied neck, back or joint pain and had no prior lumbar injuries, exam showed full spine range of motion and normal neurologic findings, assessment was general adult exam without abnormal findings, and routine labs were ordered.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 399,
+     "quote": "Date of service: 02/06/2023   Provider: Lena Friedman, MD"
+    },
+    {
+     "page": 399,
+     "quote": "Denies neck, back or joint pain. No prior injuries"
+    }
+   ]
+  },
+  {
+   "date": "01/23/2024",
+   "provider": "SAINT COLUMBA HOSPITAL",
+   "kind": "er_visit",
+   "summary": "62-year-old restrained driver rear-ended presented with low back pain radiating to left buttock; exam showed lumbar tenderness with reduced ROM, neurovascularly intact; given ketorolac 30 mg IM, diagnosed with lumbar sprain, discharged on ibuprofen and cyclobenzaprine with primary care follow-up in 2-3 days.",
+   "diagnosis_codes": [
+    "S33.5XXA",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 111,
+     "quote": "low back pain radiating to the left buttock after motor vehicle co1lision."
+    },
+    {
+     "page": 111,
+     "quote": "Ketorolac 30 mg IM given with partial relief."
+    },
+    {
+     "page": 122,
+     "quote": "Patient verbalized understanding of discharge instructions."
+    }
+   ]
+  },
+  {
+   "date": "01/23/2024",
+   "provider": "SAINT COLUMBA HOSPITAL",
+   "kind": "imaging",
+   "summary": "Lumbosacral spine X-ray, 2-3 views, showed no acute fracture or dislocation with mild straightening of normal curvature possibly reflecting muscle spasm; impression no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 113,
+     "quote": "No acute fracture or dislocation. Mild straightening of the normal"
+    },
+    {
+     "page": 113,
+     "quote": "No acute osscous abnorma1ity."
+    }
+   ]
+  },
+  {
+   "date": "01/27/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Follow-up after the 01/23/2024 motor vehicle collision for persistent low back pain radiating to the left buttock (5/10), with lumbar tenderness and range of motion reduced about 38%, Oswestry score 38/50; assessed low back pain, referred to orthopaedics and physical therapy, ibuprofen continued, and out of work for two weeks.",
+   "diagnosis_codes": [
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 401,
+     "quote": "Date of service: 01/27/2024   Provider: Lcna Friedman, MD"
+    },
+    {
+     "page": 401,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen."
+    },
+    {
+     "page": 267,
+     "quote": "Date of service: 01/27/2024   Provider: Lena Friedman, MD"
+    }
+   ]
+  },
+  {
+   "date": "02/02/2024",
+   "provider": "ATLANTIC ORTHOPAEDIC ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation for low back pain radiating to the left buttock after the 01/23/2024 collision, with no symptoms before the accident, reduced lumbar range of motion and Oswestry score 36/50; assessed lumbar sprain, with a plan for lumbar MRI, physical therapy 3 times weekly, naproxen 500 mg twice daily, and re-evaluation after the MRI.",
+   "diagnosis_codes": [
+    "S33.5XXA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 388,
+     "quote": "Date of service: 02/02/2024   Physlcian: Chen Quinlan, MD"
+    },
+    {
+     "page": 388,
+     "quote": "S33.5XXA Sprain of ligaments of lumbar spine, initial encountcr"
+    },
+    {
+     "page": 388,
+     "quote": "MRI of the lumbar spine. Continuc physical tberapy 3 times weekly. Naproxen 500 mg twice"
+    }
+   ]
+  },
+  {
+   "date": "02/02/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "PT initial evaluation for low back pain after 01/23/2024 MVC with pain 8/10, lumbar flexion 19 deg, Oswestry 39/50 (78%); plan therapeutic exercise, manual therapy and electrical stimulation 3 times weekly for 8 weeks.",
+   "diagnosis_codes": [
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 114,
+     "quote": "Date of service: 02/02/2024   Theraplst: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 114,
+     "quote": "Therapeutic exercise, manual therapy and electrica1 stimulation, 3"
+    },
+    {
+     "page": 114,
+     "quote": "TOTAL SCORE: 39 / 50  (78%)"
+    }
+   ]
+  },
+  {
+   "date": "02/04/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 1 of plan of care with pain 7/10, lumbar flexion 53 deg and extension 60 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 5,
+     "quote": "Date of service: 02/04/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 5,
+     "quote": "Visit 1 of plan of care. ROM: lumbar flexion 53 deg, lumbar extension 60 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/06/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 2 of plan of care with pain 7/10, lumbar flexion 41 deg and extension 38 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 6,
+     "quote": "Date of service: 02/06/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 6,
+     "quote": "Visit 2 of plan of care. ROM: lumbar flexion 41 deg, lumbar extension 38 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/08/2024",
+   "provider": "METRO OPEN MRI",
+   "kind": "imaging",
+   "summary": "MRI of the lumbar spine without contrast showed a 4 mm posterior disc herniation at L4-L5 indenting the thecal sac.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 258,
+     "quote": "Exam date: 02/08/2024   Referring: Chen Quinlan, MD"
+    },
+    {
+     "page": 258,
+     "quote": "4 mm posterior disc herniation at L4-L5 indenting the thecal sac."
+    }
+   ]
+  },
+  {
+   "date": "02/08/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 3 with pain 7/10, lumbar flexion 45 deg and extension 28 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 151,
+     "quote": "Date of service: 02/08/2O24   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 151,
+     "quote": "Visit 3 of plan of care. ROM: lumbar flexion 45 deg, lumbar extension 28 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/12/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 4 with pain 7/10, lumbar flexion 26 deg and extension 31 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 152,
+     "quote": "Date of service: 02/12/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 152,
+     "quote": "Visit 4 of plan of care. ROM: lumbar flexion 26 deg, lumbar extension 31 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/15/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 with pain 7/10 and morning stiffness, lumbar flexion 67 deg and extension 64 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 153,
+     "quote": "Date of service: 02/15/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 153,
+     "quote": "Visit 5 of plan of care. R0M: lumbar flexion 67 deg, lumbar extension 64 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/17/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 6 of plan of care with pain 6/10, lumbar flexion 36 deg and extension 27 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 10,
+     "quote": "Date of service: 02/17/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 10,
+     "quote": "Visit 6 of plan of care. ROM: lumbar flexion 36 dcg, lumbar extension 27 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/19/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 7 with pain 6/10, lumbar flexion 59 deg and extension 67 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 155,
+     "quote": "Date 0f service: 02/19/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 155,
+     "quote": "Visit 7 of plan of care. ROM: lumbar flexion 59 deg, lumbar extension 67 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/21/2024",
+   "provider": "ATLANTIC ORTHOPAEDIC ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up to review the MRI showing a 4 mm L4-L5 disc herniation, with pain 7/10 and Oswestry score 27/50; assessed lumbar disc displacement causally related to the 01/23/2024 collision and referred to pain management for an epidural steroid injection.",
+   "diagnosis_codes": [
+    "M51.26"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 395,
+     "quote": "Date of service: 02/21/2024   Physician: Chen Quinlan, MD"
+    },
+    {
+     "page": 395,
+     "quote": "Referred to pain management for epidural steroid injecti0n."
+    }
+   ]
+  },
+  {
+   "date": "02/21/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "PT re-evaluation after 8 visits showed pain decreased to 5/10, lumbar flexion 53 deg, partial functional improvement, Oswestry 25/50 (50%); plan continue PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 115,
+     "quote": "Re-evaluation after 8 visits. Pain decreased to 5/10. Partial improvement in function."
+    },
+    {
+     "page": 115,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "02/21/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 8 of plan of care with pain 5/10 and morning stiffness, lumbar flexion 53 deg and extension 43 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 12,
+     "quote": "Date of service: 02/21/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 12,
+     "quote": "Visit 8 of plan of care. ROM: lumbar flexion 53 deg, lumbar extension 43 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/23/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 9 of plan of care with pain 5/10, lumbar flexion 30 deg and extension 63 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 14,
+     "quote": "Date of service: 02/23/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 14,
+     "quote": "Visit 9 0f plan of care. ROM: lumbar flcxion 30 deg, lumbar extension 63 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/27/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 10 with pain 5/10 and morning stiffness, lumbar flexion 46 deg and extension 32 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 159,
+     "quote": "Date of service: 02/27/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 159,
+     "quote": "Visit 10 of plan of care. ROM: lumbar flexion 46 deg, lumbar extension 32 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/29/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 11 of the plan of care, with pain 5/10, morning stiffness, lumbar flexion 28 degrees and extension 43 degrees; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 299,
+     "quote": "Date of service: 02/29/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 299,
+     "quote": "Visit 11 of plan of care. ROM: lumbar flexion 28 deg, lumbar extension 43 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/03/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 12 of plan of care with pain 5/10 and morning stiffness, lumbar flexion 33 deg and extension 29 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 17,
+     "quote": "Date of scrvice: 03/03/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 17,
+     "quote": "Visit 12 of plan of care. ROM: 1umbar flexion 33 deg, lumbar extension 29 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/06/2024",
+   "provider": "PARKSIDE INTERVENTIONAL PAIN",
+   "kind": "procedure",
+   "summary": "Image-guided lumbar epidural steroid injection at L4-L5 with dexamethasone 10 mg for lumbar disc displacement with radicular pain refractory to physical therapy, with no complications and pain decreasing from 7/10 before to 3/10 after the procedure.",
+   "diagnosis_codes": [
+    "M51.26"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 392,
+     "quote": "Date of service: 03/06/2024   Physician: Imran Esposito, MD"
+    },
+    {
+     "page": 392,
+     "quote": "Lumbar/sacral epidural steroid injection with imaging guldance at L4-L5."
+    },
+    {
+     "page": 392,
+     "quote": "None. Patient tolerated the procedure wel1. Pre-procedurc pain 7/10, post-pr0cedure 3/10."
+    }
+   ]
+  },
+  {
+   "date": "03/06/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 13 of plan of care with pain 5/10, lumbar flexion 48 deg and extension 68 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 18,
+     "quote": "Date 0f service: 03/06/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 18,
+     "quote": "Visit 13 of plan of care. ROM: lumbar flcxion 48 deg, lumbar extension 68 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/09/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 14 with pain 5/10 and morning stiffness, lumbar flexion 35 deg and extension 49 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 161,
+     "quote": "Date of service: 03/09/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 161,
+     "quote": "Visit 14 of plan of care. ROM: lumbar flexion 35 deg, lumbar extension 49 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/12/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 15 with pain 4/10, lumbar flexion 32 deg and extension 52 deg, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 162,
+     "quote": "Date of service: 03/12/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 162,
+     "quote": "Visit 15 of plan of care. ROM: lumbar flexion 32 deg, lumbar extension 52 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/14/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 16 visits showed pain decreased to 4/10, improving sitting tolerance, lumbar flexion 38 deg and extension 62 deg, and an Oswestry score of 20/50 (40%), with a plan to continue therapy 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 164,
+     "quote": "Date of service: 03/14/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 164,
+     "quote": "Re-evaluation after 16 visits. Pain decreased to 4/10. Improving tolerance to"
+    },
+    {
+     "page": 164,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "03/14/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 16 of plan of care with pain 4/10, lumbar flexion 38 deg and extension 62 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 20,
+     "quote": "Date of service: 03/14/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 20,
+     "quote": "Vlsit 16 of plan of care. ROM: lumbar flexion 38 deg, lumbar extension 62 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/16/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 17 of plan of care with pain 4/10, lumbar flexion 35 deg and extension 43 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 22,
+     "quote": "Date of service: 03/16/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 22,
+     "quote": "Visit 17 of plan of care. ROM: lumbar flexion 35 deg, lumbar extension 43 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/18/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 18 of plan of care with pain 3/10, lumbar flexion 66 deg and extension 32 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 23,
+     "quote": "Date of service: O3/18/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 23,
+     "quote": "Visit 18 of p1an of care. ROM: lumbar flexion 66 deg, lumbar extension 32 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/20/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 19 of plan of care with pain 2/10 worse after work, lumbar flexion 34 deg and extension 41 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 24,
+     "quote": "Date of service: 03/20/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 24,
+     "quote": "Visit 19 of plan of care. ROM: lumbar flexion 34 deg, lumbar extension 41 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/23/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 20 of plan of care with pain 2/10 worse after work, lumbar flexion 68 deg and extension 37 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 25,
+     "quote": "Date of service: 03/23/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 25,
+     "quote": "Visit 20 of plan of care. ROM: lumbar flexion 68 deg, lumbar extension 37 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/25/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 21 of plan of care with pain 2/10 and morning stiffness, lumbar flexion 54 deg and extension 33 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 26,
+     "quote": "Date of service: 03/2S/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 26,
+     "quote": "Electronically signed by Dcborah Dunleavy, PT, DPT on 03/25/2024"
+    }
+   ]
+  },
+  {
+   "date": "03/27/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 22 of plan of care with pain 2/10, lumbar flexion 44 deg and extension 67 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 27,
+     "quote": "Date of service: 03/27/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 27,
+     "quote": "Visit 22 of plan of care. ROM: lumbar flexion 44 deg, lumbar extension 67 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/30/2024",
+   "provider": "KINGSWAY PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 23 of plan of care with pain 2/10, lumbar flexion 48 deg and extension 34 deg; treated with therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 28,
+     "quote": "Date of service: 03/30/2024   Therapist: Deborah Dunleavy, PT, DPT"
+    },
+    {
+     "page": 28,
+     "quote": "Visit 23 0f plan of care. ROM: lumbar flexion 48 deg, lumbar extension 34 deg."
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 5,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 74074,
+   "output_tokens": 9669,
+   "calls": 5
+  }
+ }
+}

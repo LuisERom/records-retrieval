@@ -1,0 +1,18 @@
+split: alt4  case files: 10  pages: 3402  duplicate pages in the answer key: 2041 (60.0%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |     4 / 2041    0.1% |               2037 |            0 |         100.0% |        0.1% |     0.0 |
+| GnoRA file check, per page  |  1255 / 2041   61.4% |                732 |           63 |          85.5% |       52.5% |     4.8 |
+| this method v1              |  1378 / 2041   67.5% |                663 |            2 |          98.7% |       51.2% |     6.7 |
+| this method v2              |  1669 / 2041   81.7% |                371 |            1 |          99.0% |       69.9% |     9.9 |
+| this method v3              |  1771 / 2041   86.7% |                258 |            8 |          96.5% |       80.7% |    34.6 |
+content lost by this method v3 (original pages with no copy kept): 8
+  of those, with words not on the page they were merged into: 7
+   alt4-5: c0010 (clinical) | words not on the kept page: 26 confldcntlal mar o6 oo32 po
+   alt4-5: c0017 (clinical) | words not on the kept page: 26 4llsb 9 b blm contraston cxtrusloncontactlng l736 lcftls lmplrlgcmcnt may multlscqvcncc
+   alt4-6: c0014 (clinical) | words not on the kept page: none
+   alt4-7: c0122 (admin) | words not on the kept page: 24 scptcmbcr
+   alt4-7: c0132 (admin) | words not on the kept page: 22 scptcmbcr
+   alt4-7: c0150 (admin) | words not on the kept page: 29 l4 scptcmbcr
+   alt4-8: c0010 (clinical) | words not on the kept page: 22 26 6 b blm l227 o7o27 os r rclcascd rcq subp
+   alt4-9: c0009 (clinical) | words not on the kept page: bonc jul marrow oo3b

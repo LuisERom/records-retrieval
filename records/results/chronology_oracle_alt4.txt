@@ -1,0 +1,7 @@
+split: alt4  extractor: oracle  case files: 10  encounters in the answer key: 856
+events found:              833 / 856 = 97.3%
+entries correct:           833 / 833 = 100.0%
+citations on the right record: 1155 / 1183 = 97.6%
+diagnosis codes listed:    416 / 2343 = 17.7%
+dropped by the checker:    0 entries; batches repaired 0 / 62; refused 0
+events found by kind:     er_visit 12/12, imaging 27/39, lab 14/14, office_visit 71/82, procedure 6/6, surgery 6/6, therapy_evaluation 79/79, therapy_visit 618/618

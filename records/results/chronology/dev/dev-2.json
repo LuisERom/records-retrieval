@@ -1,0 +1,615 @@
+{
+ "entries": [
+  {
+   "date": "05/04/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "lab",
+   "summary": "Routine laboratory panel showed values within reference ranges except LDL cholesterol 149 mg/dL; no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 99,
+     "quote": "Collected: 05/04/2023   Reported: 05/05/2023   Ordering: Tomas Reyes, MD"
+    },
+    {
+     "page": 99,
+     "quote": "Results reviewed. No critical values."
+    }
+   ]
+  },
+  {
+   "date": "05/04/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Annual physical with no complaints; patient denied neck, back or joint pain and reported no prior injuries to the right knee or lumbar spine; exam showed full painless range of motion and normal neurologic exam; routine labs ordered, return in one year.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 98,
+     "quote": "Date of service: 05/04/2023   Provider: Tomas Reyes, MD"
+    },
+    {
+     "page": 98,
+     "quote": "Denies neck, back 0r joint"
+    },
+    {
+     "page": 98,
+     "quote": "Full range of motion of the spine and all extremities without pain."
+    }
+   ]
+  },
+  {
+   "date": "02/27/2024",
+   "provider": "SAINT COLUMBA HOSPITAL",
+   "kind": "er_visit",
+   "summary": "Restrained driver rear-ended at about 30 mph presented with right knee pain and swelling and low back pain radiating to the left buttock (8/10), with tenderness and reduced range of motion of the right knee and lumbar spine; given ketorolac 30 mg IM, diagnosed with right knee ACL sprain and lumbar sprain, and discharged on ibuprofen and cyclobenzaprine with primary care follow-up in 2-3 days.",
+   "diagnosis_codes": [
+    "S83.511A",
+    "S33.5XXA",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 105,
+     "quote": "Date 0f service: 02/27/2024   Attending: Rajiv Quinlan, MD"
+    },
+    {
+     "page": 105,
+     "quote": "49-year-old restrained driver rear-ended at about 30 mph on the expressway approximately"
+    },
+    {
+     "page": 105,
+     "quote": "S83.511A Sprain of anterior cruciate ligament of right knee, initial encounter; S33.5XXA"
+    }
+   ]
+  },
+  {
+   "date": "02/27/2024",
+   "provider": "SAINT COLUMBA HOSPITAL",
+   "kind": "imaging",
+   "summary": "X-rays of the right knee (small joint effusion) and lumbosacral spine (mild straightening possibly reflecting muscle spasm) showed no acute fracture, dislocation or osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 89,
+     "quote": "Exam date: 02/27/2024   Ordering: Rajiv Quinlan, MD"
+    },
+    {
+     "page": 89,
+     "quote": "No acute fracture or dislocation. Small joint effusion."
+    },
+    {
+     "page": 89,
+     "quote": "Mild straightening of the normal curvature, which may"
+    }
+   ]
+  },
+  {
+   "date": "03/04/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Follow-up after 02/27/2024 motor vehicle collision for persistent right knee pain and swelling and low back pain radiating to the left buttock (5/10) with tenderness and reduced range of motion of the knee (about 28%) and lumbar spine (about 38%); diagnosed right knee pain and low back pain, referred to orthopaedics and physical therapy, continued ibuprofen, and kept out of work two weeks.",
+   "diagnosis_codes": [
+    "M25.561",
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 100,
+     "quote": "Date of service: 03/04/2024   Provider: Tomas Reyes, MD"
+    },
+    {
+     "page": 100,
+     "quote": "M25.561 Pain in right knee; M54.50 Low back pain, unspecified"
+    },
+    {
+     "page": 100,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen. Out of"
+    },
+    {
+     "page": 217,
+     "quote": "Date of servicc: 03/04/2024   Provider: Tomas Reyes, MD"
+    },
+    {
+     "page": 217,
+     "quote": "TOTAL SCORE: 34 / 50  (68%)"
+    }
+   ]
+  },
+  {
+   "date": "03/09/2024",
+   "provider": "RIVERSIDE BONE & JOINT, PLLC",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation with Farah Friedman, MD; the patient-completed Oswestry Low Back Disability Questionnaire scored 35/50 (70%).",
+   "diagnosis_codes": [
+    "S33.5XXA",
+    "S83.511A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 74,
+     "quote": "Date of service: 03/09/2024   Physician: Farah Friedman, MD"
+    },
+    {
+     "page": 74,
+     "quote": "TOTAL SCORE: 35 / 50  (70%)"
+    },
+    {
+     "page": 113,
+     "quote": "Date of service: 03/09/2024   Physician: Farah Friedman, MD"
+    },
+    {
+     "page": 113,
+     "quote": "S83.511A Sprain of anterior cruciate ligament of right knee, initial encounter;"
+    },
+    {
+     "page": 113,
+     "quote": "MRI of the right knee and lumbar spine. Continue physical therapy 3 times weekly."
+    }
+   ]
+  },
+  {
+   "date": "03/12/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy initial evaluation with patient-completed functional questionnaire scoring 33/50 (66%).",
+   "diagnosis_codes": [
+    "M25.561",
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 92,
+     "quote": "Date of service: 03/12/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 92,
+     "quote": "TOTAL SCORE: 33 / 50  (66%)"
+    },
+    {
+     "page": 241,
+     "quote": "Date 0f service: 03/12/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 241,
+     "quote": "Injured in a motor vehide collision on 02/27/2024. Pain 6/10, worse with sitting and"
+    },
+    {
+     "page": 241,
+     "quote": "Therapeutic exercise, manual therapy and electrical stimulation, 3 times weekly for 8"
+    }
+   ]
+  },
+  {
+   "date": "03/14/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 1 of the plan of care with pain 7/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 15,
+     "quote": "Date of service: 03/14/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 15,
+     "quote": "Patient reports pain 7/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "03/16/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 2 with pain 6/10 and morning stiffness; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 127,
+     "quote": "Date of service: 03/16/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 127,
+     "quote": "Patient reports pain 6/10 today. Stiffness in the morning."
+    }
+   ]
+  },
+  {
+   "date": "03/17/2024",
+   "provider": "NARROWS IMAGING CENTER",
+   "kind": "imaging",
+   "summary": "MRI of the right knee showed an oblique tear of the posterior horn of the medial meniscus extending to the inferior articular surface, and MRI of the lumbar spine showed a 3 mm posterior disc herniation at L4-L5 indenting the thecal sac.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 9,
+     "quote": "Exam date: 03/17/2024   Referring: Farah Friedman, MD"
+    },
+    {
+     "page": 9,
+     "quote": "3 mm posterior disc herniation at L4-L5 indenting the thecal sac."
+    }
+   ]
+  },
+  {
+   "date": "03/19/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 3 of the plan of care with pain 5/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 17,
+     "quote": "Date of service: 03/19/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 17,
+     "quote": "Visit 3 of plan of care. ROM: knee flexion 38 deg"
+    }
+   ]
+  },
+  {
+   "date": "03/23/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 4 of the plan of care with pain 5/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 18,
+     "quote": "Date of service: 03/23/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 18,
+     "quote": "Visit 4 of plan of care. ROM: knee flexion 51 deg"
+    }
+   ]
+  },
+  {
+   "date": "03/24/2024",
+   "provider": "RIVERSIDE BONE & JOINT, PLLC",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up to review the MRI (pain 6/10, attending physical therapy) assessed a right knee medial meniscus tear and a lumbar disc displacement causally related to the 02/27/2024 motor vehicle collision; the patient was referred to pain management for an epidural steroid injection and right knee arthroscopy with partial medial meniscectomy was recommended.",
+   "diagnosis_codes": [
+    "M51.26",
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 7,
+     "quote": "Date of service: 03/24/2024   Physician: Farah Friedman, MD"
+    },
+    {
+     "page": 7,
+     "quote": "Referred to pain management for cpidural steroid injection. Recommended"
+    },
+    {
+     "page": 254,
+     "quote": "Date of service: 03/24/2024   Physician: Farah Friedman, MD"
+    },
+    {
+     "page": 254,
+     "quote": "TOTAL SCORE: 26 / 50  (52%)"
+    }
+   ]
+  },
+  {
+   "date": "03/26/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 with pain 5/10, doing home exercises daily; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 130,
+     "quote": "Date of service: 03/26/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 130,
+     "quote": "Patient reports pain 5/10 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "03/29/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 6 of the plan of care with pain 5/10 and home exercises done daily; treatment was therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 20,
+     "quote": "Date of service: 03/29/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 20,
+     "quote": "Visit 6 of plan of care. ROM: knee flexion 68 deg"
+    }
+   ]
+  },
+  {
+   "date": "03/31/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 7 with pain 5/10; treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 131,
+     "quote": "Date of service: 03/31/2024   Therapist: Irnran Novak, PT, DPT"
+    },
+    {
+     "page": 131,
+     "quote": "Patient reports pain 5/10 today. Tolerated last session well."
+    }
+   ]
+  },
+  {
+   "date": "04/03/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation with patient-completed functional questionnaire scoring 25/50 (50%).",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 134,
+     "quote": "Date of service: 04/03/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 134,
+     "quote": "TOTAL SCORE: 25 / 50  (50%)"
+    },
+    {
+     "page": 243,
+     "quote": "Date of service: 04/03/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 243,
+     "quote": "Re-evaluation aftcr 8 visits. Pain decreased to 5/10. Partial improvement in function."
+    },
+    {
+     "page": 243,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "04/03/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 8 of the plan of care with pain 5/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 22,
+     "quote": "Date of service: 04/03/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 22,
+     "quote": "Visit 8 of plan of care. ROM: knee flexion 62 deg"
+    }
+   ]
+  },
+  {
+   "date": "04/06/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 9 of the plan of care with pain 4/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 25,
+     "quote": "Date of service: 04/06/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 25,
+     "quote": "Visit 9 of plan of care. ROM: knee flexion 54 deg"
+    }
+   ]
+  },
+  {
+   "date": "04/10/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 10 of the plan of care with pain 4/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 26,
+     "quote": "Date of service: 04/10/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 26,
+     "quote": "Visit 10 of plan of care. ROM: knee flexion 51 deg"
+    }
+   ]
+  },
+  {
+   "date": "04/12/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 11 of the plan of care with pain 3/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 27,
+     "quote": "Date of service: 04/12/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 27,
+     "quote": "Visit 11 of plan of care. ROM: knee flexion 63 deg"
+    }
+   ]
+  },
+  {
+   "date": "04/16/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 12 of the plan of care with pain 3/10, worse after work; treatment was therapeutic exercise, manual therapy and electrical stimulation.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 28,
+     "quote": "Date of service: 04/16/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 28,
+     "quote": "Patient reports pain 3/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "04/17/2024",
+   "provider": "PARKSIDE INTERVENTIONAL PAIN",
+   "kind": "procedure",
+   "summary": "Lumbar epidural steroid injection with imaging guidance at L4-L5 using dexamethasone 10 mg for lumbar disc displacement with radicular pain refractory to physical therapy; no complications, pain reduced from 7/10 to 3/10.",
+   "diagnosis_codes": [
+    "M51.26"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 182,
+     "quote": "Date of service: 04/17/2024   Physician: Erneka Ortiz, MD"
+    },
+    {
+     "page": 182,
+     "quote": "Lumbar/sacral epidural steroid injection with imaging guidance at L4-L5."
+    },
+    {
+     "page": 182,
+     "quote": "M51.26 Other intervertebral disc displacement, lumbar region with radicular pain"
+    }
+   ]
+  },
+  {
+   "date": "04/20/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 13 of the plan of care with pain 2/10; treatment was therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 29,
+     "quote": "Date of service: 04/20/2024   Therapist: Imran Novak, PT, DPT"
+    },
+    {
+     "page": 29,
+     "quote": "Visit 13 of plan of care. ROM: knee flexion 51 deg"
+    }
+   ]
+  },
+  {
+   "date": "05/06/2024",
+   "provider": "Ridgeview Ambulatory Surgery Center",
+   "kind": "surgery",
+   "summary": "Right knee arthroscopy with partial medial meniscectomy under general anesthesia for medial meniscus tear, finding a complex tear of the posterior horn of the medial meniscus with ACL intact with mild laxity; discharged home the same day, weight bearing as tolerated with crutches.",
+   "diagnosis_codes": [
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 185,
+     "quote": "Date 0f surgery: 05/06/2024   Surgeon: Alan Mancuso, MD"
+    },
+    {
+     "page": 185,
+     "quote": "Arthroscopy, knee, with partial medial meniscectomy, right knee."
+    },
+    {
+     "page": 185,
+     "quote": "Complex tear of the posterior horn of the medial meniscus; ACL intact with mild"
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 4,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 56471,
+   "output_tokens": 8910,
+   "calls": 4
+  }
+ }
+}

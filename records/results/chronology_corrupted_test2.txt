@@ -1,0 +1,13 @@
+split: test2  extractor: corrupted  case files: 16  encounters in the answer key: 511
+events found:              368 / 511 = 72.0%
+entries correct:           368 / 369 = 99.7%
+citations on the right record: 407 / 407 = 100.0%
+diagnosis codes listed:    117 / 158 = 74.0%
+dropped by the checker:    166 entries; batches repaired 64 / 84; refused 0
+events found by kind:     er_visit 14/16, imaging 20/32, lab 14/16, office_visit 50/64, procedure 7/8, surgery 7/8, therapy_evaluation 33/46, therapy_visit 223/321
+  dropped: test2-2001: date 02/22/2024 is not the date of service on the cited pages
+  dropped: test2-2001: date 03/07/2024 is not written on any cited page
+  dropped: test2-2002: date 01/07/2024 is not the date of service on the cited pages
+  dropped: test2-2002: date 01/17/2024 is not the date of service on the cited pages
+  dropped: test2-2003: date 05/27/2024 is not the date of service on the cited pages
+  dropped: test2-2003: date 05/04/2024 is not the date of service on the cited pages

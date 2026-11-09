@@ -1,0 +1,13 @@
+split: alt5  extractor: corrupted  case files: 10  encounters in the answer key: 646
+events found:              470 / 646 = 72.7%
+entries correct:           470 / 472 = 99.5%
+citations on the right record: 709 / 730 = 97.1%
+diagnosis codes listed:    641 / 1883 = 34.0%
+dropped by the checker:    250 entries; batches repaired 52 / 57; refused 0
+events found by kind:     er_visit 11/14, imaging 22/42, lab 3/4, office_visit 133/190, procedure 7/10, surgery 5/5, therapy_evaluation 26/35, therapy_visit 263/346
+  dropped: alt5-1: quote not found on page 9: 'Patient denies any pain and was never injured'
+  dropped: alt5-1: date 03/19/2022 is not written on any cited page
+  dropped: alt5-10: date 01/27/2023 is not the date of service on the cited pages
+  dropped: alt5-10: date 02/03/2023 is not written on any cited page
+  dropped: alt5-2: quote not found on page 9: 'Patient denies any pain and was never injured'
+  dropped: alt5-2: date 04/07/2024 is not written on any cited page

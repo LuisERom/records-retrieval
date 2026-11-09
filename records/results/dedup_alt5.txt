@@ -1,0 +1,25 @@
+split: alt5  case files: 10  pages: 3110  duplicate pages in the answer key: 1887 (60.7%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |   153 / 1887    8.1% |               1734 |            0 |         100.0% |        5.6% |     0.0 |
+| GnoRA file check, per page  |   859 / 1887   45.5% |               1014 |           22 |          92.6% |       35.9% |     4.0 |
+| this method v1              |  1218 / 1887   64.5% |                669 |            5 |          98.8% |       46.3% |     6.3 |
+| this method v2              |  1521 / 1887   80.6% |                357 |           12 |          97.6% |       68.9% |     9.3 |
+| this method v3              |  1593 / 1887   84.4% |                282 |           15 |          97.1% |       75.1% |    31.4 |
+content lost by this method v3 (original pages with no copy kept): 15
+  of those, with words not on the page they were merged into: 9
+   alt5-1: c0109 (billing) | words not on the kept page: none
+   alt5-10: c0021 (clinical) | words not on the kept page: mm
+   alt5-10: c0106 (billing) | words not on the kept page: none
+   alt5-10: c0133 (billing) | words not on the kept page: botlcold dcf mcdooo4o4 ncuromuscvlar sablcpolnt
+   alt5-3: c0104 (billing) | words not on the kept page: 4 actlvlflcs cpb fbcrapy pagcl
+   alt5-3: c0105 (billing) | words not on the kept page: 4 cpb marlual rccdvc sflm tbcrapcuflc ultrasourld
+   alt5-3: c0106 (billing) | words not on the kept page: 4 6l7on cpb cvaluaflon ncvromuscular tbcrapcutlccxcrclsc tbcrapcvtlc
+   alt5-3: c0108 (billing) | words not on the kept page: 2s 4 cpb
+   alt5-5: c0083 (billing) | words not on the kept page: wlckbam
+   alt5-6: c0097 (billing) | words not on the kept page: none
+   alt5-6: c0113 (billing) | words not on the kept page: none
+   alt5-6: c0114 (billing) | words not on the kept page: none
+   alt5-6: c0115 (billing) | words not on the kept page: ccntcr
+   alt5-8: c0082 (billing) | words not on the kept page: none
+   alt5-9: c0092 (billing) | words not on the kept page: 47 dcf mcd

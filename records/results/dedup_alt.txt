@@ -1,0 +1,17 @@
+split: alt  case files: 12  pages: 4293  duplicate pages in the answer key: 2833 (66.0%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |     0 / 2833    0.0% |               2833 |            0 |            n/a |        0.0% |     0.0 |
+| GnoRA file check, per page  |   216 / 2833    7.6% |               2617 |            7 |          93.1% |        4.0% |     6.3 |
+| this method v1              |   838 / 2833   29.5% |               1995 |            5 |          97.4% |       15.0% |     8.7 |
+| this method v2              |  2168 / 2833   76.5% |                652 |            8 |          96.1% |       65.3% |    11.1 |
+content lost by this method v2 (original pages with no copy kept): 8
+  of those, with words not on the page they were merged into: 8
+   alt-1: c010 (clinical) | words not on the kept page: ol4 oo7
+   alt-10: c043 (clinical) | words not on the kept page: bscrvatlon buplvacalncwltb cont ln nucd ob72 oo2 oo3 pa paln6 pltf
+   alt-10: c051 (clinical) | words not on the kept page: apy obs6 pltf tbc
+   alt-10: c094 (admin) | words not on the kept page: cblropractlc dunmorc flats jan xcnla
+   alt-10: c108 (admin) | words not on the kept page: cblropractlc dunmorc flats jun xcnla
+   alt-12: c010 (clinical) | words not on the kept page: c dat dcg ducto pa rccs scr vlcc
+   alt-3: c034 (clinical) | words not on the kept page: c ccratlon ln oo2 oo3 y
+   alt-4: c067 (clinical) | words not on the kept page: approxlmat bf cba clcct cs dlc flar forflarcs lmprovcmcntantlclpatcd lns lodlc ly

@@ -1,0 +1,10 @@
+split: alt2  case files: 10  pages: 3547  duplicate pages in the answer key: 2320 (65.4%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |    28 / 2320    1.2% |               2292 |            0 |         100.0% |        1.1% |     0.0 |
+| GnoRA file check, per page  |   922 / 2320   39.7% |               1398 |            6 |          99.6% |       35.3% |     5.8 |
+| this method v1              |   815 / 2320   35.1% |               1505 |            5 |          99.5% |       24.7% |     7.9 |
+| this method v2              |  1327 / 2320   57.1% |                993 |            0 |         100.0% |       45.9% |    10.4 |
+| this method v3              |  1460 / 2320   62.9% |                860 |            0 |         100.0% |       52.6% |    37.8 |
+content lost by this method v3 (original pages with no copy kept): 0
+  of those, with words not on the page they were merged into: 0

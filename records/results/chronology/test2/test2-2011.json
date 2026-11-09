@@ -1,0 +1,747 @@
+{
+ "entries": [
+  {
+   "date": "12/25/2024",
+   "provider": "BAY RIDGE FAMILY MEDICINE, PC",
+   "kind": "lab",
+   "summary": "Laboratory panel showed glucose 100 mg/dL and LDL cholesterol 134 mg/dL above reference range, with other values including WBC, hemoglobin, creatinine and electrolytes within range and no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 25,
+     "quote": "Collectcd: 12/25/2024   Reported: 12/26/2024   Ordering: Simone Lindqvist, MD"
+    },
+    {
+     "page": 25,
+     "quote": "Results reviewed. No critical values."
+    }
+   ]
+  },
+  {
+   "date": "12/25/2024",
+   "provider": "BAY RIDGE FAMILY MEDICINE, PC",
+   "kind": "office_visit",
+   "summary": "Pre-accident annual physical with no complaints, denial of neck, back or joint pain, no prior lumbar spine or right shoulder injuries, and full pain-free range of motion; assessed as general adult exam without abnormal findings, with routine labs ordered and return in one year.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 240,
+     "quote": "Denies neck, back or joint pain. No"
+    },
+    {
+     "page": 240,
+     "quote": "Full range of motlon of the spine and all extremities wlthout pain."
+    },
+    {
+     "page": 240,
+     "quote": "Electronically signed by Simone Lindqvist, MD on 12/25/2024"
+    }
+   ]
+  },
+  {
+   "date": "06/14/2025",
+   "provider": "HARBOR POINT MEDICAL CENTER",
+   "kind": "er_visit",
+   "summary": "Emergency department visit for injuries from a motor vehicle collision, triage ESI 3, with discharge instructions for muscle strain and ligament sprain including ice, cyclobenzaprine precautions, and primary care follow-up in 2 to 3 days.",
+   "diagnosis_codes": [
+    "S33.5XXA",
+    "S43.401A",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 63,
+     "quote": "Date of service: 06/14/2025   Attending: Tomas Castellano, MD"
+    },
+    {
+     "page": 63,
+     "quote": "You were seen in the Emergency Department for injuries from a m0tor vehicle collision."
+    },
+    {
+     "page": 247,
+     "quote": "Date of service: 06/14/2025   Attending: Tomas Castellano, MD"
+    },
+    {
+     "page": 247,
+     "quote": "Ketorolac 30 mg IM given with partial relief."
+    },
+    {
+     "page": 247,
+     "quote": "S33.5XXA Sprain of ligaments of lumbar spine, initial encounter; S43.401A Unspecified"
+    }
+   ]
+  },
+  {
+   "date": "06/14/2025",
+   "provider": "HARBOR POINT MEDICAL CENTER",
+   "kind": "imaging",
+   "summary": "X-rays of the lumbosacral spine and right shoulder showed no acute fracture or dislocation, mild straightening of the lumbar curvature possibly reflecting muscle spasm, and a small right shoulder joint effusion; impression was no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 178,
+     "quote": "Exam date: 06/14/2025   Ordering: Tomas Castellano, MD"
+    },
+    {
+     "page": 178,
+     "quote": "No acute fracture 0r dislocation. Small j0int effusion."
+    }
+   ]
+  },
+  {
+   "date": "06/17/2025",
+   "provider": "BAY RIDGE FAMILY MEDICINE, PC",
+   "kind": "office_visit",
+   "summary": "Follow-up after the 06/14/2025 motor vehicle collision for low back pain radiating to the left buttock and right shoulder pain (6/10), with lumbar and right shoulder tenderness and reduced range of motion; diagnosed with low back pain and right shoulder pain, referred to orthopaedics and physical therapy, ibuprofen continued, and taken out of work for two weeks; the attached Oswestry score was 38/50 (76%) and the QuickDASH score was 43/55 (78%).",
+   "diagnosis_codes": [
+    "M54.50",
+    "M25.511"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 215,
+     "quote": "Follow-up after motor vehicle collision on 06/14/2025."
+    },
+    {
+     "page": 215,
+     "quote": "Referrcd to orthopaedics and physical therapy. Continue ibuprofen. Out of work for two"
+    },
+    {
+     "page": 216,
+     "quote": "TOTAL 5CORE: 43 / 55  (78%)"
+    }
+   ]
+  },
+  {
+   "date": "06/23/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy initial evaluation after a 06/14/2025 motor vehicle collision for low back pain and right shoulder pain (pain 6/10) with reduced lumbar and shoulder range of motion and Oswestry score 28/50 (56%); plan therapeutic exercise, manual therapy and electrical stimulation 3 times weekly for 8 weeks.",
+   "diagnosis_codes": [
+    "M25.511",
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 66,
+     "quote": "Date of service: 06/23/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 66,
+     "quote": "MS4.50 Low back pain, unspecified; M25.511 Pain in right shoulder"
+    },
+    {
+     "page": 267,
+     "quote": "PHYSICAL THERAPY INITIAL EVALUATION"
+    },
+    {
+     "page": 267,
+     "quote": "Date of service: 06/23/2025   Therapist: Mateo Esposito, PT, DPT"
+    }
+   ]
+  },
+  {
+   "date": "06/24/2025",
+   "provider": "RIVERSIDE BONE & JOINT, PLLC",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation for low back pain radiating to the left buttock and right shoulder pain after a 06/14/2025 motor vehicle collision, with reduced range of motion and Oswestry score 36/50 (72%), diagnosed with lumbar sprain and right shoulder sprain; plan MRI of lumbar spine and right shoulder, continue PT 3 times weekly, naproxen 500 mg twice daily, re-evaluate after MRI.",
+   "diagnosis_codes": [
+    "S33.5XXA",
+    "S43.401A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 4,
+     "quote": "Date of service: 06/24/2025   Physician: Lena Lindqvist, MD"
+    },
+    {
+     "page": 4,
+     "quote": "MRI of the lumbar spine and right shoulder. Continue physical therapy 3 times weekly."
+    },
+    {
+     "page": 224,
+     "quote": "Date of service: 06/24/2O25   Physician: Lena Lindqvist, MD"
+    },
+    {
+     "page": 224,
+     "quote": "TOTAL SCORE: 45 / 55  (82%)"
+    }
+   ]
+  },
+  {
+   "date": "06/25/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 1 with pain 7/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 77,
+     "quote": "Date of service: 06/25/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 77,
+     "quote": "97110 therapeutic exercise 30 min; 97140 manual therapy 15 min; 97014 electrical"
+    }
+   ]
+  },
+  {
+   "date": "06/28/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 2 with pain 7/10 and morning stiffness, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 269,
+     "quote": "Date of service: 06/28/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 269,
+     "quote": "Patient reports pain 7/10 today. Stiffness in the moming."
+    }
+   ]
+  },
+  {
+   "date": "07/02/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 3 with pain 7/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 79,
+     "quote": "Date of service: 07/02/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 79,
+     "quote": "Patient reports pain 7/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "07/05/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 4 with pain 7/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 80,
+     "quote": "Date of service: 07/05/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 80,
+     "quote": "Visit 4 of plan of care. ROM: lumbar flexion 44 deg, lumbar extension 65 deg"
+    }
+   ]
+  },
+  {
+   "date": "07/08/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 of plan of care with pain 7/10 and morning stiffness, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 81,
+     "quote": "Date of service: 07/08/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 81,
+     "quote": "Patient reports pain 7/10 today. Stiffness in the morning."
+    }
+   ]
+  },
+  {
+   "date": "07/10/2025",
+   "provider": "NARROWS IMAGING CENTER",
+   "kind": "imaging",
+   "summary": "MRI of the lumbar spine showed a 4 mm posterior disc herniation at L5-S1 indenting the thecal sac, and MRI of the right shoulder showed a partial-thickness articular-sided tear of the supraspinatus tendon.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 38,
+     "quote": "Exam date: 07/10/2025   Referring: Lena Lindqvist, MD"
+    },
+    {
+     "page": 38,
+     "quote": "4 mm posterior disc herniation at L5-S1 indenting the thecal sac."
+    },
+    {
+     "page": 38,
+     "quote": "Partial-thickness articular-sided tear of thc supraspinatus tendon."
+    }
+   ]
+  },
+  {
+   "date": "07/11/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 6 with pain 7/10 worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 273,
+     "quote": "Date of service: 07/11/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 273,
+     "quote": "Patient reports pain 7/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "07/14/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 7 with pain 7/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 274,
+     "quote": "Date of service: 07/14/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 274,
+     "quote": "Patient reports pain 7/10 today. Tolerated last session well."
+    }
+   ]
+  },
+  {
+   "date": "07/16/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "PT re-evaluation after 8 visits with pain 7/10 and improving sitting tolerance, Oswestry 34/50 (68%) and QuickDASH 41/55 (75%); plan to continue PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 276,
+     "quote": "Re-evaluation after 8 visits. Pain decreased to 7/10. Improving tolerance to sitting."
+    },
+    {
+     "page": 276,
+     "quote": "C0ntinue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    },
+    {
+     "page": 277,
+     "quote": "Date of service: 07/16/2O25   Tberapist: Mateo Esposito, PT, DPT"
+    }
+   ]
+  },
+  {
+   "date": "07/16/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 8 with pain 7/10, doing home exercises daily, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 275,
+     "quote": "Date 0f service: 07/16/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 275,
+     "quote": "Patient reports pain 7/10 t0day. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "07/20/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 9 of plan of care with pain 6/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 87,
+     "quote": "Date of service: 07/20/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 87,
+     "quote": "Patient reports pain 6/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "07/21/2025",
+   "provider": "RIVERSIDE BONE & JOINT, PLLC",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up reviewing MRI showing 4 mm L5-S1 disc herniation and partial-thickness supraspinatus tear, pain 7/10, assessed lumbar disc displacement and right rotator cuff strain causally related to the 06/14/2025 collision, referred to pain management for epidural steroid injection; Oswestry 28/50 and QuickDASH 28/55.",
+   "diagnosis_codes": [
+    "M51.26",
+    "S46.011A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 257,
+     "quote": "Date of service: 07/21/2025   Physician: Lena Lindqvist, MD"
+    },
+    {
+     "page": 257,
+     "quote": "Injuries are causally related to the motor vehicle collision of 06/14/2025."
+    },
+    {
+     "page": 226,
+     "quote": "TOTAL SCORE: 28 / 55  (51%)"
+    }
+   ]
+  },
+  {
+   "date": "07/24/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 10 of plan of care with pain 6/10 and morning stiffness, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 88,
+     "quote": "Date of service: 07/24/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 88,
+     "quote": "Patient reports pain 6/10 today. Stiffness in the morning."
+    }
+   ]
+  },
+  {
+   "date": "07/26/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 11 of plan of care with pain 5/10, doing home exercises daily, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 89,
+     "quote": "Date of service: 07/26/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 89,
+     "quote": "Patient reports pain 5/10 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "07/28/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 12 of plan of care with pain 5/10, worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 90,
+     "quote": "Date of service: 07/28/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 90,
+     "quote": "Patient reports pain 5/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "07/31/2025",
+   "provider": "KINGS PAIN & SPINE, PLLC",
+   "kind": "procedure",
+   "summary": "Lumbar/sacral epidural steroid injection with imaging guidance at L5-S1 for lumbar disc displacement with radicular pain refractory to physical therapy, using dexamethasone 10 mg, with no complications and pain reduced from 7/10 to 3/10.",
+   "diagnosis_codes": [
+    "M51.26"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 42,
+     "quote": "Date of service: 07/31/2025   Physician: Chen Abrams, MD"
+    },
+    {
+     "page": 42,
+     "quote": "Lumbar/sacral epidural steroid injectlon with lmaging guidance at L5-S1."
+    }
+   ]
+  },
+  {
+   "date": "08/01/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 13 of plan of care with pain 5/10, worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 91,
+     "quote": "Date of service: 08/01/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 91,
+     "quote": "Visit 13 of plan of care. ROM: lumbar flexion 61 deg, lumbar extension 60 deg"
+    }
+   ]
+  },
+  {
+   "date": "08/04/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 14 of plan of care with pain 5/10, worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 92,
+     "quote": "Date of service: 08/04/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 92,
+     "quote": "Visit 14 of plan of care. ROM: lumbar flexion 44 deg, lumbar extension 63 deg"
+    }
+   ]
+  },
+  {
+   "date": "08/06/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 15 with pain 5/10 and better sleep, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 282,
+     "quote": "Date 0f service: 08/06/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 282,
+     "quote": "Patient reports pain 5/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "08/10/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 16 visits with pain decreased to 5/10, plateau in range of motion, and Oswestry score 22/50 (44%); plan to continue skilled PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 19,
+     "quote": "Date of service: 08/10/2025   Therapist: Mateo Esp0slto, PT, DPT"
+    },
+    {
+     "page": 19,
+     "quote": "Re-evaluation after 16 visits. Pain decreased to 5/10. Plateau in range of motion."
+    },
+    {
+     "page": 185,
+     "quote": "Date of service: 08/10/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 185,
+     "quote": "TOTAL SC0RE: 27 / 55  (49%)"
+    }
+   ]
+  },
+  {
+   "date": "08/10/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 16 of plan of care with pain 5/10, worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 94,
+     "quote": "Date of service: 08/10/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 94,
+     "quote": "Visit 16 of plan of care. ROM: lumbar flexion 39 deg, lumbar extension 64 deg"
+    }
+   ]
+  },
+  {
+   "date": "08/12/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 17 with pain 5/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 284,
+     "quote": "Date of service: 08/12/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 284,
+     "quote": "Patient reports pain 5/10 today. Tolerated last session well."
+    }
+   ]
+  },
+  {
+   "date": "08/15/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 18 of plan of care with pain 4/10, sleeping better, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 98,
+     "quote": "Date of service: 08/15/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 98,
+     "quote": "Patient reports pain 4/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "08/18/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 19 of plan of care with pain 4/10, sleeping better, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 99,
+     "quote": "Date of service: 08/18/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 99,
+     "quote": "Visit 19 of plan of care. ROM: lumbar flexion 57 deg, lumbar extension 51 deg"
+    }
+   ]
+  },
+  {
+   "date": "08/22/2025",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 20 of plan of care with pain 3/10, sleeping better, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 100,
+     "quote": "Date of service: 08/22/2025   Therapist: Mateo Esposito, PT, DPT"
+    },
+    {
+     "page": 100,
+     "quote": "Patient reports pain 3/10 today. Slept better this week."
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 5,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 70497,
+   "output_tokens": 10647,
+   "calls": 5
+  }
+ }
+}

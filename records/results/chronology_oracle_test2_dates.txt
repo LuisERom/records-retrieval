@@ -1,0 +1,7 @@
+split: test2  extractor: oracle  case files: 16  encounters in the answer key: 511
+events found:              511 / 511 = 100.0%
+entries correct:           511 / 511 = 100.0%
+citations on the right record: 588 / 588 = 100.0%
+diagnosis codes listed:    164 / 198 = 82.8%
+dropped by the checker:    0 entries; batches repaired 0 / 84; refused 0
+events found by kind:     er_visit 16/16, imaging 32/32, lab 16/16, office_visit 64/64, procedure 8/8, surgery 8/8, therapy_evaluation 46/46, therapy_visit 321/321

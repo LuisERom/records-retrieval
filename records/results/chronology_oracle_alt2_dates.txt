@@ -1,0 +1,13 @@
+split: alt2  extractor: oracle  case files: 10  encounters in the answer key: 347
+events found:              321 / 347 = 92.5%
+entries correct:           321 / 321 = 100.0%
+citations on the right record: 975 / 1000 = 97.5%
+diagnosis codes listed:    146 / 788 = 18.5%
+dropped by the checker:    8 entries; batches repaired 8 / 78; refused 0
+events found by kind:     er_visit 16/16, imaging 13/19, lab 9/9, office_visit 99/102, procedure 4/6, surgery 10/10, therapy_evaluation 26/26, therapy_visit 144/159
+  dropped: alt2-1: date 08/06/2024 is not the date of service on the cited pages
+  dropped: alt2-10: date 06/23/2024 is not the date of service on the cited pages
+  dropped: alt2-10: date 06/23/2024 is not the date of service on the cited pages
+  dropped: alt2-3: date 06/05/2024 is not the date of service on the cited pages
+  dropped: alt2-4: date 06/23/2025 is not the date of service on the cited pages
+  dropped: alt2-7: date 02/19/2024 is not the date of service on the cited pages

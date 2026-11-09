@@ -1,0 +1,837 @@
+{
+ "entries": [
+  {
+   "date": "12/02/2023",
+   "provider": "LINDEN AVENUE MEDICAL GROUP",
+   "kind": "lab",
+   "summary": "Routine labs (CBC, glucose, creatinine, electrolytes, ALT, LDL) were reported with LDL 106 and no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 12,
+     "quote": "Collected: 12/02/2023   Reported: 12/03/2023   Ordering: Helen Esposito, MD"
+    },
+    {
+     "page": 12,
+     "quote": "Results reviewed. No critical values."
+    }
+   ]
+  },
+  {
+   "date": "12/02/2023",
+   "provider": "LINDEN AVENUE MEDICAL GROUP",
+   "kind": "office_visit",
+   "summary": "Pre-accident annual physical: patient denied neck, back or joint pain and prior lumbar spine or right knee injuries, exam showed full spinal and extremity range of motion with normal neurologic exam, assessed as general adult exam without abnormal findings, and routine labs were ordered.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 11,
+     "quote": "Denies neck, back or joint pain. No prior injuries"
+    },
+    {
+     "page": 11,
+     "quote": "Date of service: 12/02/2023   Provider: Helen Esposito, MD"
+    }
+   ]
+  },
+  {
+   "date": "07/26/2024",
+   "provider": "SAINT COLUMBA HOSPITAL",
+   "kind": "er_visit",
+   "summary": "After a motor vehicle collision, the restrained driver presented with low back pain radiating to the left buttock and right knee pain and swelling, had lumbar and right knee tenderness with reduced range of motion, had lumbar and knee x-rays ordered, received ketorolac 30 mg IM, was diagnosed with lumbar sprain and right knee ACL sprain, and was discharged on ibuprofen and cyclobenzaprine with primary care follow-up.",
+   "diagnosis_codes": [
+    "S33.5XXA",
+    "S83.511A",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 18,
+     "quote": "Date of service: 07/26/2024   Attending: Julia Hoffman, MD"
+    },
+    {
+     "page": 18,
+     "quote": "S33.5XXA Sprain of ligaments of lumbar spine, lnitial encounter; S83.511A Sprain of"
+    },
+    {
+     "page": 18,
+     "quote": "Ketorolac 30 mg IM given with partial relief."
+    },
+    {
+     "page": 493,
+     "quote": "Date of service: 07/26/2024   Attending: Julia Hoffman, MD"
+    },
+    {
+     "page": 493,
+     "quote": "You were seen in the Emergency Department for injuries from a motor vehicle co1lision."
+    }
+   ]
+  },
+  {
+   "date": "07/26/2024",
+   "provider": "SAINT COLUMBA HOSPITAL",
+   "kind": "imaging",
+   "summary": "X-rays of the lumbosacral spine showed no acute fracture or dislocation with mild straightening possibly reflecting muscle spasm, and right knee X-rays showed no acute fracture or dislocation with a small joint effusion; impressions were no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 328,
+     "quote": "Exam date: 07/26/2024   Ordering: Julia Hoffman, MD"
+    },
+    {
+     "page": 328,
+     "quote": "No acute fracture or dislocation. Mild straightening of the normal curvature, which"
+    },
+    {
+     "page": 328,
+     "quote": "No acute fracture or dislocation. Small joint effusion."
+    }
+   ]
+  },
+  {
+   "date": "07/31/2024",
+   "provider": "LINDEN AVENUE MEDICAL GROUP",
+   "kind": "office_visit",
+   "summary": "Follow-up after the 07/26/2024 collision for persistent low back pain radiating to the left buttock and right knee pain and swelling (pain 6/10), with lumbar range of motion reduced about 26% and right knee about 44%, assessed as low back pain and right knee pain, with referral to orthopaedics and physical therapy, continued ibuprofen and two weeks out of work; an Oswestry questionnaire was completed.",
+   "diagnosis_codes": [
+    "M25.561",
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 13,
+     "quote": "Date of service: 07/31/2024   Provider: Helen Esposito, MD"
+    },
+    {
+     "page": 13,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen. Out of work for two"
+    },
+    {
+     "page": 192,
+     "quote": "Date of service: 07/31/2024   Provider: Helen Esposito, MD"
+    },
+    {
+     "page": 192,
+     "quote": "TOTAL SCORE: 41 / 50  (82%)"
+    }
+   ]
+  },
+  {
+   "date": "08/04/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy initial evaluation with functional questionnaire showing a total score of 32/50 (64%).",
+   "diagnosis_codes": [
+    "M25.561",
+    "M54.50"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 214,
+     "quote": "PHYSICAL THERAPY INITIAL EVALUATION"
+    },
+    {
+     "page": 214,
+     "quote": "Date of service: 08/04/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 214,
+     "quote": "TOTAL SCORE: 32 / 50  (64%)"
+    },
+    {
+     "page": 461,
+     "quote": "Date of service: 08/04/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 461,
+     "quote": "M54.50 Low back pain, unspecified; M25.561 Pain in right knee"
+    },
+    {
+     "page": 461,
+     "quote": "Therapeutic exercise, manual therapy and electrical stirnulation, 3 times weekly for 8"
+    }
+   ]
+  },
+  {
+   "date": "08/07/2024",
+   "provider": "RIVERSIDE BONE & JOINT, PLLC",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation with Mateo Quinlan, MD, at which the patient completed a Lower Extremity Functional Scale with a total score of 39/50 (78%).",
+   "diagnosis_codes": [
+    "S33.5XXA",
+    "S83.511A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 76,
+     "quote": "Date of service: 08/07/2024   Physician: Mateo Quinlan, MD"
+    },
+    {
+     "page": 76,
+     "quote": "TOTAL SCORE: 39 / 50  (78%)"
+    },
+    {
+     "page": 198,
+     "quote": "Date of service: 08/07/2024   Physician: Mateo Quinlan, MD"
+    },
+    {
+     "page": 198,
+     "quote": "S33.5XXA Sprain of ligaments of lumbar spinc, inltia1 encounter; S83.511A Sprain 0f"
+    },
+    {
+     "page": 198,
+     "quote": "MRI of the lumbar spine and right knee. Continue physical therapy 3 times weekly."
+    }
+   ]
+  },
+  {
+   "date": "08/07/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 1 of plan of care with pain 6/10 and reduced lumbar and knee range of motion, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 83,
+     "quote": "Date of service: 08/07/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 83,
+     "quote": "97110 therapeutic exercise 30 min; 97140 manual therapy 15 min; 97014 electrical"
+    }
+   ]
+  },
+  {
+   "date": "08/11/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 2 of plan of care with pain 5/10 and limited lumbar and knee range of motion, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 84,
+     "quote": "Date of service: 08/11/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 84,
+     "quote": "Patient reports pain 5/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "08/14/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 3 of plan of care; pain reported S/10, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 217,
+     "quote": "Datc of service: 08/14/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 217,
+     "quote": "97110 therapeutic exercise 30 min; 97140 rnanual therapy 15 min; 97014 electrical"
+    },
+    {
+     "page": 217,
+     "quote": "Slow progress toward goals; contlnues to benefit frorn skilled therapy."
+    }
+   ]
+  },
+  {
+   "date": "08/17/2024",
+   "provider": "CLEARVIEW DIAGNOSTIC RADIOLOGY",
+   "kind": "imaging",
+   "summary": "MRI of the lumbar spine showed a 2 mm posterior disc herniation at L4-L5 indenting the thecal sac, and MRI of the right knee showed an oblique tear of the posterior horn of the medial meniscus extending to the inferior articular surface.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 7,
+     "quote": "Exam date: 08/17/2024   Referring: Mateo Quinlan, MD"
+    },
+    {
+     "page": 7,
+     "quote": "2 mm p0sterlor disc herniation at L4-L5 indenting the thecal sac."
+    },
+    {
+     "page": 7,
+     "quote": "Oblique tear of the posterior horn of the rnedial meniscus extending to the inferior"
+    }
+   ]
+  },
+  {
+   "date": "08/17/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 4 of plan of care with pain 4/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals, continues to benefit from skilled therapy.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 86,
+     "quote": "Date of service: 08/17/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 86,
+     "quote": "Patient reports pain 4/10 today. Tolerated last session well."
+    }
+   ]
+  },
+  {
+   "date": "08/20/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 of plan of care with pain 4/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals with continued benefit from skilled therapy.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 350,
+     "quote": "Date of service: 08/20/2024   Therapist: Julia Lindqvlst, PT, DPT"
+    },
+    {
+     "page": 350,
+     "quote": "97110 therapeutic exerclse 30 min; 97140 manual therapy 15 min; 97014 electrical"
+    },
+    {
+     "page": 350,
+     "quote": "Sl0w progress toward goals; continues to benefit from ski1led therapy."
+    }
+   ]
+  },
+  {
+   "date": "08/22/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 6 of plan of care with pain 4/10 and morning stiffness, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 88,
+     "quote": "Date of service: 08/22/2024   Therapist: Julla Lindqvist, PT, DPT"
+    },
+    {
+     "page": 88,
+     "quote": "Patient reports pain 4/10 today. Stiffness in the morning."
+    }
+   ]
+  },
+  {
+   "date": "08/25/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 7 of plan of care with pain 4/10 and morning stiffness, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 89,
+     "quote": "Date of service: 08/25/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 89,
+     "quote": "Visit 7 of plan of care. ROM: lumbar flexion 57 deg, lumbar extension 37 deg"
+    }
+   ]
+  },
+  {
+   "date": "08/27/2024",
+   "provider": "SH0REFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "PT re-evaluation with patient-completed functional questionnaire showing total score 18/50 (36%).",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 92,
+     "quote": "PHYSICAL THERAPY RE-EVALUATION"
+    },
+    {
+     "page": 92,
+     "quote": "Date of service: 08/27/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 92,
+     "quote": "TOTAL SCORE: 18 / 50  (36%)"
+    },
+    {
+     "page": 353,
+     "quote": "Date of service: 08/27/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 353,
+     "quote": "Re-evaluation after 8 visits. Pain decreased to 4/10. Partial improvement in"
+    },
+    {
+     "page": 353,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 morc weeks."
+    }
+   ]
+  },
+  {
+   "date": "08/27/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 8 of plan of care with pain 4/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 90,
+     "quote": "Date of service: 08/27/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 90,
+     "quote": "Patient reports pain 4/10 today. Tolerated last session we1l."
+    }
+   ]
+  },
+  {
+   "date": "08/29/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 9 of plan of care with pain 3/10 and improved sleep, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 93,
+     "quote": "Date of service: 08/29/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 93,
+     "quote": "Patient reports pain 3/10 today. Slept better this weck."
+    }
+   ]
+  },
+  {
+   "date": "08/30/2024",
+   "provider": "RIVERSIDE BONE & JOINT, PLLC",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up reviewing MRI showing a 2 mm L4-L5 disc herniation and a right knee posterior horn medial meniscus tear, with pain 7/10, diagnosed lumbar disc displacement and medial meniscus tear causally related to the 07/26/2024 collision, referred to pain management for epidural steroid injection and recommended right knee arthroscopy with partial medial meniscectomy; Oswestry 27/50 and LEFS 29/50.",
+   "diagnosis_codes": [
+    "M51.26",
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 336,
+     "quote": "Date of service: 08/30/2024   Physician: Mateo Quinlan, MD"
+    },
+    {
+     "page": 336,
+     "quote": "Referred to pain management for epidural steroid injection. Recommended"
+    },
+    {
+     "page": 337,
+     "quote": "TOTAL SCORE: 29 / 50  (58%)"
+    }
+   ]
+  },
+  {
+   "date": "08/31/2024",
+   "provider": "SHOREFR0NT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 10 of plan of care with pain 2/10, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 94,
+     "quote": "Date of service: 08/31/2024   Therapist: Julla Lindqvist, PT, DPT"
+    },
+    {
+     "page": 94,
+     "quote": "Patient reports pain 2/10 today. Slcpt better this week."
+    }
+   ]
+  },
+  {
+   "date": "09/02/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 11 of plan of care; pain 2/10, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 227,
+     "quote": "Date of service: 09/02/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 227,
+     "quote": "Patient reports pain 2/10 today. Slept better this week."
+    }
+   ]
+  },
+  {
+   "date": "09/05/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 12 of plan of care; pain 2/10, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 228,
+     "quote": "Date of service: 09/05/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 228,
+     "quote": "Paticnt reports pain 2/10 today. Tolerated last session well."
+    }
+   ]
+  },
+  {
+   "date": "09/08/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 13 of plan of care; pain 2/10 and worse after work, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 229,
+     "quote": "Date of service: 09/08/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 229,
+     "quote": "Patient reports pain 2/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "09/10/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 14 of plan of care with pain 2/10 and morning stiffness, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 97,
+     "quote": "Date of service: 09/10/2024   Therapist: Ju1ia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 97,
+     "quote": "Patient reports pain 2/10 today. Stiffness in the morning."
+    }
+   ]
+  },
+  {
+   "date": "09/13/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 15 of plan of care with pain 2/10, worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 98,
+     "quote": "Date of service: 09/13/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 98,
+     "quote": "Patient reports pain 2/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "09/17/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_evaluation",
+   "summary": "PT re-evaluation after 16 visits with pain decreased to 2/10 and partial functional improvement, Oswestry score 7/50 (14%); plan to continue PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 100,
+     "quote": "Date of service: 09/17/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 100,
+     "quote": "Re-evaluation after l6 visits. Pain decreased to 2/10. Partial improvement"
+    },
+    {
+     "page": 100,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    },
+    {
+     "page": 362,
+     "quote": "Date of service: 09/17/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 362,
+     "quote": "TOTAL SCORE: 10 / 50  (20%)"
+    }
+   ]
+  },
+  {
+   "date": "09/17/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 16 of plan of care; pain 2/10 and worse after work, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 232,
+     "quote": "Date of service: 09/17/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 232,
+     "quote": "Visit 16 of plan of care. ROM: lumbar flexion 37 deg, lumbar extension 37 deg, knec"
+    }
+   ]
+  },
+  {
+   "date": "09/20/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 17 of plan of care; pain 2/10, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 235,
+     "quote": "Date of service: 09/20/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 235,
+     "quote": "Patient reports pain 2/10 today. Tolerated last session well."
+    }
+   ]
+  },
+  {
+   "date": "09/22/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 18 of plan of care with pain 2/10, worse after work, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 102,
+     "quote": "Date of service: 09/22/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 102,
+     "quote": "Patient reports pain 2/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "09/24/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 19 of plan of care with pain 2/10, doing home exercises daily, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 103,
+     "quote": "Date of service: 09/24/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 103,
+     "quote": "Patient reports pain 2/10 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "09/26/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 20 of plan of care; pain 2/10 with daily home exercises, therapeutic exercise, manual therapy and electrical stimulation given, with slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 238,
+     "quote": "Date of service: 09/26/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 238,
+     "quote": "Patient reports pain 2/10 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "09/27/2024",
+   "provider": "KINGS PAIN & SPINE, PLLC",
+   "kind": "procedure",
+   "summary": "Lumbar epidural steroid injection with imaging guidance at L4-L5 using dexamethasone 10 mg for lumbar disc displacement with radicular pain refractory to physical therapy, without complications, with pain reduced from 7/10 to 3/10.",
+   "diagnosis_codes": [
+    "M51.26"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 315,
+     "quote": "Date of service: 09/27/2024   Physician: Imran Mancuso, MD"
+    },
+    {
+     "page": 315,
+     "quote": "Lumbar/sacra1 epidural steroid injection with imaging guidance at L4-L5."
+    },
+    {
+     "page": 315,
+     "quote": "None. Patient tolerated thc procedure well. Pre-procedure pain 7/10, post-procedure 3/10."
+    }
+   ]
+  },
+  {
+   "date": "09/30/2024",
+   "provider": "SHOREFRONT PHYSICAL THERAPY",
+   "kind": "therapy_visit",
+   "summary": "PT visit 21 of plan of care with pain 2/10, doing home exercises daily, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 105,
+     "quote": "Date of service: 09/30/2024   Therapist: Julia Lindqvist, PT, DPT"
+    },
+    {
+     "page": 105,
+     "quote": "Patient reports pain 2/l0 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "10/12/2024",
+   "provider": "NORTHGATE SURGICAL PAVILION",
+   "kind": "surgery",
+   "summary": "Right knee arthroscopy with partial medial meniscectomy under general anesthesia for a medial meniscus tear, finding a complex tear of the posterior horn of the medial meniscus with an intact ACL with mild laxity; the patient was discharged home the same day weight bearing as tolerated with crutches.",
+   "diagnosis_codes": [
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 40,
+     "quote": "Date of surgery: 10/12/2024   Surgeon: Oren Mancuso, MD"
+    },
+    {
+     "page": 40,
+     "quote": "Arthr0scopy, knee, with partial medial meniscectomy, right knee."
+    },
+    {
+     "page": 40,
+     "quote": "Complcx tear of the posterior horn of the medial meniscus; ACL intact with mild"
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 6,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 77053,
+   "output_tokens": 12553,
+   "calls": 6
+  }
+ }
+}

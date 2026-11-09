@@ -1,0 +1,26 @@
+First held-out run of the duplicate detector, method frozen at commit 100f59f.
+Command: python eval_dedup.py --split test
+Output, verbatim (first 5 of the 33 lost-page lines kept; all 33 were admin pages:
+certifications of records and fax cover sheets):
+
+split: test  case files: 16  pages: 6625  duplicate pages in the answer key: 4470 (67.5%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |     0 / 4470    0.0% |               4470 |            0 |           0.0% |        0.0% |     0.0 |
+| GnoRA file check, per page  |   537 / 4470   12.0% |               3933 |            0 |           4.8% |        2.0% |    10.8 |
+| this method                 |  4455 / 4470   99.7% |                 15 |           33 |          98.9% |       99.6% |    12.3 |
+content lost by this method (original pages with no copy kept): 33
+   test-1001: admin007-cover (admin)
+   test-1002: admin001-cert (admin)
+   test-1003: admin010-cover (admin)
+   test-1003: admin012-cover (admin)
+   test-1005: admin001-cert (admin)
+
+What it showed: grouping pages by transitive closure (union-find) let a copy
+cropped so badly that its dates were gone match several different
+certifications at once and chain them into one group, so all but one were
+dropped. The 15 copies left in were mostly cropped claim-form pages caught in
+the same chains. Fix (commit after this one): anchor clustering, where a page
+joins a group only by matching that group's most complete page. Because this
+flaw was found by looking at the test split, that split is no longer held out;
+the fixed method is scored on a freshly generated split, test2.

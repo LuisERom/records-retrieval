@@ -1,0 +1,10 @@
+# matching/: the matcher and its evaluation use the standard library only.
+# records/: duplicate detection and the chronology.
+pymupdf>=1.24
+numpy>=1.26
+pydantic>=2.6
+anthropic>=0.104  # only for the real chronology run (records/eval_chronology.py --extractor claude)
+# the web app and API tests
+fastapi>=0.110
+uvicorn>=0.29
+httpx>=0.27

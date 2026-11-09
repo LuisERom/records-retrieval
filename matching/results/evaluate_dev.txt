@@ -1,0 +1,18 @@
+registry cache: 444 NPIs with a NY practice location, 445 practice locations, 170 distinct street addresses
+queries: handwritten  split: dev  queries: 82  (of which 2 have no right record)
+| method                  | correct      | accuracy | answered | right when it answered | confidently wrong |
+|-------------------------|--------------|----------|----------|------------------------|-------------------|
+| baseline (closest name) |   57 / 82    |    69.5% |       82 |                  69.5% |                25 |
+| matcher v1              |   75 / 82    |    91.5% |       73 |                 100.0% |                 0 |
+| matcher v2              |   75 / 82    |    91.5% |       73 |                 100.0% |                 0 |
+strict, matcher v1 (a pharmacy or supplier answer never counts as right): 75 / 82 = 91.5%; confidently wrong 0; right when it answered 100.0%
+strict, matcher v2 (a pharmacy or supplier answer never counts as right): 75 / 82 = 91.5%; confidently wrong 0; right when it answered 100.0%
+matcher v2: of the 7 abstentions, the right record was ranked first in 5 (it held back because the next record scored too close)
+misses of matcher v2:
+  [ABSTAIN] q037 'NYU Dermatologic Surgery' | '530 1st Ave' | '10016' -> want 1982715272; top 1457462749 'NYU DERMATOLOGIC ASSOCIATES' @ '530 1ST AVE 7R' (score 0.767, margin 0.029)
+  [ABSTAIN] q135 'Winthrop Pathology' | '222 Station Plaza N' | '11501' -> want 1598727257;1598953580;1780043570; top 1598727257 'WINTHROP PATHOLOGY ASSOCIATES' @ '222 STATION PLZ N SUITE 606' (score 0.942, margin 0.0)
+  [ABSTAIN] q138 'NYU Winthrop Hospital' | '259 1st St Mineola' | '' -> want 1033437363;1447564034;1891954939;1386929867;1427616002;1114925567; top 1033437363 'WINTHROP UNIVERSITY HOSPITAL' @ '259 1ST ST' (score 0.707, margin 0.003)
+  [ABSTAIN] q175 'NYU Langone Hospital Suffolk' | '101 Hospital Rd' | '11772' -> want 1831910355; top 1508687021 'NYU LANGONE HOSPITAL - SUFFOLK' @ '101 HOSPITAL RD' (score 1.0, margin 0.003)
+  [ABSTAIN] q212 'nyu dermatolgy' | '530 first av 7th fl' | '' -> want 1457462749;1982715272; top 1457462749 'NYU DERMATOLOGIC ASSOCIATES' @ '530 1ST AVE 7R' (score 0.859, margin 0.017)
+  [ABSTAIN] q213 'winthrop neurology' | '200 old country' | '11501' -> want 1952796203;1104187418; top 1104187418 'WINTHROP NEURO-SCIENCE MEDICAL PC' @ '200 OLD COUNTRY RD SUITE 370' (score 0.912, margin 0.021)
+  [ABSTAIN] q236 'NYU Langone Hospital Long Island' | '' | '' -> want 1033437363;1447564034;1891954939;1386929867;1427616002;1114925567; top 1083612089 'NYU LANGONE HOSPITAL LONG ISLAND' @ '200 OLD COUNTRY ROAD' (score 1.0, margin 0.0)

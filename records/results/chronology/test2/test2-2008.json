@@ -1,0 +1,728 @@
+{
+ "entries": [
+  {
+   "date": "01/23/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "lab",
+   "summary": "Routine laboratory panel (CBC, glucose, creatinine, electrolytes, ALT, LDL) with all results within reference ranges and no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 169,
+     "quote": "Collected: 01/23/2024   Reported: 01/24/2024   Ordering: Julia Ortiz, MD"
+    },
+    {
+     "page": 169,
+     "quote": "Rcsults reviewed. No critical values."
+    }
+   ]
+  },
+  {
+   "date": "01/23/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Annual physical with no complaints, denial of neck, back or joint pain and no prior right shoulder injuries, full range of motion and normal neurologic exam; assessed as general adult exam without abnormal findings, routine labs ordered, return in one year.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 168,
+     "quote": "Date of service: 01/23/2024   Provider: Julia Ortiz, MD"
+    },
+    {
+     "page": 168,
+     "quote": "Denies neck, back or joint pain. No prior"
+    }
+   ]
+  },
+  {
+   "date": "05/26/2024",
+   "provider": "EASTBRIDGE GENERAL HOSPITAL",
+   "kind": "er_visit",
+   "summary": "Emergency department visit for injuries from a motor vehicle collision, discharged with instructions for muscle strain and ligament sprain (ice then warm compresses, caution with cyclobenzaprine, return precautions) and follow-up with primary care in 2 to 3 days.",
+   "diagnosis_codes": [
+    "S43.401A",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 36,
+     "quote": "Date of service: 05/26/2024   Attending: Alan Bose, MD"
+    },
+    {
+     "page": 36,
+     "quote": "You were seen in the Emergency Department for injuries from a motor vehicle col1ision."
+    },
+    {
+     "page": 36,
+     "quote": "drive or operate machinery while taking cycl0benzaprine, as it may cause drowsiness."
+    },
+    {
+     "page": 280,
+     "quote": "Date of service: O5/26/2024   Attending: Alan Bose, MD"
+    },
+    {
+     "page": 280,
+     "quote": "S43.401A Unspecified sprain of right shoulder joint, initial encounter; V43.52XA Car"
+    },
+    {
+     "page": 280,
+     "quote": "Ketorolac 30 mg IM given with partial relief."
+    }
+   ]
+  },
+  {
+   "date": "05/26/2024",
+   "provider": "EASTBRIDGE GENERAL HOSPITAL",
+   "kind": "imaging",
+   "summary": "Right shoulder X-ray, 2+ views, showed no acute fracture or dislocation with small joint effusion; impression no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 282,
+     "quote": "Exam date: 05/26/2024   Ordering: Alan Bose, MD"
+    },
+    {
+     "page": 282,
+     "quote": "N0 acute fracture or dislocation. Small joint effusion."
+    }
+   ]
+  },
+  {
+   "date": "05/28/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Follow-up after 05/26/2024 motor vehicle collision with persistent right shoulder pain 6/10 on overhead reaching, tenderness and ~28% reduced range of motion; assessed right shoulder pain, referred to orthopaedics and physical therapy, continue ibuprofen, out of work two weeks; QuickDASH 38/55.",
+   "diagnosis_codes": [
+    "M25.511"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 170,
+     "quote": "Follow-up after motor vehicle collision on 05/26/2024."
+    },
+    {
+     "page": 170,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen. Out of work for"
+    },
+    {
+     "page": 143,
+     "quote": "Date of service: 05/28/2024   Provider: Julia Ortiz, MD"
+    }
+   ]
+  },
+  {
+   "date": "06/04/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy initial evaluation for right shoulder pain after a 05/26/2024 motor vehicle collision, pain 7/10, shoulder flexion 19 deg, abduction 50 deg, external rotation 32 deg, QuickDASH 41/55 (75%); plan therapeutic exercise, manual therapy and electrical stimulation 3 times weekly for 8 weeks.",
+   "diagnosis_codes": [
+    "M25.511"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 13,
+     "quote": "Date of service: 06/04/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 13,
+     "quote": "M25.511 Pain ln right shoulder"
+    },
+    {
+     "page": 13,
+     "quote": "Therapeutic exercise, manual therapy and electrical stimulation, 3"
+    }
+   ]
+  },
+  {
+   "date": "06/05/2024",
+   "provider": "CRESCENT ORTHOPEDICS",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation for right shoulder pain after 05/26/2024 collision with reduced flexion (32 degrees) and abduction (39 degrees); assessed right shoulder sprain, plan MRI of right shoulder, continue PT 3 times weekly, naproxen 500 mg twice daily; QuickDASH 40/55.",
+   "diagnosis_codes": [
+    "S43.401A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 165,
+     "quote": "Date of service: 06/05/2024   Physician: Paula Jensen, MD"
+    },
+    {
+     "page": 165,
+     "quote": "S43.401A Unspecified sprain of right shoulder joint, initial encounter"
+    },
+    {
+     "page": 165,
+     "quote": "MRI of the right shoulder. Continue physical therapy 3 times weekly. Naproxen 500 mg"
+    }
+   ]
+  },
+  {
+   "date": "06/08/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 1 with pain 8/10, shoulder flexion 44 deg and abduction 48 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 291,
+     "quote": "Date of service: 06/08/2O24   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 291,
+     "quote": "Visit l of plan of care. ROM: shoulder flexion 44 deg, shoulder abduction 48 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/10/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 2 with pain 8/10, shoulder flexion 43 deg and abduction 59 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 47,
+     "quote": "Date of service: 06/10/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 47,
+     "quote": "Visit 2 of plan of care. ROM: shoulder flexion 43 deg, shoulder abducti0n 59 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/12/2024",
+   "provider": "NARROWS IMAGING CENTER",
+   "kind": "imaging",
+   "summary": "MRI right shoulder without contrast showed a partial-thickness articular-sided tear of the supraspinatus tendon.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 186,
+     "quote": "Exam date: 06/12/2024   Referring: Paula Jensen, MD"
+    },
+    {
+     "page": 186,
+     "quote": "Partial-thickness articular-sided tear of the supraspinatus tendon."
+    }
+   ]
+  },
+  {
+   "date": "06/13/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 3 with pain 8/10, shoulder flexion 29 deg and abduction 68 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 48,
+     "quote": "Date of service: 06/13/2024   Tberapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 48,
+     "quote": "Visit 3 of plan of care. ROM: shoulder flexion 29 deg, shoulder abduction 68 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/16/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 4 with pain 8/10 and better sleep, shoulder flexion 40 deg and abduction 67 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 49,
+     "quote": "Date of service: 06/16/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 49,
+     "quote": "Visit 4 of plan of care. ROM: shoulder flexlon 40 deg, shoulder abduction 67 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/20/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 with pain 8/10, shoulder flexion 64 deg and abduction 29 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 50,
+     "quote": "Date of servicc: 06/20/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 50,
+     "quote": "Visit 5 of plan of care. ROM: shoulder flexion 64 deg, shoulder abduction 29 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/23/2024",
+   "provider": "CRESCENT ORTHOPEDICS",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up reviewing MRI showing partial-thickness articular-sided supraspinatus tear, pain 6/10; assessed right rotator cuff strain causally related to the 05/26/2024 collision, continue physical therapy; QuickDASH 29/55.",
+   "diagnosis_codes": [
+    "S46.011A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 166,
+     "quote": "Date of service: 06/23/2024   Physician: Paula Jensen, MD"
+    },
+    {
+     "page": 166,
+     "quote": "right shoulder: Partial-thickness articu1ar-sided tear of the supraspinatus tendon."
+    },
+    {
+     "page": 166,
+     "quote": "Injuries are causally related to the motor vehicle collision of 05/26/2024."
+    }
+   ]
+  },
+  {
+   "date": "06/23/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 6 with pain 8/10 worse after work, shoulder flexion 38 deg and abduction 53 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 51,
+     "quote": "Date of service: 06/23/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 51,
+     "quote": "Visit 6 of plan of care. ROM: shoulder flexion 38 deg, shoulder abduction 53 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/26/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 7 with pain 7/10 and morning stiffness, shoulder flexion 56 deg and abduction 70 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 194,
+     "quote": "Date of service: O6/26/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 194,
+     "quote": "Visit 7 of plan of care. ROM: shoulder flexion 56 deg, shoulder abduction 70 deg."
+    }
+   ]
+  },
+  {
+   "date": "06/29/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 8 visits with pain 7/10, improving sitting tolerance, shoulder flexion 26 deg and abduction 46 deg, QuickDASH 39/55 (71%); plan to continue therapy 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 14,
+     "quote": "Date of service: 06/29/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 14,
+     "quote": "Re-cvaluation after 8 visits. Pain decreased to 7/10. Improving"
+    },
+    {
+     "page": 14,
+     "quote": "Continue ski1led physical therapy 2-3 timcs weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "06/29/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 8 with pain 7/10, shoulder flexion 26 deg and abduction 46 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 195,
+     "quote": "Date of service: 06/29/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 195,
+     "quote": "Visit 8 of plan of care. ROM: shoulder flexion 26 deg, shoulder abduction 46 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/02/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 9 with pain 7/10, shoulder flexion 52 deg and abduction 32 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 300,
+     "quote": "Date of service: 07/02/2024   Therapist: Lena H0ffman, PT, DPT"
+    },
+    {
+     "page": 300,
+     "quote": "Visit 9 of plan of care. ROM: shoulder flexion 52 deg, shoulder abduction 32 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/06/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 10 with pain 7/10, shoulder flexion 60 deg and abduction 51 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 55,
+     "quote": "Date 0f scrvice: 07/06/2024   Theraplst: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 55,
+     "quote": "Visit 10 of plan of care. ROM: shoulder flexion 60 deg, sh0ulder abduction 51 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/08/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 11 with pain 7/10 worse after work, shoulder flexion 56 deg and abduction 69 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 198,
+     "quote": "Date of service: 07/08/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 198,
+     "quote": "Visit 11 of plan of care. ROM: shoulder flexion 56 deg, shoulder"
+    }
+   ]
+  },
+  {
+   "date": "07/12/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 12 with pain 7/10, shoulder flexion 66 deg and abduction 58 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 303,
+     "quote": "Date of service: 07/12/2024   Thcrapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 303,
+     "quote": "Visit 12 of plan of carc. ROM: shoulder flexion 66 deg, shoulder abduction 58 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/14/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 13 with pain 7/10, shoulder flexion 46 deg and abduction 59 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 304,
+     "quote": "Date of service: 07/14/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 304,
+     "quote": "Visit 13 of plan of care. ROM: shoulder flexion 46 deg, shoulder abduction 59 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/16/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 14 with pain 6/10, shoulder flexion 46 deg and abduction 37 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 200,
+     "quote": "Date of service: 07/16/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 200,
+     "quote": "Visit 14 of plan of care. ROM: shoulder f1exion 46 deg, shoulder abduction 37 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/19/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 15 with pain 6/10, shoulder flexion 64 deg and abduction 58 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 60,
+     "quote": "Date of servicc: 07/19/2024   Therapist: Lcna Hoffman, PT, DPT"
+    },
+    {
+     "page": 60,
+     "quote": "Visit 15 of plan of care. ROM: shoulder flexion 64 deg, shoulder abduction 58 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/22/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 16 visits with pain decreased to 6/10 and partial functional improvement, shoulder flexion 64 deg and abduction 57 deg, QuickDASH 27/55 (49%); plan to continue therapy 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 62,
+     "quote": "Date of service: 07/22/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 62,
+     "quote": "Re-evaluation after 16 vlsits. Pain decrcased to 6/10. Partial improvement in function."
+    },
+    {
+     "page": 62,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "07/22/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 16 with pain 6/10, shoulder flexion 64 deg and abduction 57 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 61,
+     "quote": "Date of service: 07/22/2024   Thcrapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 61,
+     "quote": "Visit 16 of plan of care. ROM: shoulder flexion 64 deg, shoulder abduction 57 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/26/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 17 with pain 6/10 and morning stiffness, shoulder flexion 50 deg and abduction 45 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals with continued benefit from skilled therapy.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 63,
+     "quote": "Date of service: 07/26/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 63,
+     "quote": "Visit 17 of plan of care. ROM: shoulder flexion 50 deg, shoulder abduction 45 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/28/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 18 with pain 6/10 worse after work, shoulder flexion 41 deg and abduction 27 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 205,
+     "quote": "Date of service: 07/28/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 205,
+     "quote": "Visit 18 of plan of care. ROM: shoulder flexion 41 deg, shoulder abduction 27 deg."
+    }
+   ]
+  },
+  {
+   "date": "07/30/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 19 with pain 6/10, shoulder flexion 36 deg and abduction 51 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 206,
+     "quote": "Date of service: 07/30/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 206,
+     "quote": "Visit 19 of plan of care. ROM: shoulder flexion 36 deg, shoulder abduction 51 deg."
+    }
+   ]
+  },
+  {
+   "date": "08/01/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 20 with pain 5/10, shoulder flexion 56 deg and abduction 38 deg; treated with therapeutic exercise, manual therapy and electrical stimulation, slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 207,
+     "quote": "Date of service: 08/01/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 207,
+     "quote": "Visit 20 of plan of care. ROM: shoulder flexion 56 deg, shoulder abduction 38 deg."
+    }
+   ]
+  },
+  {
+   "date": "08/03/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 21 with pain 5/10 worse after work, shoulder flexion 54 deg and abduction 38 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals with continued benefit from skilled therapy.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 67,
+     "quote": "Date 0f servicc: O8/03/2024   Therapist: Lena Hoffman, PT, DPT"
+    },
+    {
+     "page": 67,
+     "quote": "Visit 21 of plan of care. ROM: shou1der flcxion 54 deg, shoulder abduction 38 deg."
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 5,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 66878,
+   "output_tokens": 9684,
+   "calls": 5
+  }
+ }
+}

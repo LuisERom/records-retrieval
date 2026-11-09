@@ -1,0 +1,8 @@
+split: test2  extractor: claude  case files: 11  encounters in the answer key: 352
+events found:              351 / 352 = 99.7%
+entries correct:           351 / 351 = 100.0%
+citations on the right record: 829 / 830 = 99.8%
+diagnosis codes listed:    118 / 135 = 87.4%
+dropped by the checker:    0 entries; batches repaired 0 / 58; refused 0
+events found by kind:     er_visit 11/11, imaging 22/22, lab 11/11, office_visit 44/44, procedure 6/6, surgery 5/5, therapy_evaluation 32/32, therapy_visit 220/221
+model calls: 58  input tokens: 771388  output tokens: 109481  cost: $5.28 ($0.48 per case file)

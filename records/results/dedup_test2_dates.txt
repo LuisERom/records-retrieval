@@ -1,0 +1,26 @@
+split: test2  case files: 16  pages: 6605  duplicate pages in the answer key: 4336 (65.6%)
+| method                      | duplicates removed | duplicates left in | content lost | pair precision | pair recall | seconds |
+|-----------------------------|--------------------|--------------------|--------------|----------------|-------------|---------|
+| exact text                  |     0 / 4336    0.0% |               4336 |            0 |            n/a |        0.0% |     0.0 |
+| GnoRA file check, per page  |   455 / 4336   10.4% |               3880 |            1 |           4.0% |        1.6% |    11.3 |
+| this method v1              |  4334 / 4336   99.9% |                  0 |            8 |          99.6% |       99.9% |    14.6 |
+| this method v2              |  4309 / 4336   99.3% |                 12 |           16 |          99.1% |       99.2% |    29.3 |
+| this method v3              |  4306 / 4336   99.3% |                 15 |           16 |          99.1% |       99.1% |   188.2 |
+content lost by this method v3 (original pages with no copy kept): 16
+  of those, with words not on the page they were merged into: 3
+   test2-2001: d005-p2 (clinical) | words not on the kept page: none
+   test2-2002: admin003-cert (admin) | words not on the kept page: none
+   test2-2002: admin010-cert (admin) | words not on the kept page: none
+   test2-2002: d005-p2 (clinical) | words not on the kept page: none
+   test2-2004: d005-p2 (clinical) | words not on the kept page: pagc
+   test2-2006: admin003-cert (admin) | words not on the kept page: none
+   test2-2006: admin006-cert (admin) | words not on the kept page: none
+   test2-2006: admin009-cover (admin) | words not on the kept page: 6
+   test2-2007: admin013-cert (admin) | words not on the kept page: none
+   test2-2008: d005-p2 (clinical) | words not on the kept page: slgnaturc
+   test2-2009: d005-p2 (clinical) | words not on the kept page: none
+   test2-2010: admin007-cert (admin) | words not on the kept page: none
+   test2-2010: d006-p3 (clinical) | words not on the kept page: none
+   test2-2013: admin004-cert (admin) | words not on the kept page: none
+   test2-2013: admin010-cert (admin) | words not on the kept page: none
+   test2-2016: d005-p2 (clinical) | words not on the kept page: none

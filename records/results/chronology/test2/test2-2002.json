@@ -1,0 +1,704 @@
+{
+ "entries": [
+  {
+   "date": "03/15/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "lab",
+   "summary": "Routine laboratory panel collected with results within reference ranges except LDL cholesterol of 104, and no critical values.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 5,
+     "quote": "Collectcd: 03/15/2023   Reported: 03/16/2023   Ordering: Imran Abrams, MD"
+    },
+    {
+     "page": 5,
+     "quote": "Results reviewed. No critical valucs."
+    }
+   ]
+  },
+  {
+   "date": "03/15/2023",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Annual physical with no complaints, denial of neck, back or joint pain and no prior right knee injuries, full spine and extremity range of motion, normal neurologic exam, assessed as general adult exam without abnormal findings, with routine labs ordered.",
+   "diagnosis_codes": [
+    "Z00.00"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 4,
+     "quote": "Date of service: 03/15/2023   Provider: Imran Abrams, MD"
+    },
+    {
+     "page": 4,
+     "quote": "30-year-old here for routine physical. Denies neck, back or joint pain. No prior injuries"
+    }
+   ]
+  },
+  {
+   "date": "01/01/2024",
+   "provider": "EASTBRIDGE GENERAL HOSPITAL",
+   "kind": "er_visit",
+   "summary": "Emergency department visit for injuries from a motor vehicle collision, discharged with instructions for ice then warm compresses, cautions about cyclobenzaprine, and follow-up with primary care in 2 to 3 days.",
+   "diagnosis_codes": [
+    "S83.511A",
+    "V43.52XA"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 12,
+     "quote": "Date of service: 01/01/2024   Attending: Vera Castellano, MD"
+    },
+    {
+     "page": 12,
+     "quote": "You were seen in the Emergency Department for injuries from a motor vehic1e collision."
+    },
+    {
+     "page": 160,
+     "quote": "Date of service: 01/01/2024   Attending: Vera Castellano, MD"
+    },
+    {
+     "page": 160,
+     "quote": "S83.511A Sprain of anterior cruciate ligament of right knee, initial encounter;"
+    },
+    {
+     "page": 160,
+     "quote": "Ketorolac 30 mg IM given with partial relief."
+    }
+   ]
+  },
+  {
+   "date": "01/01/2024",
+   "provider": "Eastbridge General Hospital",
+   "kind": "imaging",
+   "summary": "Right knee X-ray (3 views) showed no acute fracture or dislocation and a small joint effusion; impression was no acute osseous abnormality.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 147,
+     "quote": "Exam date: 01/01/2024   Ordering: Vera Castellano, MD"
+    },
+    {
+     "page": 147,
+     "quote": "No acute fracturc or dislocation. Small joint effusion."
+    }
+   ]
+  },
+  {
+   "date": "01/06/2024",
+   "provider": "GREENWAY PRIMARY CARE ASSOCIATES",
+   "kind": "office_visit",
+   "summary": "Follow-up after the 01/01/2024 motor vehicle collision for persistent right knee pain (5/10) and swelling, with knee tenderness and range of motion reduced about 29%, diagnosed with right knee pain, referred to orthopaedics and physical therapy, continued ibuprofen and taken out of work for two weeks; LEFS score 39/50.",
+   "diagnosis_codes": [
+    "M25.561"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 6,
+     "quote": "Date of service: 01/06/2024   Provider: Imran Abrams, MD"
+    },
+    {
+     "page": 6,
+     "quote": "Referred to orthopaedics and physical therapy. Continue ibuprofen. Out of work for two"
+    },
+    {
+     "page": 7,
+     "quote": "Date of service: 01/06/2024   Provider: Imran Abrams, MD"
+    }
+   ]
+  },
+  {
+   "date": "01/14/2024",
+   "provider": "CRESCENT ORTHOPEDICS",
+   "kind": "office_visit",
+   "summary": "Orthopaedic consultation for right knee pain and swelling after the 01/01/2024 collision with no prior symptoms, knee flexion 46 and extension 35 degrees, diagnosed with right ACL sprain, plan for right knee MRI, continued physical therapy 3 times weekly and naproxen 500 mg twice daily; LEFS 34/50.",
+   "diagnosis_codes": [
+    "S83.511A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 47,
+     "quote": "Date of service: 01/14/2024   Physician: Lena Jensen, MD"
+    },
+    {
+     "page": 47,
+     "quote": "S83.511A Sprain of antcrior cruciatc ligament of right knee, initial encounter"
+    },
+    {
+     "page": 47,
+     "quote": "MRI of the right knee. Continue physical therapy 3 times weekly. Naproxen 500 mg twice"
+    }
+   ]
+  },
+  {
+   "date": "01/14/2024",
+   "provider": "Motion First Rehab, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy initial evaluation for right knee pain after a 01/01/2024 motor vehicle collision found pain 7/10, knee flexion 46 deg and extension 26 deg, and a LEFS score of 34/50; the plan was therapeutic exercise, manual therapy and electrical stimulation 3 times weekly for 8 weeks.",
+   "diagnosis_codes": [
+    "M25.561"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 149,
+     "quote": "Date of service: 01/14/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 149,
+     "quote": "Therapeutic exercise, manual therapy and e1ectrical stimulation, 3 tlmes weekly"
+    },
+    {
+     "page": 149,
+     "quote": "knee flexion 46 deg, knee extension 26 deg."
+    }
+   ]
+  },
+  {
+   "date": "01/16/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 1 with pain 8/10, knee flexion 62 and extension 42 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 54,
+     "quote": "Date of service: 01/16/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 54,
+     "quote": "Vlsit 1 of plan of care. ROM: knee flexion 62 deg, knee extension 42 deg."
+    }
+   ]
+  },
+  {
+   "date": "01/20/2024",
+   "provider": "METRO OPEN MRI",
+   "kind": "imaging",
+   "summary": "MRI of the right knee without contrast showed an oblique tear of the posterior horn of the medial meniscus extending to the inferior articular surface.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 266,
+     "quote": "Exam date: 01/2O/2024   Referring: Lena Jensen, MD"
+    },
+    {
+     "page": 266,
+     "quote": "Obllque tear of the posterior horn of the rnedial meniscus extendlng to the inferior"
+    }
+   ]
+  },
+  {
+   "date": "01/20/2024",
+   "provider": "Motion First Rehab, PT PC",
+   "kind": "therapy_visit",
+   "summary": "At physical therapy visit 2, pain was 8/10 with knee flexion 25 deg and extension 34 deg; she received therapeutic exercise, manual therapy and electrical stimulation, and progress was slow.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 183,
+     "quote": "Date of service: 01/20/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 183,
+     "quote": "Visit 2 of plan of care. ROM: knee flexion 25 deg, knee extension 34 deg."
+    }
+   ]
+  },
+  {
+   "date": "01/23/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 3 with pain 7/10, knee flexion 45 and extension 38 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 56,
+     "quote": "Date of service: 01/23/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 56,
+     "quote": "Patient reports pain 7/10 today. Dolng home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "01/26/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 4 with pain 7/10, knee flexion 59 and extension 42 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 57,
+     "quote": "Date of servlce: 01/26/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 57,
+     "quote": "Visit 4 of plan of care. ROM: knee flexion 59 deg, knee extension 42 deg."
+    }
+   ]
+  },
+  {
+   "date": "01/30/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 5 with pain 7/10, knee flexion 35 and extension 50 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 58,
+     "quote": "Date of service: 01/30/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 58,
+     "quote": "Visit 5 of plan of care. ROM: knee flexion 35 deg, knee extension 50 dcg."
+    }
+   ]
+  },
+  {
+   "date": "02/02/2024",
+   "provider": "CRESCENT ORTHOPEDICS",
+   "kind": "office_visit",
+   "summary": "Orthopaedic follow-up reviewing right knee MRI showing oblique tear of the posterior horn of the medial meniscus, diagnosed with medial meniscus tear causally related to the 01/01/2024 collision, with right knee arthroscopy and partial medial meniscectomy recommended; LEFS 28/50.",
+   "diagnosis_codes": [
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 38,
+     "quote": "Date of service: 02/02/2024   Physician: Lena Jensen, MD"
+    },
+    {
+     "page": 38,
+     "quote": "right knee: Oblique tear of the posterior horn of the medial meniscus extending to the"
+    },
+    {
+     "page": 38,
+     "quote": "Recommended right knee arthroscopy with partial medial meniscectomy; risks and"
+    }
+   ]
+  },
+  {
+   "date": "02/02/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 6 with pain 7/10, knee flexion 56 and extension 26 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 59,
+     "quote": "Date of service: 02/02/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 59,
+     "quote": "Patient reports pain 7/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "02/04/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 7 with pain 6/10, knee flexion 47 and extension 30 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 60,
+     "quote": "Date of service: 02/O4/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 60,
+     "quote": "Patient reports pain 6/10 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "02/06/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "Physical therapy re-evaluation after 8 visits showing pain decreased to 5/10 with plateau in range of motion (knee flexion 26, extension 53 degrees), LEFS 28/50, with plan to continue therapy 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 62,
+     "quote": "Date of service: 02/06/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 62,
+     "quote": "Re-evaluation after 8 visits. Pain decreased to S/10. Plateau in range of"
+    },
+    {
+     "page": 62,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    }
+   ]
+  },
+  {
+   "date": "02/06/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 8 with pain 5/10, knee flexion 26 and extension 53 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 61,
+     "quote": "Date of service: 02/06/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 61,
+     "quote": "Visit 8 of plan of care. ROM: knee flexion 26 deg, knee extension 53 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/08/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 9 with pain 4/10, knee flexion 27 and extension 39 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 63,
+     "quote": "Date of service: 02/08/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 63,
+     "quote": "Patient reports pain 4/10 today. Pain worse after work."
+    }
+   ]
+  },
+  {
+   "date": "02/10/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "Physical therapy visit 10 with pain 3/10, knee flexion 51 and extension 39 degrees, treated with therapeutic exercise, manual therapy and electrical stimulation, with slow progress.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 64,
+     "quote": "Date of service: 02/10/2024   Therapist: Alan Lindqvlst, PT, DPT"
+    },
+    {
+     "page": 64,
+     "quote": "Patlent reports pain 3/10 today. Doing home exercises daily."
+    }
+   ]
+  },
+  {
+   "date": "02/14/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 11 with pain 3/10, knee flexion 62 deg and extension 30 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 65,
+     "quote": "Date of service: 02/14/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 65,
+     "quote": "Visit 11 of plan of care. ROM: knee flexion 62 deg, knee extension 30"
+    }
+   ]
+  },
+  {
+   "date": "02/16/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 12 with pain 3/10, knee flexion 48 deg and extension 33 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 66,
+     "quote": "Date 0f service: 02/16/2024   Tberapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 66,
+     "quote": "Visit 12 of plan of care. ROM: knee flexion 48 deg, knee extension 33 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/18/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 13 with pain 2/10, knee flexion 34 deg and extension 40 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 67,
+     "quote": "Date of service: 02/18/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 67,
+     "quote": "Visit 13 of plan of care. ROM: knee flexlon 34 deg, knee extension 40 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/20/2024",
+   "provider": "Motion First Rehab, PT PC",
+   "kind": "therapy_visit",
+   "summary": "At physical therapy visit 14, pain was 2/10 with knee flexion 55 deg and extension 58 deg; she received therapeutic exercise, manual therapy and electrical stimulation, and progress was slow.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 196,
+     "quote": "Date of service: 02/20/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 196,
+     "quote": "Visit 14 of plan of care. ROM: knee flexion 55 deg, knee extension 58 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/22/2024",
+   "provider": "Motion First Rehab, PT PC",
+   "kind": "therapy_visit",
+   "summary": "At physical therapy visit 15, pain was 2/10 with knee flexion 29 deg and extension 43 deg; she received therapeutic exercise, manual therapy and electrical stimulation, and progress was slow.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 197,
+     "quote": "Date of service: 02/22/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 197,
+     "quote": "Visit 15 of plan of care. ROM: knee flexion 29 deg, knee extension 43 deg."
+    }
+   ]
+  },
+  {
+   "date": "02/25/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_evaluation",
+   "summary": "PT re-evaluation after 16 visits showed pain decreased to 2/10 with partial functional improvement, knee flexion 51 deg and extension 28 deg, LEFS 13/50 (26%); plan to continue PT 2-3 times weekly for 4 more weeks.",
+   "diagnosis_codes": [],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 70,
+     "quote": "Re-evaluation after 16 visits. Pain decreased to 2/10. Partial improvement in function."
+    },
+    {
+     "page": 70,
+     "quote": "Continue skilled physical therapy 2-3 times weekly for 4 more weeks."
+    },
+    {
+     "page": 70,
+     "quote": "Date of service: 02/25/2024   Therapist: Alan Lindqvist, PT, DPT"
+    }
+   ]
+  },
+  {
+   "date": "02/25/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 16 with pain 2/10, knee flexion 51 deg and extension 28 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 69,
+     "quote": "Date of service: 02/25/2O24   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 69,
+     "quote": "Visit 16 of plan of care. ROM: knee flexion 51 deg, knee extension 28"
+    }
+   ]
+  },
+  {
+   "date": "02/27/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 17 with pain 2/10 worse after work, knee flexion 27 deg and extension 37 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 71,
+     "quote": "Date of service: 02/27/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 71,
+     "quote": "Visit 17 of p1an of care. ROM: knee flexion 27 deg, knee extension 37 deg."
+    }
+   ]
+  },
+  {
+   "date": "03/01/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 18 with pain 2/10 worse after work, knee flexion 67 deg and extension 39 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 72,
+     "quote": "Date of service: 03/01/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 72,
+     "quote": "Visit 18 0f plan of care. ROM: knee flexion 67 deg, knee extension 39"
+    }
+   ]
+  },
+  {
+   "date": "03/03/2024",
+   "provider": "RIDGEVIEW AMBULATORY SURGERY CENTER",
+   "kind": "surgery",
+   "summary": "Right knee arthroscopy with partial medial meniscectomy under general anesthesia for medial meniscus tear, finding a complex posterior horn medial meniscus tear with intact ACL with mild laxity, discharged home same day weight bearing as tolerated with crutches.",
+   "diagnosis_codes": [
+    "S83.241A"
+   ],
+   "procedure_codes": [],
+   "citations": [
+    {
+     "page": 19,
+     "quote": "Date of surgery: 03/03/2024   Surgeon: Gregory Kaplan, MD"
+    },
+    {
+     "page": 19,
+     "quote": "Arthroscopy, knee, with partial medial meniscectomy, right knee."
+    },
+    {
+     "page": 19,
+     "quote": "Complex tear of the posterlor horn of the medial meniscus; ACL intact with mlld laxity."
+    }
+   ]
+  },
+  {
+   "date": "03/03/2024",
+   "provider": "MOTION FIRST REHAB, PT PC",
+   "kind": "therapy_visit",
+   "summary": "PT visit 19 with pain 2/10 and daily home exercises, knee flexion 57 deg and extension 53 deg, treated with therapeutic exercise, manual therapy and electrical stimulation; slow progress toward goals.",
+   "diagnosis_codes": [],
+   "procedure_codes": [
+    "97110",
+    "97140",
+    "97014"
+   ],
+   "citations": [
+    {
+     "page": 73,
+     "quote": "Date of service: 03/03/2024   Therapist: Alan Lindqvist, PT, DPT"
+    },
+    {
+     "page": 73,
+     "quote": "Visit 19 of plan of care. ROM: knee flexion 57 deg, knee extension 53 deg."
+    }
+   ]
+  }
+ ],
+ "report": {
+  "batches": 5,
+  "repaired_batches": 0,
+  "refused_batches": 0,
+  "dropped": [],
+  "usage": {
+   "input_tokens": 63113,
+   "output_tokens": 9466,
+   "calls": 5
+  }
+ }
+}
