@@ -229,12 +229,13 @@ function DuplicatesTab({ sel, dedup }: { sel: Sel; dedup: DedupView }) {
   const groups = useMemo(() => [...dedup.groups].sort((a, b) => b.copies.length - a.copies.length || a.kept - b.kept), [dedup]);
   const [g, setG] = useState(0);
   const [copy, setCopy] = useState<number | null>(null);
+  const [zoom, setZoom] = useState(1);
   const wrong = dedup.pages.filter((p) => !p.correct);
   const group = groups[g];
   const shown = copy ?? group?.copies[0] ?? null;
 
   return (
-    <div className="split">
+    <div className="split dup">
       <div className="left">
         <div className="card">
           <p className="small">
@@ -275,8 +276,8 @@ function DuplicatesTab({ sel, dedup }: { sel: Sel; dedup: DedupView }) {
               ))}
             </div>
             <div className="compare">
-              <PageViewer sel={sel} dedup={dedup} page={group.kept} quote={null} onGoto={() => {}} compact />
-              {shown && <PageViewer sel={sel} dedup={dedup} page={shown} quote={null} onGoto={() => {}} compact />}
+              <PageViewer sel={sel} dedup={dedup} page={group.kept} quote={null} onGoto={() => {}} compact zoom={zoom} onZoom={setZoom} />
+              {shown && <PageViewer sel={sel} dedup={dedup} page={shown} quote={null} onGoto={() => {}} compact zoom={zoom} onZoom={setZoom} />}
             </div>
           </>
         )}

@@ -83,3 +83,17 @@
 .records-app .checks li.ok .mark { color: var(--ok); font-weight: 700; }
 .records-app .checks li.bad .mark { color: var(--bad); font-weight: 700; }
 .records-app .checks li.bad { color: var(--bad); }
+
+/* Page zoom */
+.records-app .zoombar { display: flex; align-items: center; gap: 8px; margin-top: 6px; font-size: 13px; }
+.records-app .zoombar button { width: 28px; height: 26px; border-radius: 6px; border: 1px solid var(--border); background: var(--card); color: var(--text); cursor: pointer; font-size: 16px; line-height: 1; }
+.records-app .zoombar button:disabled { opacity: .4; cursor: default; }
+.records-app .zoombar span:first-of-type { min-width: 40px; text-align: center; }
+.records-app .zoombar a { color: var(--accent); margin-left: 6px; }
+.records-app .sheet-scroll { overflow: auto; margin-top: 6px; }
+.records-app .sheet-scroll.zoomed { max-height: 78vh; border: 1px solid var(--border); }
+.records-app .sheet-scroll .sheet { margin-top: 0; cursor: zoom-in; }
+.records-app .sheet-scroll.zoomed .sheet { cursor: zoom-out; }
+/* Duplicates: narrower group list, wider pages to compare */
+.records-app .split.dup { grid-template-columns: minmax(0, 3fr) minmax(0, 8fr); }
+@media (max-width: 900px) { .records-app .split.dup { grid-template-columns: 1fr; } }

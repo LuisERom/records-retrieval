@@ -35,6 +35,8 @@ export function PageViewer({
   quote,
   onGoto,
   compact,
+  zoom: sharedZoom,
+  onZoom,
 }: {
   sel: Sel;
   dedup: DedupView;
@@ -42,8 +44,13 @@ export function PageViewer({
   quote: string | null;
   onGoto: (p: number) => void;
   compact?: boolean;
+  zoom?: number; // when given, the zoom is shared with another viewer (Duplicates compares two pages)
+  onZoom?: (z: number) => void;
 }) {
   const [boxes, setBoxes] = useState<Box[]>([]);
+  const [ownZoom, setOwnZoom] = useState(1);
+  const zoom = sharedZoom ?? ownZoom;
+  const setZoom = (f: (z: number) => number) => (onZoom ? onZoom(f(zoom)) : setOwnZoom(f));
   const info: PageInfo | undefined = dedup.pages[page - 1];
   useEffect(() => {
     setBoxes([]);
@@ -90,15 +97,30 @@ export function PageViewer({
           “{quote}” {boxes.length ? "" : "(not located on this page image)"}
         </div>
       )}
-      <div className="sheet">
-        <img src={pageUrl(sel.split, sel.case, page)} alt={`Page ${page}`} />
-        {boxes.map((b, i) => (
-          <div
-            key={i}
-            className="hl"
-            style={{ left: `${b.x * 100}%`, top: `${b.y * 100}%`, width: `${b.w * 100}%`, height: `${b.h * 100}%` }}
-          />
-        ))}
+      <div className="zoombar">
+        <button onClick={() => setZoom((z) => Math.max(1, z - 0.5))} disabled={zoom <= 1} aria-label="Zoom out">
+          −
+        </button>
+        <span>{Math.round(zoom * 100)}%</span>
+        <button onClick={() => setZoom((z) => Math.min(3, z + 0.5))} disabled={zoom >= 3} aria-label="Zoom in">
+          +
+        </button>
+        <a href={pageUrl(sel.split, sel.case, page)} target="_blank" rel="noreferrer">
+          Open full size
+        </a>
+        <span className="muted small">or click the page</span>
+      </div>
+      <div className={`sheet-scroll ${zoom > 1 ? "zoomed" : ""}`}>
+        <div className="sheet" style={{ width: `${zoom * 100}%` }} onClick={() => setZoom((z) => (z > 1 ? 1 : 2))}>
+          <img src={pageUrl(sel.split, sel.case, page)} alt={`Page ${page}`} />
+          {boxes.map((b, i) => (
+            <div
+              key={i}
+              className="hl"
+              style={{ left: `${b.x * 100}%`, top: `${b.y * 100}%`, width: `${b.w * 100}%`, height: `${b.h * 100}%` }}
+            />
+          ))}
+        </div>
       </div>
     </div>
   );

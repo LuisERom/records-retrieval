@@ -206,7 +206,7 @@ def page_png(split: str, case: str, n: int) -> bytes:
     with fitz.open(case_dir(split, case) / "records.pdf") as doc:
         if not 1 <= n <= len(doc):
             raise HTTPException(404, "no such page")
-        return doc[n - 1].get_pixmap(dpi=110).tobytes("png")
+        return doc[n - 1].get_pixmap(dpi=160).tobytes("png")
 
 
 @app.get("/api/cases/{split}/{case}/pages/{n}.png")
