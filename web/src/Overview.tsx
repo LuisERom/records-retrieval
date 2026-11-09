@@ -9,17 +9,35 @@ function upTo(text: string | null, stop: string): string {
   return (i >= 0 ? text.slice(0, i) : text).trimEnd();
 }
 
-function Result({ title, saved, cut, read }: { title: string; saved?: Saved; cut?: string; read: string }) {
+// One raw evaluation printout, shown only inside "Exact evaluation output".
+function Raw({ title, saved, cut }: { title: string; saved?: Saved; cut?: string }) {
   if (!saved?.text) return null;
   return (
-    <div className="ov-result">
-      <h3>{title}</h3>
+    <div className="ov-raw">
+      <h4>{title}</h4>
       <div className="cmd">$ {saved.command}</div>
       <pre>{cut ? upTo(saved.text, cut) : saved.text.trimEnd()}</pre>
-      <p className="read">{read}</p>
     </div>
   );
 }
+
+function Metric({ value, label, sub }: { value: string; label: string; sub?: string }) {
+  return (
+    <div className="ov-metric">
+      <div className="v">{value}</div>
+      <div className="l">{label}</div>
+      {sub && <div className="s">{sub}</div>}
+    </div>
+  );
+}
+
+// Duplicate removal (the default method) on files from generators it was never built on.
+const NEVER_SEEN = [
+  { set: "Independent set 2", removed: "57.1%", lost: "0 of 1,227" },
+  { set: "Independent set 3", removed: "22.9%", lost: "2 of 1,032" },
+  { set: "Independent set 4", removed: "81.7%", lost: "1 of 1,361" },
+  { set: "Independent set 5", removed: "80.6%", lost: "12 of 1,223" },
+];
 
 export default function Overview() {
   const [data, setData] = useState<OverviewData | null>(null);
@@ -29,149 +47,139 @@ export default function Overview() {
       .then(setData)
       .catch(() => setData({}));
   }, []);
-  const claude = data?.chronology_claude_test2?.text;
 
   return (
     <div className="ov">
       <h1>Getting a patient's medical records, in two steps</h1>
       <p className="lede">
-        A personal-injury law firm needs a client's complete medical records. Two things make that slow: knowing exactly which
-        office to ask, and making sense of the hundreds of pages that come back. This project builds a small, measured version
-        of each.
+        A personal-injury firm needs a client's complete medical records. Two things make that slow: knowing exactly which office
+        to ask, and making sense of the hundreds of pages that come back. This is a small, measured version of each.
       </p>
 
       <div className="ov-flow">
         <div className="ov-box">
           <div className="ov-step">Step 1</div>
           <h3>Find the provider</h3>
-          <p>
-            The intake form says "NYU Langone ortho, 333 E 38th". Which of 444 registered NYU Langone entities is that? The
-            matcher picks one, or says it can't tell.
-          </p>
-          <a className="ov-go" href="#match/tour">
-            Take the tour
-          </a>
-          <a className="ov-go ghost" href="#match">
+          <p>"NYU Langone ortho, 333 E 38th": which of 444 registered NYU Langone entities is that? It picks one, with its NPI, or says it can't tell.</p>
+          <a className="ov-go" href="#match">
             Try it
+          </a>
+          <a className="ov-go ghost" href="#match/tour">
+            How it works
           </a>
         </div>
         <div className="ov-arrow">→</div>
         <div className="ov-box dim">
           <div className="ov-step">Not built here</div>
           <h3>Send and chase the request</h3>
-          <p>Fax, portal, mail, follow-up calls until the records arrive. That is the slow part of the 30 to 50 days.</p>
+          <p>Fax, portal, mail and follow-up calls until the records arrive.</p>
         </div>
         <div className="ov-arrow">→</div>
         <div className="ov-box">
           <div className="ov-step">Step 2</div>
           <h3>Process the records</h3>
-          <p>
-            About 400 pages arrive, two thirds of them copies. Remove the duplicates without losing anything unique, then build a
-            dated timeline where every entry is checked against its page.
-          </p>
-          <a className="ov-go" href="#records/tour">
-            Take the tour
-          </a>
-          <a className="ov-go ghost" href="#records">
+          <p>About 400 pages arrive, most of them copies. Remove the duplicates, then build a dated timeline where every entry is checked against its page.</p>
+          <a className="ov-go" href="#records">
             Explore a case file
+          </a>
+          <a className="ov-go ghost" href="#records/tour">
+            How it works
           </a>
         </div>
       </div>
 
-      <h2>Results, exactly as the evaluation scripts printed them</h2>
-      {!data && <p className="muted">Loading…</p>}
-      <Result
-        title="Step 1 · Find the provider: 1,000 script-generated held-out queries"
-        saved={data?.matching_generated}
-        cut="matcher v2: of the"
-        read="Read the column 'right when it answered': when the matcher gives an answer it is right 97.9% of the time, against 60.3% for picking the closest name, which never says it can't tell. The queries were generated by a seeded script from registry records (typos, abbreviations, dropped suites and ZIPs, names outside NYU Langone), and no setting was tuned on them. v2 adds one rule to v1: never answer with a pharmacy or a medical-equipment supplier unless the name asks for one."
-      />
-      <Result
-        title="Step 1 · Find the provider: the 163 hand-written test queries"
-        saved={data?.matching_test}
-        cut="matcher v2: of the"
-        read="The original test set, written by hand. v1 was frozen before it was run. Its misses were then inspected, and that is where the pharmacy rule came from, so v2's number here is not a held-out result; the generated set above is."
-      />
-      <Result
-        title="Step 2 · Duplicate removal on a fifth generator it never saw (held out)"
-        saved={data?.dedup_alt5}
-        cut="  of those, with words"
-        read="Run once. v2, the default, removes 80.6% of the duplicates but loses 12 of 1,223 unique pages, its worst result on a never-seen set. Almost all are billing pages: this generator includes a corrected statement that differs from the original in one line, and v2 merges the two. Not fixed."
-      />
-      <Result
-        title="Step 2 · The checker on the fifth generator, after the page-level visit-date rule (held out, no model involved)"
-        saved={data?.checker_alt5}
-        cut="events found by kind"
-        read="The checker now rules out a date that nearby words name as a signature, report, print, receipt, birth or prior-study date. With 30% of answers falsified, 470 of the 472 entries kept are correct; the 2 that got through moved the date onto a dictation line ('T: 14 February 2023', meaning transcribed). With correct answers only, it dropped 13 of 626, mostly because a title like 'PROGRESS REPORT 04/21/23' makes the visit date look like a report date. Each fix closed its gap and the next independent set found the next one."
-      />
-      <Result
-        title="Step 2 · Duplicate removal on the fourth generator it never saw (held out)"
-        saved={data?.dedup_alt4}
-        cut="  of those, with words"
-        read="A fourth agent wrote another generator without seeing any of the code. Run once: v2, the default, removes 81.7% of the duplicates and loses 1 of 1,361 unique pages. v3, which learns each file's own stamps, removes more (86.7%) but loses 8. On both never-seen sets v3 removes more and loses more, and in a legal file a lost page is the costly error, so v2 stays the default."
-      />
-      <Result
-        title="Step 2 · Duplicate removal on files from a generator it never saw: v3, held out"
-        saved={data?.dedup_alt3}
-        cut="  of those, with words"
-        read="Three separate agents each wrote a records generator without seeing the detector's code: their own layouts, date formats, fax and Bates formats, stamps and OCR damage. v3 learns each file's own stamps from copies it is already sure of. It was frozen before this third generator's files were run, once. It removes 67.0% of the duplicates against 22.9% for v2. The cost: 4 of 1,032 unique pages lost, each a look-alike record merged into another (two custodian certifications, a corrected report and its original, two chiropractic visits). Part of the cause: some dates here are written Mar 14, '25 or 20250325, which the date reader does not read yet."
-      />
-      <Result
-        title="Step 2 · The same on the second independent generator: v2, held out"
-        saved={data?.dedup_alt2}
-        cut="content lost by this method v2"
-        read="v2 was frozen before this set was run, once. It removes 57.1% of the duplicates against 35.1% for v1, loses no unique page, and never merges two different pages (pair precision 100%). It leaves 43% in, mostly copies carrying overlay stamps in unfamiliar wordings: the problem v3 was built for. v3 was then developed partly on this set, reaching 62.8% with no page lost."
-      />
-      <Result
-        title="Step 2 · Duplicate removal on this repo's own generator (16 held-out files)"
-        saved={data?.dedup_test2}
-        cut="content lost by this method v2"
-        read="v1 was built on this generator and removes 99.9% here; v2 removes 99.3%. That gap against the row above is the difference between data a method was built on and data it has never seen."
-      />
-      <Result
-        title="Step 2 · The checker on the never-seen files, fed answers with faked quotes and dates (no model involved)"
-        saved={data?.checker_alt2}
-        cut="events found by kind"
-        read="30% of the entries were falsified. Every one that reached the timeline is correct: all faked quotes and dates were dropped. The checker reads dates in most common formats, and when a page labels its date of service, the entry must carry that date."
-      />
-      <Result
-        title="Step 2 · The checker on the fourth independent generator, after the date-reader fix (held out, no model involved)"
-        saved={data?.checker_alt4}
-        cut="events found by kind"
-        read="The third generator showed that the checker could not read dates like Mar 14, '25 or 20250325. The reader was widened and frozen, then run once on this fourth generator, which uses about 30 date styles. With 30% of the answers falsified, 633 of the 637 entries kept are correct. The 4 that got through each moved the date onto the next day's signature line, on a page that labels the visit 'Arrival:' or 'Seen:', labels the checker does not know. Fed only correct answers, the checker dropped none of them."
-      />
-      <Result
-        title="Step 2 · The checker on this repo's own files (no model involved)"
-        saved={data?.checker_test2}
-        cut="events found by kind"
-        read="On this repo's own files: of 369 entries the checker let through, 368 are correct. The one that got through had its date moved onto a lab's report date, on a page where OCR had garbled the label 'Collected', so the checker could not tell which date was the date of service."
-      />
-      {claude ? (
-        <Result
-          title="Step 2 · Timeline extracted by Claude: first 11 of the 16 held-out case files"
-          saved={data?.chronology_claude_test2}
-          cut="events found by kind"
-          read="Claude (Opus 5.5) built the timeline; every entry passed the checker and is scored against the answer key. The run stopped after 11 of the 16 case files when the account's monthly API spending limit was reached, so these numbers cover those 11. The remaining 5 run when the limit resets."
-        />
-      ) : (
-        <div className="ov-result">
-          <h3>Step 2 · Timeline extracted by Claude</h3>
-          <p className="read">
-            Not run yet, so there is no accuracy number for it. Until it runs, the viewer shows a timeline built from the answer key
-            (labelled as such) so the checker and the page highlighting can be seen working.
-          </p>
-        </div>
-      )}
+      <h2>Results</h2>
+      <p className="ov-note">Each number says what it was measured on.</p>
 
-      <h2>How to read this honestly</h2>
-      <ul className="ov-list">
-        <li>No real patient data anywhere. Step 1 uses public registry records; step 2 uses invented patients and providers from a generator in this repo.</li>
-        <li>The test queries and case files were written for this project, and each was split before tuning: the numbers above are on held-out sets that tuning never saw.</li>
-        <li>
-          The first held-out run of the duplicate remover lost 33 unique pages. The flaw was fixed, and because it was found by looking at that test set, the fix was
-          measured on a freshly generated one. Both runs are saved in the repo.
-        </li>
-      </ul>
+      <div className="ov-card">
+        <h3>Step 1 · Find the provider</h3>
+        <div className="ov-metrics">
+          <Metric value="97.9%" label="right when it answers" sub="1,000 test queries" />
+          <Metric value="60.3%" label="for picking the closest name" sub="the simple baseline" />
+          <Metric value="81%" label="of queries answered" sub="the rest: “can't tell”, not a guess" />
+        </div>
+        <p className="ov-read">
+          Queries are real registry records made messy: typos, abbreviations, dropped suites and ZIP codes, and names that aren't NYU
+          Langone at all. A wrong office means a records request that comes back weeks later with nothing, so the matcher would rather
+          say it can't tell.
+        </p>
+      </div>
+
+      <div className="ov-card">
+        <h3>Step 2 · Remove duplicate pages</h3>
+        <div className="ov-metrics">
+          <Metric value="99.3%" label="of duplicates removed" sub="16 case files from this repo's own generator" />
+          <Metric value="16 of 2,269" label="unique pages lost" sub="merged into a look-alike page" />
+        </div>
+        <p className="ov-read">
+          The harder test: case files from four record generators written separately, with their own layouts, stamps, fax headers and
+          scan damage, none of which the method was built on. (Set 1 was used while building it, so it isn't listed.)
+        </p>
+        <table className="ov-table">
+          <thead>
+            <tr>
+              <th>Never-seen files</th>
+              <th>Duplicates removed</th>
+              <th>Unique pages lost</th>
+            </tr>
+          </thead>
+          <tbody>
+            {NEVER_SEEN.map((r) => (
+              <tr key={r.set}>
+                <td>{r.set}</td>
+                <td>{r.removed}</td>
+                <td>{r.lost}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <p className="ov-read muted">
+          Where it falls short: copies carrying stamps in wordings it has never seen stay in (set 3), and a corrected billing statement
+          can be merged into the original (most of set 5's losses).
+        </p>
+      </div>
+
+      <div className="ov-card">
+        <h3>Step 2 · Build the timeline</h3>
+        <div className="ov-metrics">
+          <Metric value="351 of 352" label="visits, tests and procedures found" sub="11 held-out case files" />
+          <Metric value="0" label="entries invented" sub="351 of 351 correct" />
+          <Metric value="99.8%" label="citations on the right record" sub="829 of 830" />
+        </div>
+        <p className="ov-read">
+          Claude reads the kept pages and returns each entry with the page and the exact words it relied on. Then code, not the model,
+          checks every entry: the quote must be on the cited page, and the date must be the visit's date, not a signature or fax date.
+          Entries that fail are dropped.
+        </p>
+        <p className="ov-read muted">
+          The check, tested on its own on a never-seen generator with 30% of answers deliberately falsified: 470 of the 472 entries it
+          kept were correct. It also dropped 13 of 626 correct entries, mostly where a title like "PROGRESS REPORT 04/21/23" makes the
+          visit date look like a report date.
+        </p>
+      </div>
+
+      <details className="ov-details">
+        <summary>Exact evaluation output</summary>
+        <p className="ov-read muted">Printed by the evaluation scripts and saved in the repo; the numbers above come from these.</p>
+        {!data && <p className="muted">Loading…</p>}
+        <Raw title="Find the provider: 1,000 generated test queries" saved={data?.matching_generated} cut="matcher v2: of the" />
+        <Raw title="Duplicate removal: 16 case files from this repo's generator" saved={data?.dedup_test2} cut="content lost by this method v2" />
+        <Raw title="Duplicate removal: independent set 2" saved={data?.dedup_alt2} cut="content lost by this method v2" />
+        <Raw title="Duplicate removal: independent set 3" saved={data?.dedup_alt3} cut="  of those, with words" />
+        <Raw title="Duplicate removal: independent set 4" saved={data?.dedup_alt4} cut="  of those, with words" />
+        <Raw title="Duplicate removal: independent set 5" saved={data?.dedup_alt5} cut="  of those, with words" />
+        <Raw title="Timeline built by Claude: 11 held-out case files" saved={data?.chronology_claude_test2} cut="events found by kind" />
+        <Raw title="The check, with 30% of answers falsified: independent set 5" saved={data?.checker_alt5} cut="events found by kind" />
+        <p className="ov-read muted">
+          The tables also list earlier versions of each method ("v1", "v3"). The default is v2. How each version was built and tested,
+          and why, is in the repo README.
+        </p>
+      </details>
+
+      <p className="ov-foot">
+        No real patient data: step 1 uses public NPI Registry records; step 2 uses invented patients and providers.{" "}
+        <a href="https://github.com/LuisERom/records-retrieval">Code and full write-up on GitHub</a>.
+      </p>
     </div>
   );
 }

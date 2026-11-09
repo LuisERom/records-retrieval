@@ -17,7 +17,7 @@ const SECTIONS: { id: Section; step: string; label: string; note: string }[] = [
     id: "records",
     step: "2",
     label: "Process the records",
-    note: "What came back? Duplicate pages removed without losing unique content, then a medical chronology where every entry is checked against the page it cites.",
+    note: "What came back? Duplicate pages removed, then a dated timeline where every entry is checked against the page it cites.",
   },
 ];
 

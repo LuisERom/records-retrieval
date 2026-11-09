@@ -158,3 +158,28 @@ body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 syst
   .shell-bar { position: static; }
   .shell-note { display: none; }
 }
+
+/* Overview: results first */
+.ov-note { font-size: 13px; color: var(--muted); margin: -4px 0 12px; }
+.ov-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; }
+.ov-card h3 { margin: 0 0 12px; font-size: 16px; }
+.ov-metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; margin-bottom: 12px; }
+.ov-metric { background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 12px; }
+.ov-metric .v { font-size: 26px; font-weight: 700; line-height: 1.1; }
+.ov-metric .l { font-size: 13px; margin-top: 4px; }
+.ov-metric .s { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.ov-read { font-size: 14px; line-height: 1.5; margin: 0 0 10px; max-width: 860px; }
+.ov-read.muted, .ov .muted { color: var(--muted); }
+.ov-table { border-collapse: collapse; font-size: 14px; margin: 4px 0 12px; min-width: 420px; }
+.ov-table th, .ov-table td { text-align: left; padding: 6px 14px 6px 0; border-bottom: 1px solid var(--border); }
+.ov-table th { font-size: 12px; color: var(--muted); font-weight: 600; }
+.ov-details { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 18px; margin: 18px 0 14px; }
+.ov-details summary { cursor: pointer; font-weight: 600; font-size: 15px; }
+.ov-details[open] summary { margin-bottom: 10px; }
+.ov-raw { margin-bottom: 14px; }
+.ov-raw h4 { margin: 0 0 2px; font-size: 14px; }
+.ov-raw .cmd { font: 12px ui-monospace, Consolas, monospace; color: var(--muted); }
+.ov-raw pre { font: 12px/1.45 ui-monospace, Consolas, monospace; background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px; overflow-x: auto; margin: 6px 0 0; }
+.ov-foot { font-size: 13px; color: var(--muted); }
+.ov-foot a { color: var(--accent); }
+@media (max-width: 760px) { .ov-flow { grid-template-columns: 1fr; } .ov-arrow { transform: rotate(90deg); justify-self: center; } .ov-table { min-width: 0; width: 100%; } }

@@ -7,7 +7,7 @@ import RecordsWalkthrough from "./RecordsWalkthrough";
 export default function App({ tour = false }: { tour?: boolean }) {
   const [cases, setCases] = useState<CaseInfo[]>([]);
   const [sel, setSel] = useState<Sel | null>(null);
-  const [tab, setTab] = useState<"how" | "chronology" | "duplicates">("how");
+  const [tab, setTab] = useState<"how" | "chronology" | "duplicates">(tour ? "how" : "chronology");
   useEffect(() => {
     if (tour) setTab("how");
   }, [tour]);
@@ -53,7 +53,7 @@ export default function App({ tour = false }: { tour?: boolean }) {
         <div className="title">
           <h1>Process the records</h1>
           <p className="muted">
-            Duplicate pages removed without losing unique content, then a medical chronology where every entry is
+            Duplicate pages removed, then a dated timeline where every entry is
             checked against the page it cites. Synthetic case files; no real patient data.
           </p>
         </div>
@@ -66,13 +66,13 @@ export default function App({ tour = false }: { tour?: boolean }) {
               setSel({ split, case: c });
             }}
           >
-            {["test2", "alt5", "alt4", "alt3", "alt2", "alt", "test", "dev"].map((s) => (
-              <optgroup key={s} label={{ test2: "test2 (held out)", alt5: "alt5 (independent generator #5, held out)", alt4: "alt4 (independent generator #4, held out)", alt3: "alt3 (independent generator #3, held out for v3)", alt2: "alt2 (independent generator #2, held out for v2)", alt: "alt (independent generator #1)", test: "test (first held-out run)", dev: "dev (used for tuning)" }[s] ?? s}>
+            {["test2", "alt2", "alt3", "alt4", "alt5"].map((s) => (
+              <optgroup key={s} label={{ test2: "Main test set (this repo's generator)", alt2: "Independent set 2 (never-seen generator)", alt3: "Independent set 3 (never-seen generator)", alt4: "Independent set 4 (never-seen generator)", alt5: "Independent set 5 (never-seen generator)" }[s] ?? s}>
                 {cases
                   .filter((c) => c.split === s)
                   .map((c) => (
                     <option key={c.case} value={`${c.split}|${c.case}`}>
-                      {c.case} · {c.patient} · {c.pages} pages
+                      {c.patient} · {c.pages} pages
                     </option>
                   ))}
               </optgroup>
@@ -82,7 +82,7 @@ export default function App({ tour = false }: { tour?: boolean }) {
       </header>
 
       {error && <div className="card error">{error}</div>}
-      {loading && <div className="card muted">Loading case file…</div>}
+      {loading && <div className="card muted">Removing duplicate pages and checking the timeline for this case file. This takes 10 to 20 seconds the first time.</div>}
 
       {dedup && chron && sel && info && (
         <>
@@ -96,19 +96,19 @@ export default function App({ tour = false }: { tour?: boolean }) {
               sub="by the answer key"
               tone={dedup.lost.length ? "bad" : "good"}
             />
-            <Stat label="Chronology entries" value={chron.entries.length} sub={`${chron.events_found} of ${chron.events_in_key} encounters in the key`} />
+            <Stat label="Timeline entries" value={chron.entries.length} sub={`${chron.events_found} of ${chron.events_in_key} encounters in the key`} />
             <Stat label="Dropped by the checker" value={chron.dropped.length} tone={chron.dropped.length ? "warn" : undefined} />
           </section>
 
           <nav className="tabs">
-            <button className={tab === "how" ? "on" : ""} onClick={() => setTab("how")}>
-              How it works (step by step)
-            </button>
             <button className={tab === "chronology" ? "on" : ""} onClick={() => setTab("chronology")}>
-              Chronology ({chron.entries.length} entries)
+              Timeline ({chron.entries.length} entries)
             </button>
             <button className={tab === "duplicates" ? "on" : ""} onClick={() => setTab("duplicates")}>
               Duplicates ({dedup.groups.length} groups)
+            </button>
+            <button className={tab === "how" ? "on" : ""} onClick={() => setTab("how")}>
+              How it works (step by step)
             </button>
           </nav>
 
